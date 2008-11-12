@@ -1,0 +1,2 @@
+h1. Moblog No More
+As I’ve moved from engine to engine and host to host, I’ve quietly ignored the fact that my moblog archive was missing many photos.  Seeing as how there was nothing of particular artistic or sentimental value in that category, I’ve removed all moblog posts.

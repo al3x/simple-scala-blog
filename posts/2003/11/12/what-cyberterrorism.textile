@@ -1,0 +1,5 @@
+h1. What Cyberterrorism?
+
+Gartner "is all like":http://rss.com.com/2100-7355_3-5105732.html, “uh, there totally hasn’t ever been a known incident of cyberterrorism.  Like ever.  Dude.  Never.”  And folks looking to pad their budgets are like, “but dude dude dude they could totally 0wnz0r us like tomorrow!”  And Gartner is like, “dude, seriously.  I mean, c’mon.”
+
+What do I think?  Cyberterrorism is a definite buzzword and should be approached with extreme skepticism.  That said, it’s always better to be paranoid than, you know, dead.  There’s a middle ground, and you sure won’t find it in Symantec’s pitches to Homeland Security.  Grain of salt, move along.

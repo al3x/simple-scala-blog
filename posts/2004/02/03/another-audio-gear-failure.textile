@@ -1,0 +1,19 @@
+h1. Another Audio Gear Failure
+I’ve been over this bullshit before.  Computer musicians want a portable %(=caps)USB% or FireWire %(=caps)MIDI% unit that provides a keyboard, some assignable controllers, and a multichannel audio interface.  Most computer musicians need multiple outputs, and they need a dedicated headphone output for pre-listening, a feature essential to digital DJ applications and live performance software like Ableton Live.
+Nobody has yet built a device that does this, despite the components being readily available and no engineering barriers hindering such a product’s development.  M-Audio came close with their Ozone, and it seemed on spec like Edirol got it right with their "%(=caps)PCR%-1":edirol.com/products/info/pcr1.html.
+But Edirol fucked it up.  I just got this email from their sales department:
+bq. 
+
+Hi there,
+The headphone output mirrors the %(=caps)RCA% output on the %(=caps)PCR%-1.
+Kindly,
+Chris Douglass
+%(=caps)LEAD PRODUCT SPECIALIST%
+360.594.4273X213 phone
+360.594.4271 fax
+
+
+That means that the headphone output is exactly the same as the %(=caps)RCA% output.  It carries the same signal.  Other than having a different plug, it is wholly superfluous.  That makes the %(=caps)PCR%-1 all but worthless to me and many other computer musicians.
+If anybody in the music technology industry is listening, please wake the fuck up and listen to your customers.  In the meantime I’m still not buying your crappy, bulky, overpriced controllers and audio interfaces separately.  Do you get me?  You don’t get two sales because you built a product that doesn’t properly do the integration it should.  You get no sale.  Nothing.  No dollars.
+Stop fucking up.
+*%(=caps)UPDATE%:* One company has gotten it half-right.  The "Novation Remote 25 Audio":http://www.audiomidi.com/common/cfm/product.cfm?Product_ID=4401 does everything I want and then some.  That’s the right half.  The wrong half is that the Remote 25 Audio is $799 street.  Don’t get me wrong, it’s a quality bit of gear and probably worth it, but I’m not prepared to pay the extra $500 for all that “and then some.”  Owned.

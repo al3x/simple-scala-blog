@@ -1,0 +1,5 @@
+h1. On Google Talk
+Thankfully, Wired News already "wrote pretty much what I was going to":http://wired.com/news/print/0,1294,68642,00.html about "Google Talk":http://talk.google.com.  In short, it’s so rudimentary that it almost doesn’t matter.
+It’s disappointing that Google continuously treats Mac users as second-class citizens, and the Windows-only Talk is no exception.  Sure, it’s just a Jabber server, and I can chat with Talk users via iChat, Adium, or the like.  Doing so means I can’t take advantage of Talk’s voice chat, however, and that’s its only advanced feature.
+I could see Talk getting interesting if their next version works on multiple platforms, actually has significant interface improvements over other IM clients, and bridges networks (Google Talk &lt;-&gt; %(=caps)AIM%, or Google Talk &lt;-&gt; %(=caps)MSN%, for example).
+Until then, Google is starting to run the risk of matching Microsoft not only in its behemoth size and pervasiveness, but in the blandness of its offerings as well.  

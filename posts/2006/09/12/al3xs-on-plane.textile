@@ -1,0 +1,5 @@
+h1. al3xs On A Plane
+We leave for London later today, and I get to re-discover the joys of red eye flights, albeit with Jack Daniels and melatonin this time around (I was maybe 15 last time I went to the UK).  Wednesday we do touristy stuff, Thursday and Friday I’m at "RailsConf Europe":http://europe.railsconf.org while Timoni explores the city on her own, and then tourism resumes for me over the weekend.  We return next Tuesday.
+I’m happy with how my talk for RailsConf has come together.  There looks to be lots of good content at the conference, and I’m happy they finally "sold out":http://weblog.rubyonrails.org/2006/9/9/railsconf-europe-sold-out-and-almost-here.  It’ll be interesting to see the differences between hacker cons and more, uh, “professional” conferences.
+On the same topic, I’m registered to attend the aforementioned-on-this-blog "C4":http://c4.rentzsch.com/0/ conference in Chicago next month.  I hope I’m not taking a slot from a real actual Mac developer, but I’ll try to make up for that by noteblogging the hell out of the respective talks.
+It’s nice to be traveling regularly again!

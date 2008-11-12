@@ -1,0 +1,7 @@
+h1. EMusic Has Forsaken Us
+
+There was a time when "Emusic":http://www.emusic.com/ offered unlimited downloads of legitimate MP3s for $9.95 per month.  It was good.  Many small, quality labels offered some or all of their catalogues to this endeavor, and subscribers were rarely left wanting.  I pimped, informally, for EMusic and signed up nearly all my %(=caps)MP3%-savvy friends.  Again: it was good.
+
+It is no longer good.  Come November 7th that $9.95 a month will get you a paltry 40 downloads per month, and you can only download files via Emusic’s miserable provided Download Manager, which while available for many platforms is utter crap.  In attempting to grab all the music I’ve ever wanted off their servers before the cutoff I’ve had to re-download many the dropped track, as the Download Manager rather regularly deems a file “complete” and writes a 0 kilobyte file to disk, moving on to the next in blissful ignorance.  Shoddy.
+
+I take back all those nice things I said about EMusic.  I understand that the digital music marketplace has changed, what with the iTunes Music Store and all, but I predict that Emusic is pretty much going to gut its subscriber base with this dim move.  C’mon people.  Damn.

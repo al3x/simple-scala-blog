@@ -1,0 +1,3 @@
+h1. The Reaktor 4 Saga
+
+Okay, maybe it’s not much of a saga.  But the damn thing has been delayed for like _ever_.  Since Reaktor 3 users were promised some critical bug fixes many moons ago, some irate Native Instruments customers are calling Reaktor 4 an update that’s been years in the making.  But you know it’s gotten bad when, 24 hours before the update is supposed be updated online, Reaktor users close to NI’s headquarters in Berlin are "planning road trips":http://www.nativeinstruments.de/forum/showthread.php?s=8a35a70dcf203c6a5c867856374f80c4&amp;threadid=4057 to assault the NI staff if it’s delayed any longer.

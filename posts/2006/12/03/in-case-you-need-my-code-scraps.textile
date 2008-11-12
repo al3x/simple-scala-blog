@@ -1,0 +1,18 @@
+h1. In Case You Need My Code Scraps
+Since rejiggering my domain recently, Id been running "code.al3x.net":http://code.al3x.net/ on "Collaboa":http://collaboa.org/, a Rails-based "Trac":http://trac.edgewall.com/ clone.  However, the Collaboa project doesnt seem to be going anywhere fast, despite an announcement of renewed activity.  In response, a frustrated Collaboa user announced a fork called "Retrospectiva":http://www.retrospectiva.org/, which I switched to a couple days ago.
+Retrospectiva is quite full-featured for a beta release.  It already goes a ways beyond Collaboa, and even Trac in some respects (the blog extension, for example).  Retrospectiva isnt production-ready, though, so for the time being code.al3x.net is simply serving up plain ol Apache-powered Subversion.
+Im so taken with Nginx that I decided to keep it as my public-facing %(=caps)HTTP% server.  I just run an Apache virtual host for Subversion on a high port and and tell Nginx to proxy to it like so:
+<pre>
+server {
+listen 80;
+server_name code.al3x.net;
+location / {
+rewrite ^/ /svn/  permanent;
+}
+location /svn/ {
+proxy_pass http://127.0.0.1:8010;
+}
+}
+</pre>
+The rewrite bounce on / is thanks to httpd stupidness: you cant serve up a repository index  that plain Collection of repositories page youve probably seen around  from Location / as best I can tell.  Various attempts to Alias or Redirect in my Apache configuration didnt prove fruitful, but Nginx works like a champ.
+At some point Ill move back to Retrospectiva or Trac or the like, but theres simply not enough code there right now to worry about it.

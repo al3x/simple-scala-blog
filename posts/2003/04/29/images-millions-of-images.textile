@@ -1,0 +1,3 @@
+h1. Images, Millions of Images…
+
+Go go gadget Lazyweb!  "iTunes 4":http://www.apple.com/itunes/ can now display album art alongside songs and albums, but you have to put it in by hand.  "Synergy":http://synergy.wincent.org/, which extends iTunes in various ways, can display a little %(=caps)MTV%-style bar with the artist, album, year, and – you guessed it – album art that it automatically fetches from Amazon.com.  So, Lazywebbers, is there some way to automate the process of seeking out album art on the Web for all the albums in an iTunes library and then applying it?  AppleScript-able?  Hack the %(=caps)XML%-formatted iTunes library file?  You tell me!

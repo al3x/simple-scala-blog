@@ -1,0 +1,8 @@
+h1. Compulsory Licensing Makes Me Cringe
+
+The "%(=caps)EFF%":http://www.eff.org’s Fred von Lohmann suggests in a "Daily Princetonian editorial":http://www.dailyprincetonian.com/archives/2003/04/14/opinion/7930.shtml that a compulsory license is a good solution to the peer-to-peer piracy problem.  Sorry Fred, you know I love you %(=caps)EFF% kids (and the "super-DMCA analysis":http://www.eff.org/IP/DMCA/states/200304_sdmca_eff_analysis.php is superb), but you missed the boat on this one.
+
+There are a bunch of problems with compulsory licensing, which is generally conceived as a flat fee on Internet access that gets passed on to artists via some mechanism.  Of course, making sure the right people get compensated in proportion means doing what the %(=caps)RIAA% does now: policing file-sharing services.  And, as is rarely discussed when people bring this issue up, how are independent musicians who have no %(=caps)RIAA% representation remunerated?  What if the artists _want_ people to be sharing their music for free?  And, more important than all of the music world concerns, what about those Internet users who don’t ever touch file-sharing?  I see no reason why my father, who uses the Net solely for email and browsing, should be penalized for people like me who make the occasional illegitimate download (along with a bunch of "legitimate ones":http://www.emusic.com).
+
+And don’t give me any lines about this being a sort of tax for “netizens”: for most of the world, the Internet is a service, a means to various ends, *not* a community or society.  It seems a task too technically and politically complex to regard as a good solution.  Let’s keep thinking, folks.
+

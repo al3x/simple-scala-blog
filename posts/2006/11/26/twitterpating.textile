@@ -1,0 +1,10 @@
+h1. Twitterpating
+I didnt really get "Twitter":http://www.twitter.com/ at first blush, but its growing on me.  Maybe its just the welcoming glow of a young online community populated by cheerful early adopters, but theres something wholesome about the site.  It has the honesty of early blogging, when the idea of keeping a public record of your day-to-day life was still exciting.
+Weve since discovered that blogging is far too _long_ a form for such mundanity, but Twitters 160 characters are the ideal length for terse, informative updates about ones life.  Its the personal activity equivalent of "del.icio.us":http://del.icio.us/.  I want to see what my friends are finding on the web, but I dont necessarily want to see a whole blog post about each link.
+There are a couple of things that I think Twitter could benefit from:
+
+Integration with %(=caps)AIM% status messages.  Many of my friends use iChat or other IM clients that allow them to set their available statusthat is, an away message without marking yourself as away.  These status messages perform much the same function of Twitter, albeit without the sense of a timeline and other social aspects of the site.  Only having to set my status once would be nice.
+Integration with "Feedburner":http://www.feedburner.com/.  Id like to see Twitter updates mashed into friends combined blog + del.icio.us + Flickr ego feeds.
+
+Those are both fairly particular uses for a service thats surprisingly robust given its youth and refreshing single-mindedness.  The site is really what you make of it once youve joined.
+You can drop in on "my twittering":http://twitter.com/al3x if youre so inclined.

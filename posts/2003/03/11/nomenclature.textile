@@ -1,0 +1,7 @@
+h1. Nomenclature
+
+So, I’d really like some honest-to-god feedback here.  There are 3,200 results for a Google search for “al3x,” and many times that for “alex payne.”  If I want something people can easily track down neither name/URL derivation is ideal, though I rank 7th for “al3x.”  So, that said, should I keep this whole “al3x” thing going?
+
+Practically, it’s somewhat awkard: geeks get the number thing, most people don’t; it looks terrible with proper capitalization (“Al3x.” see?  awful); and every sysadmin with an eastern european last name seems to have dubbed themselves “al3x” as well.  I’m not sure, as a name to release records under, it does anything other than confuse (“how do you say his name?  al-three-ex?  that’s some crazy Autechre-type shit…”).
+
+As a bit of personal nomenclature, I’m somewhat divided: I still feel geeky enough to have a number in my name most days, but apparently so do another of other people who employ it in exactly the same open source/tech community forums.  I guess the ultimate question is twofold: (1) should I release records under my “real” name, or as al3x, or something else? and (2) should I keep calling myself al3x, or give it and associated things like this domain name up (and where does this blog go if I do)?  Comments, please.

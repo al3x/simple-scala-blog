@@ -1,0 +1,4 @@
+h1. Divulge To Me Your Favorite Blogs
+I’m working on a post about some of my favorite daily reads.  I’d love to know what feeds brighten up your day.
+If you’ve got a blog, please consider writing your own post about this.  If you don’t, leave a comment.  Either way I’ll link you up.
+Just "sharing your %(=caps)OPML%":http://share.opml.org/ doesn’t provide enough context.

@@ -1,0 +1,3 @@
+h1. Three Mac Pieces, #3: Pages Is Awesome
+I’ve spend the last four weeks using "Pages":http://www.apple.com/iwork/pages/ for hours and hours every day and it’s awesome.  And by awesome I mean like totally sweet it automatically handles generating a table of contents from the lines you’ve styled as headings and sub-headings.  Don’t even get me started on how great section breaks are.  
+My words are processed _so hard_.

@@ -1,0 +1,7 @@
+h1. Text Only, Etc.
+
+Chris’s %(=caps)CSS% link buttons ended up not looking quite right across browsers, so I’ve ditched ‘em for plain text links.  It makes for a lot of text, but that’s what blogs are all about (and if "Adam":http://crossroads.net/a/index.php can do it, why can’t I?).
+
+I’ve also ditched the __link__ to the %(=caps)RSS 1%.0 feed, but the feed itself remains.  I’m trying to ween people off of it but a fair number of you batards are persistant in subscribing to it.  Evolving standards, people, c’mon!  ;-)
+
+At any rate all these changes may be short-lived if my sooper-secret blog plans come to fruition.  And summer is a good season for fruition…

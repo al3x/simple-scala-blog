@@ -1,0 +1,3 @@
+h1. Tonight’s Show: Proper DJ Mix
+
+Tonight is the test of what I think/hope/pray is a working software+hardware setup.  I’m running Traktor on the iBook to a hardware DJ mixer via a Gigaport %(=caps)AG USB% audio interface, so the software acts like CD decks and I do the actual mixing, oddly enough, on the mixer.  Makes more sense than trying to use the software mixer with inferior %(=caps)MIDI% controls.  Traktor is still a buggy %(=caps)POS%, though, and there’s not a decent alternative out there.  So, hopefully things will go well, and if so you can expect more proper mixes.  If things blow up in my face, expect complaining.  Oh, and the music?  All over the place.  Tune in, radio or streaming %(=caps)MP3%, at "%(=caps)WMBC%":http://wmbc.umbc.edu.  Wish me luck.

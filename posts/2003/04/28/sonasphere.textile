@@ -1,0 +1,3 @@
+h1. Sonasphere
+
+Nao Tokui’s "Sonasphere":http://www.dropcontrol.com/~naotokui/sonasphere/ software is insanely great.  Position audio and effects as spheres in 3D space, then rock some physics on said spheres.  You can then hear the “collisions” and so forth.  Endless potential.  Hats off, Mr. Tokui.

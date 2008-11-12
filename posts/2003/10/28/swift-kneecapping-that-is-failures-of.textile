@@ -1,0 +1,7 @@
+h1. The Swift Kneecapping That Is Failures of Backwards Compatibility
+
+"iTerm":http://iterm.sourceforge.net/ has issues with Panther.  It had a couple issues before, like not writing multiple line terminal output to the screen correctly, but now it just hangs when your shell commands get lengthy.  I’ve come to rely on iTerm quite a lot since Cory Doctorow popped it over to me via Rendezvous iChat at ToorCon last month.  Tabs and bookmarks are pretty crucial when you’re on a bunch of servers pretty much all the time.  So iTerm not working is a swift kneecapping for me: debilitating, and leaving me looking for a crutch.
+
+I can’t be too bitter at the Big Apple, though.  Steve gave developers ample time to get their apps Panther-ready, and iTerm seems to follow a positively _glacial_ development cycle.  Everything else in my arsenal works like a bomb with 10.3.
+
+So, uh, anybody got a better tabbed terminal emulator for %(=caps)OS X%?  Anyone?  Bueller?  It ain’t GLTerm, so don’t even start bullshitting on Front Street.

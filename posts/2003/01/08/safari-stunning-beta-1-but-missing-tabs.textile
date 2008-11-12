@@ -1,0 +1,14 @@
+h1. Safari: Stunning Beta 1, But Missing Tabs
+
+J’adore Safari. It was love at first sight, with its sleek metal interface and ultrafast page
+rendering. It just screams _Apple_, and %(=caps)OS X% needed a browser with that degree of sheer
+sexiness.
+
+That said, Safari lacks the best feature of Opera and Chimera, the two other rebel
+browsers: tabs. Tabs make a lot of sense for a browser: most people usually open several pages. Why
+give each page its own window, repeating all the navigational controls and littering the screen? Why
+not tabs, to switch easily between pages? Chimera does this with superb results. So if you miss this
+in Safari, sign "the petition":http://www.petitiononline.com/safaritb/petition.html. Apple tends to
+be pretty responsive about these things.
+
+Now, back to the jungle…

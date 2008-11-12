@@ -1,0 +1,5 @@
+h1. The Nature of My Degree, About Page Update
+
+I met with my academic advisor this morning, and amidst figuring out my fall schedule we talked about how my interdisciplinary degree is working/going to work.  Technically, I don’t submit a “major proposal” until I’ve got 60 credits under my belt, so the final details are a ways off.  But I was informed that I’m not looking at a BS, but rather a BA.  You have to take a heck of a lot of natural/computer science courses to get an interdisciplinary BS.  My course of study gets the majority of its tech material from the Information Systems program here, and %(=caps)IFSM% classes aren’t a science credit like formal Computer Science is.  I suppose it’s not a problem, since I’m not looking for a programming job when I get out of school.  But, should I need to due a bad economy or whathaveyou, it’ll be that much harder.  Hmm.
+
+At any rate, my "“about”":http://www.al3x.net/about.html page has been updated accordingly, and some of the biographical information made generally more readable.  Ah, the delights of formal education.

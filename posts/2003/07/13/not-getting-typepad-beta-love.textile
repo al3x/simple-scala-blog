@@ -1,0 +1,6 @@
+h1. Not Getting TypePad Beta Love
+
+But geez Anil, you didn’t have to "be a dick about it":http://www.dashes.com/anil/index.php?archives/006677.php ;-)
+Seriously though, those Six Apart cats are doing some seriously cool stuff with TypePad, including generating %(=caps)FOAF% files for all TypePad users; that’s the first ever large base of %(=caps)FOAF% files pretty much ever.  This could mean great things for interoperability and social connections between the hip “everybloggers” who’ll be using TypePad and the hardcore folks we expect to use "Sexxi":http://sexxi.al3x.net/.  Is Sexxi competition for TypePad?  Hell no: we’re not hosted, we don’t have Six Apart’s experience and resources, and we just aren’t that cool.  Is it competition for the install-it-yourself Moveable Type?  Maybe, but only for the breed of personal user who likely isn’t paying for MT anyway.
+
+But as for my general impressions of TypePad gleaned through screenshots and word of mouth, let me put it this way: if I wasn’t crazy/stupid enough to be developing my own content management system, I’d be all over TypePad in a heartbeat.  Maybe the next round of beta testing…

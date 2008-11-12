@@ -1,0 +1,23 @@
+h1. Tip: Easy-Access LaunchBar Terminal “Bookmarks”
+
+Here’s a very little but very useful tip for you Mac %(=caps)OS X 10%.3 users who use the fantastic "LaunchBar":http://www.obdev.at/products/launchbar/ utility and frequently connect to remote servers via the Apple-provided Terminal application:
+
+# Create a folder somewhere cozy in your home directory and it “Remote Servers”, “SSH Servers”, “Shells”, or something of that ilk.
+# In Terminal, open a new terminal window with color and font settings you like and go to File -&gt; Save As…
+# Select the radio button in the lower portion of the Save dialog next to “Execute This Command,” and enter in the associated text field, with the appropriate substitutions:
+
+  @/usr/bin/ssh _username_@_your.server.com_@
+
+Whether or not to run the %(=caps)SSH% process in a shell depends on if you want the window just disappearing when you log out of the remote server (don’t run in a shell) or want it to linger about telling you that it’s done its duty (do run in a shell).
+
+# Give this terminal file the name of @your.server.com@.
+# Repeat as necessary for all servers you frequently connect to.
+# Now in LaunchBar, go to Configuration -&gt; Open Configuration and click the “Add…” button, followed in the next dialog by the “Custom” option.
+# Select the folder you created in Step 1.
+# Once your folder appears in the list of directories that LaunchBar scans, click on it and in the drop-down details palate set Scan Type to “Any File.”  Save your configuration and tell LaunchBar to scan the selected item.
+
+You’re now able to open a connection to your most-used remote servers with a mere Command-Space and the first few letters of the server name!  LaunchBar will present you with your Terminal file(s), and simply hitting Return will launch a new Terminal window containing a new %(=caps)SSH% connection to that remote machine.
+
+If you really want to streamline your remote work, consider generating an %(=caps)SSH% keypair and uploading your public key as an authentication token: you’ll be automatically logged in on supported servers!  "Here is":http://www.cs.utk.edu/~england/ssh.html a solid tutorial on this process, and many others can be found.
+
+For more Mac %(=caps)OS X% tips and tricks see "Mac %(=caps)OS X% Hints":http://www.macosxhints.com/.  Enjoy!

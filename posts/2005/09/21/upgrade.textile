@@ -1,0 +1,11 @@
+h1. Upgrade
+I haven’t killed the blog.  In fact, I upgraded to a newer version of "Typo":http://typo.leetsoft.com/ this evening.  I’m not crazy about Typo, but now’s not the time to write yet another %(=caps)DIY% blog engine.
+The stylesheet included in Typo’s default theme was an absolute mess, and 90% of the time spent upgrading was cleaning it up to make my own “theme.”  The site should look mostly like it did before.  Let me know if stuff’s broken for you.
+Comments and trackbacks are both enabled, as Typo claims to have excellent comment spam protection.
+The best advice I got on whether or not to ditch the blog was:
+bq. 
+“you don’t seem to have any cause or focus (music, media, politics, dc culture) that any other blogs cover, and if you don’t have time to find one, why torture yourself?
+“you don’t allow comments, which makes it harder to create a community around yours and the writings/rants of your friends on their blogs (if they do such a thing).
+“so either write about things you want (music, technology, etc etc) and let people discuss them, link to relevant discussions, and foster the community that I know you like the theory of, or just create another vanity webpage.”
+
+I haven’t really decided what to do with said advice, but there it is.

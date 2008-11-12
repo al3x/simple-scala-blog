@@ -1,0 +1,7 @@
+h1. Open Source in Government, Open Source for Better Government
+--- 
+- p. A couple items caught my eyes in the ol’ tech/government vein.
+The first, via "Warren Ellis":http://www.diepunyhumans.com/, is a "list":http://partnerships.typepad.com/civic/2004/01/top_10_open_sou.html of the top ten open source tools for electronic activism.  There are some powerful tools there, whether you’re trying to just get your niche issue across or, say, run an entire campaign.
+The second is a Linux Journal "report":http://linuxjournal.com/article.php?sid=7131 on the increasing presence of the %(=caps)LAMP% (Linux + Apache + MySQL + %(=caps)PHP%/Perl/Python) platform powering government websites and online resources.  It’s mostly the doing of shops that G-men contract out to, but it’s still a Good Thing.
+I don’t want to count my chickens before they hatch, but I may be having a fair bit to do with these sorts of things shortly, if all goes well.  Exciting stuff.
+

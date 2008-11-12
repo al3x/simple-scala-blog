@@ -1,0 +1,12 @@
+h1. Fit To Print
+Holy cats.  The end of "Phrack":http://www.phrack.org/ made "the beeb":http://news.bbc.co.uk/2/hi/technology/4657265.stm.
+The bit at the end is cute:
+bq. 
+“I’d be surprised to see the thing stay dead,” [Bruce
+Sterling] told the %(=caps)BBC% News website, “They’ve got no
+fixed address and anonymous contributors.”
+“Any set of unruly teenagers could start Phrack
+up because that’s who started it in the first place.”
+
+A set of unruly teenagers hit the reset button on Phrack while it was still in “publication.”  Their efforts are still "floating about":http://hysteria.sk/chroot/PHC/.
+Not to get misty, but it is the end of an era.  Some of the most important texts in information security found distribution via Phrack.  It proved that the community could do better than "2600":http://www.2600.com/.

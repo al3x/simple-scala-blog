@@ -1,0 +1,3 @@
+h1. A del.icio.us Poll
+I’ve had a couple of requests to _not_ include my daily "del.icio.us links":http://del.icio.us/al3x in this blog’s feed.
+Would you prefer links or no links?  Please vote via comment.

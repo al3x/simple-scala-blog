@@ -1,0 +1,4 @@
+h1. The Usual Upgrade Ish
+I tried to upgrade "Typo":http://typo.leetsoft.com to the latest release (2.6.0) but it refused to migrate my database from the version my old Subversion checkout was using.  Oddly, a more current version from trunk was able to perform the database upgrade, albeit with the loss of comments and trackbacks.  They’re still in the database but are not, for no discernable reason, being displayed.  Apparently the new database migrations feature – or at least Typo’s use thereof – could use some work. I will attempt to remedy the lack of archived comments in the next couple days.
+The rest of the site, meanwhile, seems to be a bit zippier.  Rails applications do not perform brilliantly without much coaxing and handholding, in my experience.
+I will have to be very, very bored before I bother to write yet another goddamn blog engine for myself, even as much as I’d rather this site be powered by "Django":http://www.djangoproject.com/.

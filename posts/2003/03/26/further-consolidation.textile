@@ -1,0 +1,3 @@
+h1. Further Consolidation
+
+Having a “gear” page seemed kind of silly, since I frequently blog about the hard/software I use.  So I’ve tacked on some basic info about my personal tech to the “"about":http://www.al3x.net/about.html” page which should be enough for most folks.  The “about” page and contact info now come under the heading of “vitals,” with credit due to "Adam Rice":http://crossroads.net/a/.

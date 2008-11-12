@@ -1,0 +1,3 @@
+h1. Inside The Autechre Studio
+One for the gearwhores: "a Sound on Sound article/interview":http://www.littledetroit.net/forums/viewtopic.php?t=2453 that elucidates a number of technical details about the obscure Ae boys’ toys.  
+They use waveform editor "Amadeus":http://www.hairersoft.com/Amadeus.html, just like me!  Then again, they use _everything_.

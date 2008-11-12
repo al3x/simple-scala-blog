@@ -1,0 +1,6 @@
+h1. Attending: RailsConf 2007 in Portland
+I just registered for "RailsConf  2007":http://conferences.oreillynet.com/rails/ after some internal debate about whether or not to attend.
+Ultimately, my decision was, as with "SXSWi":http://2007.sxsw.com/interactive/, a social one.  There are tons  of interesting people in the Rails community attending that I’ve corresponded with, or read, or used code from.  The opportunity to chat, kick around ideas, and buy much-deserved drinks is just too good to pass up.
+If you’d like to meet up,  please email me, or ping "me":http://railsconf2007.conferencemeetup.com/p/143-alex-payne on the "RailsConf 2007 Conference Meetup":http://railsconf2007.conferencemeetup.com registry.
+I’ll be flying in later in the day on Thursday, attending the sessions from Friday through Sunday, and flying out Monday morning.  I’m staying in the nearby DoubleTree, in what I’m told is  a _fabulous_ smoking room if you just spray a little air freshener about (yuck).
+See you in Portland!  (We’re also going to check out Portland next week, so I might see you then, too!)

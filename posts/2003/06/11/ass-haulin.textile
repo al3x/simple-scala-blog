@@ -1,0 +1,4 @@
+h1. Ass-Haulin’
+
+Moving right along on the "Adjective Records":http://www.adjectiverecords.com/ site.  That and Summer Session have been eating my time like some sort of ravenous time-eating eater of time.  But we’re moving towards a nice layout, and we’ll be one in what I assume to be a small of group of labels who blog.  I’m sure there are others, out there, somewhere.  But yeah, it’ll be a pretty keen site.  100% %(=caps)XHTML% and %(=caps)CSS2%, complete with a modified navigation bar from the "Zeldman":http://www.zeldman.com/daily/0603a.shtml#sawyer.  I had cobbled my own together, but leave it to Zeldman to do it, you know, correctly.  More yet to be done.  Wish me godspeed.
+

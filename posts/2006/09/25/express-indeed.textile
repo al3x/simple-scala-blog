@@ -1,0 +1,7 @@
+h1. Express Indeed
+Apple’s "Airport Express":http://www.apple.com/airportexpress/ is hardly new tech, but bear with me here.
+Our apartment has two laptops that want to play music and one set of speakers that’s inconvenient to both of said laptops.  We already have a wireless network.  We also have a %(=caps)USB% printer that doesn’t share nicely over my "ReadyNAS NV":http://www.infrant.com.
+So I buy an AirPort Express.  I plug it in to one of the Ethernet ports on my existing router, a Linksys %(=caps)WRT54GL% running alternative firmware.  I plug in the printer.  I tell the Express not to talk wireless, just to hang out on my network and play music and share the printer.
+That’s it.  It works.  Playing music to a set of speakers across the room.  Playing other stuff, too, thanks to "AirFoil":http://www.rogueamoeba.com/airfoil/.  Printing.
+This makes me happy.  Wireless anything still has a sense of magic when it works.  The Express manages to be magical and still play nice with decidedly unmagical, unsexy network setups.
+Money well spent.

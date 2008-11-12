@@ -1,0 +1,3 @@
+h1. Shouldn’t Happen
+
+Modern operating systems shouldn’t do this.  Why check string length on paths and have eight jillion buffer overflows elsewhere in your code?  Baffling.

@@ -1,0 +1,6 @@
+h1. Two tech+politics Articles
+
+Wired’s Brad King asks if the %(=caps)GOP% will "Shake Up Tech
+Policy":http://www.wired.com/news/digiwood/0,1412,56538,00.html, and German computer magazine c’t
+presents one of the most detailed and academic analyses of copyright and IP I’ve yet seen in
+Richard Sietmann’s "Knowledge is Money":http://www.heise.de/ct/english/02/24/108/.

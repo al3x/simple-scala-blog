@@ -1,0 +1,2 @@
+h1. Sync My Wiki (Not a Filthy Euphemism)
+I ostensibly use "Instiki":http://www.instiki.org for Wiki-tastic personal organization.  Ostensibly, but not really, ‘cause I’m paralyzed by the fear of adding something to the Instiki instance on my PowerBook and not having it available on my remote server, and vice versa.  I would really love a way to sync two Instiki instances, even via something kludgey and Unixy like ssh+rsync.  If the LazyWeb does not provide for me by, say, next weekend I’ll write it my damn self.

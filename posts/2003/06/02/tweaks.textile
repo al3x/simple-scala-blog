@@ -1,0 +1,5 @@
+h1. Tweaks
+
+I changed the ubiquitous "link buttons":http://gtmcknight.com/buttons/index.php that had been in the “Details” section of the right navigation bar to faster and more bandwidth-friendly %(=caps)CSS%.  The “buttons” are now basically some creative %(=caps)HTML%, borrowed near-verbatim from the Great American Man of Jewfros, "Chris Pirillo":http://chris.pirillo.com/.  Do you find them acceptable, or should I just eschew the whole button trend and go for straight text?
+
+Also new and notable is my Link Cosmos, powered by "Technorati":http://www.technorati.com.  It shows all the people linking to me, and it’s updated whenever I post a new entry or otherwise modify the front page.  And yes, I’m aware that n3rd.net’s title has some odd formatting.  I’ve written the author of the "Moveable Type plugin":http://mt-plugins.org/archives/entry/technorati_d.php that lets me do this and hopefully he’ll have a suggestion of some sort, because god knows I’m not looking at his (or anyone else’s) regex-laden Perl.  So, neat new features.  If you want more you can always ask.  This ain’t no Oliver Twist orphanage crap…

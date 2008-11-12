@@ -1,0 +1,2 @@
+h1. Sunease
+It’s things like "Sun revoking FreeBSD’s Java license":http://www.osnews.com/comment.php?news_id=9341 that make me really uneasy about Java development, both in terms of investing my personal time in learning and investing company resources into adopting and supporting the closed and mercurially-governed platform.  Of course there are plenty of platforms that Sun supports (there’s always whatever OS-of-the-quarter they themselves have developed/re-branded), but that’s nowhere near the architectural freedom I’m used to with proper Open Source languages.

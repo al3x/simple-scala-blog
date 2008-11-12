@@ -1,0 +1,9 @@
+h1. Name Our Geek Pad Domain
+
+Being more social this year at school, while not without its detriments to my health _sniffle cough sneeze_, has been thusfar rewarding.  I’m lucky to have made the fast friendship of this cat, who if you can look past his miserable site design and casual spelling errors is in fact a great guy ;-)  We quickly realized that the sheer number of common interests and experiences between us meant we either had to join forces or fight to the death, superhero doppelganger-style.  Noting the years of martial arts experience on his resume: I chose the previous option, and our powers are now combined in the name of justice.  Or at least in the name of smoking cigars and hacking up %(=caps)POSIX% operating systems.
+
+So this cat, Scott, has got a fine little fixer-upper just about five minutes off campus.  While I’m quite comfortable in my shiny new on-campus apartment, having even a modest _house_ is an appealing prospect for the final two years of my college experience.  Clearly between the two of us it would be one helluva geek pad: mad server racks, serious storage, wired and wireless networking, a firewall/router like you wouldn’t believe, wine cellar and humidor hooked up to electronic stock monitoring, etc etc.  Such a setup is undeniably deserving of a good domain name for all those networked machines.
+
+So here’s what I’m thinking: you suggest amusing, interesting, efficient, or otherwise good domain names for our geek pad that aren’t already taken.  Points for ones that make for amusing subdomains (of the form _machine.funnyname.domain_).  If you pick the winning domain you get the grand, personal tour of our _casa de dork_, and probably dinner. Or maybe a shell account on Scott’s SparcStation LX.  Whatever.  It’ll be great.
+
+Let’s see those domains.

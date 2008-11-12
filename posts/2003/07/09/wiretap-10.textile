@@ -1,0 +1,3 @@
+h1. Wiretap 1.0!
+
+Fuck AudioHijack: Ambrosia Software’s "WireTap":http://www.ambrosiasw.com/utilities/freebies/ went 1.0 today. I was in on the beta; it’s the best, easiest way to grab audio comin’ out’cha Mac via software.

@@ -1,0 +1,3 @@
+h1. NetNewsWire Pro 1.0b12: Blosxoming
+
+“This release adds better support for Blosxom and Blosxom-compatible weblogs.”  That means, say, this one.  So now I can post to my blog from inside the app I find most of my links in.  And even if I’m not linking to some story, Ranchero Software has made the blogging interface in NetNewsWire Pro such a joy to use that it’s worth firing up for even a totally un-newsy post.  Huzzah!  Now if Rael would just get moving on that Blosxom update…

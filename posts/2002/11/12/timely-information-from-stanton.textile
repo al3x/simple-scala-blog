@@ -1,0 +1,23 @@
+h1. Timely Information from Stanton
+
+Just this morning I and a number of the other persistent bastards bugging Stanton about a Mac version of FinalScratch received the following e-mail from laurent@stanton.com.  Read and judge for yourself.
+
+<blockquote>
+“You are receiving this email because you have expressed interest in a %(=caps)MAC% version of Final Scratch. Although we have no release information yet, we want to keep in touch with you and make sure to keep you updated as much as we can.
+
+So here are the answers to the 3 most frequently asked questions (sorry but that's all the answers we can give for now):
+
+Q: Will Fs be available for %(=caps)OS X%?
+A: Yes, we are currently developing an %(=caps)OS X%
+version. There are no plans for an %(=caps)OS 9% version of FS. Apple has recently announced that they will be dropping %(=caps)OS9% support as well in an effort to move all their resources to %(=caps)OS X%.
+
+Q:What is the release date?
+A: There is no release date yet. Rest assured we have not forgotten about mac users. We are hard at work on a very promising %(=caps)MAC OS X% version. We will make an official announcement as soon as we possibly can.
+
+Q: If I buy the PC version today, can I upgrade for free when the %(=caps)MAC% version comes out?
+A: We have not yet determined the upgrade/crossgrade
+procedure. It will be announced at the same time as a release date as soon as we have accurate information.
+
+Thanks for your support and your patience.
+Your Final Scratch Team.”
+</blockquote>

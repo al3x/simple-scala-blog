@@ -1,0 +1,3 @@
+h1. Updated FOAF
+
+Updated my %(=caps)FOAF% file via Tecknik.net’s amazing "%(=caps)FOAF% Autocreation":http://www.tecknik.net/autofoaf/ hackery, which looks through sites you specify from your %(=caps)OPML% blogroll for ones with %(=caps)FOAF% data and appends them to your current %(=caps)FOAF% file.  If you’re a big dorkass and have both blogroll and %(=caps)FOAF% files on your server it’s the bee’s knees.

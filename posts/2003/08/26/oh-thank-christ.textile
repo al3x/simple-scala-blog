@@ -1,0 +1,3 @@
+h1. Oh Thank Christ
+
+MacNN "reports":http://www.macnn.com/news/20783 that bash is now the default terminal shell in developer preview builds of the next version of Apple’s Mac %(=caps)OS X%, version 10.3 (code named “Panther”).  This means I’ll save literally _minutes_ switching the default shell in the NetInfo Manager every time I set up an %(=caps)OS X% machine.  I mean, I understand OpenBSD using plain old featureless ‘sh’ for security purposes, but tcsh (the previous %(=caps)OS X% default shell) is just awkward for no good goddamn reason.  bash is easy, bash is featureliscious, and bash is the growing *nix de facto standard these days, despite holdovers in the *BSD world.  Good move, Panther team.

@@ -1,0 +1,38 @@
+h1. An Apology to FingerWorks (or how I learned to love the keyless keyboard)
+
+I was smitten with "FingerWorks’":http://www.fingerworks.com TouchStream technology when I first
+read about it on that repository (suppository?) of all things geek, Slashdot. It’s a brilliant idea:
+take a touchpad, make it super-duper smart with gesture support, map a keybord to it, and slap the
+whole thing on an ergonomic frame. You get a device that lets you mouse, gesture with your
+fingertips for damn near every keyboard shortcut you can think of, and then go right to typing
+without moving your hands. It did wonders for my crippling hands, and the mousing and gestures were
+very intuitive.
+
+Typing was another story. I stumbled around the keyboard for several weeks, finally calling
+FingerWorks with thoughts of returning the ST. I was told that one needed about five weeks to really
+get comfortable with the key layout, so I gave it time (time past the 30 day limit on returns,
+something of a leap of faith). Sure enough, I got comfortable with the layout, and my fingers
+memorized where to go for what. But then, a problem: once I was able to type quickly, the text
+completion firmware in the keyboard had a hard time keeping up with me. With the keys being
+essentially “virtual,” software handles the process of figuring out what the hell you’re trying to
+type and makes guesses; it doesn’t always guess right, however, and I found that frustrating.
+
+Once again, I contacted FingerWorks, and was basically told to type somewhat slowly and carefully,
+particularly when typing non-English words (like geekisms). In a huff over my lost words per minute,
+I shipped the ST back and went to re-explore the world of mechanical keyboards and mice.
+
+I found a miserable, finger-twisting world. I like the keyboard built into my iBook well enough, and
+its accompanying trackpad isn’t half bad either. But trying to find a decent mechanical keyboard
+that’ll fit into my rather cramped dorm desk keyboard tray, and then an ergonomic mouse to match,
+proved basically impossible. I tried a MacAlly iceKey, whose laptop-like keys make for fast input
+but no wrist support. I tried an Adesso Tru-Form with a built-in touchpad so awkwardly placed that
+it nullified the benefits of the keyboard’s otherwise ergonomic layout. In the mouse department, I
+tried a Kensington Studio Mouse, which was simply too dainty for my big hands, though very stylish.
+All in all, I was left longing for my TouchStream ST. So I called FingerWorks again, and it’s on its
+way back to me.
+
+Ultimately, sacrificing a few extra words per minute of typing speed for improved ergonomics and
+gesture support is entirely worthwhile. My knuckles have locked up again, being away from the
+TouchStream for almost five days. With that in mind, my apologies to FingerWorks, makers of the best
+damn computer input device around. I’m a tough customer, but the ST’s price warrants some second
+thoughts. It’s worth it, though. Boy, is it ever worth it _cracks knuckles_."
