@@ -1,16 +1,19 @@
 h1. Not So Evil
+
 Adam Penenberg, Wired News’s media critic, is "scared of Google":http://www.wired.com/news/print/0,1294,67982,00.html:
-bq. 
-When we boot up and get online we hardly notice that Google dispatches a cookie set to expire in 35 years. Then Google filters our reality, dictates our aesthetic, collates and catalogs our memories, chooses what information we mine. The Google experience becomes a collective Rorschach test, which shapes our worldview and affects who we are and what we will become.
+
+bq. When we boot up and get online we hardly notice that Google dispatches a cookie set to expire in 35 years. Then Google filters our reality, dictates our aesthetic, collates and catalogs our memories, chooses what information we mine. The Google experience becomes a collective Rorschach test, which shapes our worldview and affects who we are and what we will become.
 
 I thought that sort of info-apocolypse talk went out with cyberpunk.  Maybe it still flies in academe.  He goes on:
-bq. 
-In exchange for free access to Google’s resources, Google gets to fire advertisements at us from every conceivable angle.
+
+bq. In exchange for free access to Google’s resources, Google gets to fire advertisements at us from every conceivable angle.
 
 I guess we’re all Google victims, then?  Well, see, Google can _try_ to fire adverts at me, but I’m not a victim.  Nobody is a victim on the client side.  Grab "PithHelmet":http://culater.net/software/PithHelmet/ if you’re a Safari user or "Adblock":http://adblock.mozdev.org/ if you’re a Firefox user and suddenly: no ads.  Now Google’s the victim, if you want to see it that way.  You get something for nothing, and capitalism dies a little.  Hooray!  Penenberg continues:
-bq. 
-[Google] is hatching plans for an online payment system that would compete with PayPal, which led Robert Hof of BusinessWeek to write: “Another day, another new Google service that threatens to torpedo yet another outfit’s business model.” 
+
+bq. [Google] is hatching plans for an online payment system that would compete with PayPal, which led Robert Hof of BusinessWeek to write: “Another day, another new Google service that threatens to torpedo yet another outfit’s business model.” 
 
 Oh shits!  Competition?  In the _marketplace_?!  But people love PayPal!  Especially "these folks":http://paypalsuit.com/ and "them":http://www.paypalsucks.com/ and "all these nice people":http://consumeraffairs.com/online/paypal_01.html!  What’s Google thinking, going after such a reputable and well-loved company?  %(=caps)UPDATE%: Oh, wait, they’re "not":http://today.reuters.com/sponsoredby/VerizonNewsArticle.aspx?type=internetNews&amp;storyid=2005-06-22T010114Z_01_N21641206_RTRIDST_0_NET-TECH-GOOGLE-DC.XML.
+
 All sarcasm aside, Penenberg validly “wonder[s] what impact Google’s power will have on our culture.”  When I’m free to use their "%(=caps)API%":http://www.google.com/apis/ to present their data however I see fit, I wonder what impact my culture will have on theirs.  And if, as Penenberg suggests, Google “is really little more than a content syndicator,” it shouldn’t be hard to replace them with a socially responsible community alternative, right?
+
 Or maybe the market puts its muscle behind the wide-reaching resources it sorely needs.

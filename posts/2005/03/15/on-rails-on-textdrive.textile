@@ -1,18 +1,22 @@
 h1. On Rails, On TextDrive
-A few minutes ago I kicked the %(=caps)DNS% for this domain over to TextDrive, where the "Rails (Ruby On Rails)":http://www.rubyonrails.com blog engine I’ve been working on has eagerly been waiting to send this right here your way.  Which is to say, I got the new shiz working and if you don’t care about the geeky details, be happy that I’ll be back to regular posting and other projects shortly.
-For those who do care about the geeky details, here’s the specs on the new engine, less-than-creatively dubbed engin3 threengine:
 
-compatible with the latest Rails release as of this writing, 0.10.1
-borrows liberally from "Typo (Typo)":http://typo.leetsoft.com and "EliteJournal":http://elitejournal.rubyforge.org/
-like Typo, implements only %(=caps)XML%-RPC for posting/editing.
-unlike Typo, only implements the MetaWeblog %(=caps)API%, and then via the new Rails ActionWebServices (as ganked from EliteJournal)
-fulltext search
-%(=caps)RSS 2%.0 and Atom feeds
-routes for compatibility with WordPress fancy URLs (email me if you want the c0de for this – a lovely kludge)
-Markdown formatting for posts and comments
-Trackback
-probably some more junk I forgot
+A few minutes ago I kicked the %(=caps)DNS% for this domain over to TextDrive, where the "Rails (Ruby On Rails)":http://www.rubyonrails.com blog engine I’ve been working on has eagerly been waiting to send this right here your way.  Which is to say, I got the new shiz working and if you don’t care about the geeky details, be happy that I’ll be back to regular posting and other projects shortly.
+
+For those who do care about the geeky details, here’s the specs on the new engine, less-than-creatively dubbed threengine:
+
+* compatible with the latest Rails release as of this writing, 0.10.1
+* borrows liberally from "Typo (Typo)":http://typo.leetsoft.com and "EliteJournal":http://elitejournal.rubyforge.org/
+* like Typo, implements only %(=caps)XML%-RPC for posting/editing.
+* unlike Typo, only implements the MetaWeblog %(=caps)API%, and then via the new Rails ActionWebServices (as ganked from EliteJournal)
+* fulltext search
+* %(=caps)RSS 2%.0 and Atom feeds
+* routes for compatibility with WordPress fancy URLs (email me if you want the c0de for this – a lovely kludge)
+* Markdown formatting for posts and comments
+* Trackback
+* probably some more junk I forgot
 
 There’s some stuff that still needs cleaning up, but I went out of my way to make sure that, by and large, you my dear reader should be able to go about using this site pretty much as you did previously, right down to any URLs you may have linked to here.  Too often do bloggers sail from one engine to the next only to leave a sea of dead links in their wake.
+
 If you see something seriously broken please let me know.  If something just looks a little out of place, that probably means I have yet to get to it.  If there’s a feature or navigational aid you’d like to see implemented here please don’t hesitate to ask.  I no longer have the excuse of “aww, I have to sift through someone else’s lousy code to implement that!”
+
 Now I only have to sift through my own lousy code.

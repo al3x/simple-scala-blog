@@ -1,3 +1,5 @@
 h1. Pf Outside OpenBSD
+
 The "availability":http://nedbsd.nl/~ppostma/pf-lkm.html of "pf":http://www.benzedrine.cx/pf.html as a loadable NetBSD kernel module brings me hope of one day, in the not too distant future, running pf on FreeBSD production servers.  And there would be much rejoicing.
+
 If you &lt;3 pf like I &lt;3 pf, check out the O’Reilly "interview":http://www.onlamp.com/pub/a/bsd/2004/04/15/pf_developers.html (and "part 2":http://www.onlamp.com/pub/a/bsd/2004/05/06/pf_developers.html) with some of the core devs working to make packet filtering/scrubbing/mangling that much better.

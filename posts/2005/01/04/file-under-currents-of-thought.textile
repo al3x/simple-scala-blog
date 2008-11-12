@@ -1,4 +1,7 @@
 h1. File Under: Currents of Thought
+
 I was startled to see Slashdot post "this article":http://slashdot.org/article.pl?sid=05/01/04/0117245&amp;from=rss on "“Folksonomies”":http://www.adammathes.com/academic/computer-mediated-communication/folksonomies.html today, as I "posted":http://www.al3x.net/archives/2004/11/14/emergentcollaborative-catagorization/ on pretty much the exact same topic back in November.  Like my post, none of the material linked from the Slashdot article actually offered any working code, but it’s nice to see other people thinking about these problems.
+
 When talking to a friend about this today I used to following analogy to illustrate what’s at stake: imagine a massive library full of choice hand-picked books.  Now imagine that library just slaps its books on its shelves like your local used book store, vaguely by topic but with every employee and a few bumbling customers leaving “History” in “American Studies” and the like.  Think of all the wasted potential in such a well-picked but woefully sorted library.  That’s what "del.icio.us":http://del.icio.us/, "Flickr":http://www.flickr.com, and their ilk face becoming without some taxonomical intervention, machine-enforced or otherwise.
+
 Definitely worth thinking about.

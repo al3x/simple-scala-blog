@@ -1,3 +1,5 @@
 h1. Firefox Fix
+
 Apparently readers using Firefox haven’t been seeing the %(=caps)CSS%-styled version of this site since I moved to Typo.  My server was sending the stylesheet as an octet stream and Firefox don’t play that way.  Safari didn’t mind, so I didn’t notice.
+
 It’s fixed.  Just had to set the css %(=caps)MIME% type in "lighttpd":http://www.lighttpd.net/.

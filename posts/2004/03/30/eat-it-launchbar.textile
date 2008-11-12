@@ -1,3 +1,5 @@
 h1. Eat it, LaunchBar
-I hate to repost from BoingBoing, but Cory got me hooked on LaunchBar at ToorCon and so too has he gotten me hooked on "QuickSilver":http://blacktree.com/apps/quicksilver/, which is LaunchBar on very sexy crack.   It can present resources and objects on your Mac to you in a variety of ways, including via an attractive Command-Tab-style bezel.  It’s also blazingly fast and flexible.  
+
+I hate to repost from BoingBoing, but Cory got me hooked on LaunchBar at ToorCon and so too has he gotten me hooked on "QuickSilver":http://blacktree.com/apps/quicksilver/, which is LaunchBar on very sexy crack.   It can present resources and objects on your Mac to you in a variety of ways, including via an attractive Command-Tab-style bezel.  It’s also blazingly fast and flexible.
+
 Like, LaunchBar, the basic idea is that you hit Command-Space, up pops an input box of some sort, and you type the first few letters of the thing on your Mac you want, whether that thing be application, document, folder, Address Book entry, playlist, iPhoto album, or whatever.  QuickSilver shows you the results of your abbreviated query and sends you on your way.  It’s insanely useful, and I can’t recommend it enough.

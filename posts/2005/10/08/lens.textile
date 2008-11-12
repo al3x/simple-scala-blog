@@ -1,4 +1,7 @@
 h1. Lens?
+
 The "Google Reader":http://www.google.com/reader/lens/ UI is appalling.  %(=caps)AJAX% does not an instantly pleasurable user experience make, at least not without some thought put into it.  Even Bloglines is less cumbersome.
+
 The sad thing is, it’s unlikely that Google will take Reader back to the shop and overhaul it now that it’s “beta” (ie, all but released save a few tweaks, if it follows other Google products).  That’s the real danger of pervasive “beta” releasing: it lowers both customer expectations and the developer’s sense of responsibility.  It’s not what the “release early, release often” mantra is all about.
+
 Don’t be afraid to do better, Google, and don’t believe the hype.

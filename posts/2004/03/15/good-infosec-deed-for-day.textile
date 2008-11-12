@@ -1,4 +1,7 @@
 h1. Good InfoSec Deed For The Day
+
 I was in my school’s commons building this afternoon, reading, when I overheard a young man trying to sell a discount salon package to two young women and their male companion sitting to my left.  Since we’d had a rash of scams the previous semester (kids selling bogus tickets to a comedy club on false behalf of our %(=caps)SGA%) I was skeptical as I listened to his pitch.  Right about when he was putting on the sale-closing pressure, mentioning that he took cash, checks, or credit, I walked over and politely interrupted.  I mentioned to them the scams from last semester and suggested they give the salon he was promoting a call before paying for anything.
+
 I didn’t stay to see if they completed the sale or not, but I was thanked by the targets of the sales pitch before they left.  They hadn’t seen the scams reported but found my interruption very helpful.  The young man with the two girls confided in me that he found the whole thing a little sketchy, but the salesman was just so pressuring.
+
 It amazes me that people don’t really think about their personal information security, even with all the publicity that identity theft gets these days.  I was happy, if a little embarrassed, to be able to give someone a heads-up, and happier still that they didn’t think I was a crazy, nosy jerk.

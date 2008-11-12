@@ -1,9 +1,17 @@
 h1. Dashboard’s Damage
+
 I have a love-hate relationship with Mac %(=caps)OS X 10%.4’s "Dashboard":http://www.apple.com/macosx/features/dashboard/.
+
 On the one hand, it’s nice to have the weather, a calculator, a calendar, my upcoming iCal events, the time in DC, a fast way to post to del.icio.us, a sticky note, a unit converter, a dictionary/thesaurus, and the Ruby core library reference no more than a keystroke or hot corner away.
+
 On the other hand, I had all of these things before.  While I appreciate Apple’s "strict and clear Dashboard programming guide":http://developer.apple.com/documentation/AppleApplications/Conceptual/Dashboard_Tutorial/Overview/chapter_2_section_4.html#//apple_ref/doc/uid/TP40001340-CH202-DontLinkElementID_27 for what it suggests widgets should be, it isn’t strict enough.
+
 Widgets should not be task-redundant.  The world does not need hundreds of widgets that do nothing but fetch and display an %(=caps)RSS% feed.  This is Dashboard’s major offense: it encourages people away from well-rounded solutions and towards brittle and overly-simplistic ones.  A weather widget is good; people need to glance at a weather report.  A "Google Maps widget":http://www.apple.com/downloads/dashboard/transportation/googlemapswidget.html is bad; why break off a subset of that exceptional site’s features into a constrained viewable area when the whole thing can be a bookmark away?
+
 Widgets are defined in contrast to applications in the aforementioned programmer’s guide, but in reality many widgets are bite-sized chunks of _web_ applications.  Apple should add a new strong suggestion to that document: don’t duplicate any functionality that’s better served by a real website.
+
 Dashboard is also in desperate need of a seamless widget update mechanism.  Widgets downloaded from Apple’s directory should be upgraded automatically at a user-configurable interval; you should “subscribe” to a widget, in effect.  Keeping up with a dozen widgets on top of my arsenal of applications is a bear.
+
 The feature’s memory consumption is criminal.  Thanks almost singlehandedly to Dashboard, Tiger does *not* feel faster than Panther on my amply-equipped PowerBook G4.  This is the first downgrade in perceived performance from release-to-release since the earliest versions of %(=caps)OS X%.
+
 Overall, it’s the sort of gimmicky feature I wouldn’t have expected Apple to bring to market.  I hope the next iteration of %(=caps)OS X% focuses on more substantive improvements.  In the meantime, I keep toying with the idea of "turning the damn thing off":http://face.centosprime.com/macosxw/?p=201.

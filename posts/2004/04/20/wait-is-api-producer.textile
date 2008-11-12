@@ -1,5 +1,9 @@
 h1. Wait, Is API A Producer?
+
 Being a junglist and a programmer simultaneously can be confusing.
-An "announcement":http://news.php.net/article.php?group=php.pear.general&amp;article=11976 on the general %(=caps)PHP PEAR% newsgroup for a new release of the %(=caps)XML%_SaxFilters package included this caveat:
+
+An "announcement":http://news.php.net/article.php?group=php.pear.general&amp;article=11976 on the general %(=caps)PHP PEAR% newsgroup for a new release of the XML_SaxFilters package included this caveat:
+
 bq. %(=caps)WARNING%: lots of %(=caps)API% breakage!
+
 If you don’t get why that’s funny, it’s not worth explaining.

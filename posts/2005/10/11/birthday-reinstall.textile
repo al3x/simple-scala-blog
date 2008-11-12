@@ -1,7 +1,13 @@
 h1. The Birthday Reinstall
+
 I ended up having a rather pleasant birthday.  I didn’t go to work, however.
+
 No, my dear PowerBook had other activities in mind and decided to lay waste to its filesystem, spewing bad inodes about like so much confetti.  Disk Utility could do nothing.  DiskWarrior could do nothing.  A clean install of Tiger was all that could reasonably be done.
+
 It’s not all bad.  I had a current enough backup on an external disk and most of my important data is on remote servers, either in web apps or Subversion repositories.  Having to re-outfit a clean system is sort of like Spring cleaning: annoying at the time but satisfying in the end.
+
 I gave "NewsFire":http://www.newsfire.com/ another shot while trying to sort out feed-reading duties and I’m back into it.  The “smart feeds” (think Smart Playlists in iTunes) are handy, and performance is crisp.
+
 The only thing that’s been wonky since the reinstall is Safari, possibly the fault of the "extensions":http://www.pimpmysafari.com/ I insist on installing.  I’m tepid on switching to Firefox full time for lack of a fully “native” feel.
+
 So the lappy in healthy again, but I’m reminded of just how quickly Apple hardware tends to show age, both in terms of reliability and performance.

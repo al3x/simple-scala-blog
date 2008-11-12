@@ -1,4 +1,7 @@
 h1. It Sucks SO MUCH
+
 US "mobile service":http://www.wired.com/news/business/0,1367,63722,00.html, that is.
+
 With %(=caps)VOIP%, netizens are showing big telcos that they can do phone service better and cheaper.  Unfortunately, trying to build a %(=caps)DIY% wireless communications network is no mean feat for any number of reasons, mostly market-related rather than technical.  If I felt like my $40-odd per month was going towards significant infrastructure improvements I probably wouldn’t be dreaming about how to do an end-run around mobile providers.  But the reality is that the US seems to be forever playing catch-up to Japan three years ago: they’re already "testing 4G services":http://www.infosyncworld.com/news/n/4992.html with enough bandwidth to transmit %(=caps)HDTV%-quality video while we’ve got.. uh, "a big Nokia":http://onlinestore.cingular.com/webapp/wcs/stores/servlet/ES_PROD_PHONE_DETAILS.jsp?phoneid=265776&amp;storeId=11351&amp;catalogId=11351&amp;langId=-1&amp;storeAlias=waswas&amp;svcAreaId=SBC&amp;subOrderId=1&amp;isPostpaid=true that can capture video clips that might not take ages to send if you can %(=caps)GPRS% in your service area for an exorbitant price?
+
 Call me when I care, and hope the call doesn’t drop.

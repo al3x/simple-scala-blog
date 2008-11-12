@@ -1,90 +1,96 @@
 h1. What’s Good and What’s Bullshit at DefCon 13
-This is more for my scheduling purposes than anything else, but I thought I’d share.  Given that my friends and I will be busy with Capture The Flag at this year’s DefCon (just mere weeks away!) I won’t have a lot of time to see talks.  I played in %(=caps)CTF% last year and didn’t see a single talk; given that I’m helping to run the contest this year I don’t have high hopes for my free time.  
+
+This is more for my scheduling purposes than anything else, but I thought I’d share.  Given that my friends and I will be busy with Capture The Flag at this year’s DefCon (just mere weeks away!) I won’t have a lot of time to see talks.  I played in %(=caps)CTF% last year and didn’t see a single talk; given that I’m helping to run the contest this year I don’t have high hopes for my free time.
+
 If I get a spare minute this is what I’ll be seeing, what I’ll be avoiding, and what I’ll be divided on, culled from the "DefCon 13 Speakers Page":http://defcon.org/html/defcon-13/dc13-speakers.html:
-*Good*
-_appropriate to the conference, covers new material, challenges the audience_ 
 
-Routing in the Dark: Scalable Searches in Dark %(=caps)P2P% Networks
-The Information Security Industry: $3 Billion of Snake Oil (editor’s note: _you had me at the title_)
-The Next Generation of Cryptanalytic Hardware
-Google Hacking for Penetration Testers (editor’s note: _seems like a mundane topic but the speaker is a sharp fella_)
-Suicidal Linux (editor’s note: _Bruce does a good rant_)
-Pen-testing the Backbone
+h2. Good
 
-*Bullshit*
-_tired topics, conference-unspecific material, non-technical, pandering, goofy, “hacker sociology” horseshit, tedious libertarianism, too academic, too corporate_ 
+_appropriate to the conference, covers new material, challenges the audience_
 
-A New Hybrid Approach for Infrastructure Discovery
-On the Current State of Remote Active OS Fingerprinting
-Introducing the Bastille Hardening Assessment Tool
-Development of An Undergraduate Security Program
-Be Your Own Telephone Company…With Asterisk
-Analysis of Identity Creation Detection Schemes post-9/11 (editor’s note: _bonus bullshit for use of the phrase “post-9/11_)
-Countering Denial of Information Attacks
-%(=caps)CISO Q%&amp;A with Dark Tangent
-Whiz Kids or Juvenile Delinquents: A Sociological Perspective The Construction of Hacker Identity
-Introduction to Lockpicking and Physical Security
-The Hacker?̢??̢??s Guide to Search and Arrest
-The Power to Map: How Cyberspace Is Imagined Through Cartography
-Hacking Nmap
-A Safecracking Double Feature: Dial ?̢????B?̢??̢?? For BackDialing and Spike the Wonder Safe
-Bacon: A Framework for Auditing and Penetration Testing
-Inequality and Risk (editor’s note: _please stop talking, Paul Graham_)
-Top Ten Legal Issues in Computer Security
-The Insecure Workstation II: “bob reloaded”
-Your Defense is Offensive
-No Women Allowed?  Exploring Gender Differences In Hacking
-Meme Mining for Fun and Profit
-Credit Cards: Everything You have Ever Wanted to Know
-Black Ops 2005
-Passive Host Auditing
-Doing Not-For-Profit Tech: The Hacker Foundation Year in Review
-A Linguistic Platform for Threat Development
-Introducing Unicornscan – Riding the Unicorn
-The Dark Side of Winsock
-Social Engineering Do’s &amp; Don’ts (A Female Perspective)
-The Six Year Old Hacker: No More Script Kiddies
-Old Skewl Hacking – InfraRed
-Visual Security Event Analysis
-Meet the Fed
-Hacking the Mind (Influence and %(=caps)NLP%)
-Ask %(=caps)EFF%: The Year in Digital Liberties
-Causing the Law
-Bypassing Authenticated Wireless Networks
-Assymetric Digital Warfare
-Licensing Agreements 101: The Creative Commons License
-Hacking Windows CE
-Why Tech Documentaries are Impossible (And why we have to do them anyway.)
-Automation – Deus ex Machina or Rube Goldberg Machine?
-Forensic Data Acquisition Tools
-Building WarDriving Hardware Workshop
-Legal and Ethical Aspects of WarDriving
-The %(=caps)NMRC% Warez 2005 Extravaganza
-Attacking Web Services: The Next Generation of Vulnerable Apps
-Hacking Google AdWords
-The Revolution Will Not Be Copyrighted: Why You Should Care About Free Culture
-Recapturing the Revolutionary Heart of Hacking
-Hackers and the Media- Misconceptions and Critical Tools To Combat Them
-Paul Vixie Speaks
-Trends in Licensing of Security Tools
-Attacking Biometric Access Control Systems
-The Unveiling of My Next Big Project
+* Routing in the Dark: Scalable Searches in Dark %(=caps)P2P% Networks
+* The Information Security Industry: $3 Billion of Snake Oil (editor’s note: _you had me at the title_)
+* The Next Generation of Cryptanalytic Hardware
+* Google Hacking for Penetration Testers (editor’s note: _seems like a mundane topic but the speaker is a sharp fella_)
+* Suicidal Linux (editor’s note: _Bruce does a good rant_)
+* Pen-testing the Backbone
 
-*Could Go Either Way*
+h2. Bullshit
+
+_tired topics, conference-unspecific material, non-technical, pandering, goofy, “hacker sociology” horseshit, tedious libertarianism, too academic, too corporate_
+
+* A New Hybrid Approach for Infrastructure Discovery
+* On the Current State of Remote Active OS Fingerprinting
+* Introducing the Bastille Hardening Assessment Tool
+* Development of An Undergraduate Security Program
+* Be Your Own Telephone Company…With Asterisk
+* Analysis of Identity Creation Detection Schemes post-9/11 (editor’s note: _bonus bullshit for use of the phrase “post-9/11_)
+* Countering Denial of Information Attacks
+* %(=caps)CISO Q%&amp;A with Dark Tangent
+* Whiz Kids or Juvenile Delinquents: A Sociological Perspective The Construction of Hacker Identity
+* Introduction to Lockpicking and Physical Security
+* The Hacker?̢??̢??s Guide to Search and Arrest
+* The Power to Map: How Cyberspace Is Imagined Through Cartography
+* Hacking Nmap
+* A Safecracking Double Feature: Dial ?̢????B?̢??̢?? For BackDialing and Spike the Wonder Safe
+* Bacon: A Framework for Auditing and Penetration Testing
+* Inequality and Risk (editor’s note: _please stop talking, Paul Graham_)
+* Top Ten Legal Issues in Computer Security
+* The Insecure Workstation II: “bob reloaded”
+* Your Defense is Offensive
+* No Women Allowed?  Exploring Gender Differences In Hacking
+* Meme Mining for Fun and Profit
+* Credit Cards: Everything You have Ever Wanted to Know
+* Black Ops 2005
+* Passive Host Auditing
+* Doing Not-For-Profit Tech: The Hacker Foundation Year in Review
+* A Linguistic Platform for Threat Development
+* Introducing Unicornscan – Riding the Unicorn
+* The Dark Side of Winsock
+* Social Engineering Do’s &amp; Don’ts (A Female Perspective)
+* The Six Year Old Hacker: No More Script Kiddies
+* Old Skewl Hacking – InfraRed
+* Visual Security Event Analysis
+* Meet the Fed
+* Hacking the Mind (Influence and %(=caps)NLP%)
+* Ask %(=caps)EFF%: The Year in Digital Liberties
+* Causing the Law
+* Bypassing Authenticated Wireless Networks
+* Assymetric Digital Warfare
+* Licensing Agreements 101: The Creative Commons License
+* Hacking Windows CE
+* Why Tech Documentaries are Impossible (And why we have to do them anyway.)
+* Automation – Deus ex Machina or Rube Goldberg Machine?
+* Forensic Data Acquisition Tools
+* Building WarDriving Hardware Workshop
+* Legal and Ethical Aspects of WarDriving
+* The %(=caps)NMRC% Warez 2005 Extravaganza
+* Attacking Web Services: The Next Generation of Vulnerable Apps
+* Hacking Google AdWords
+* The Revolution Will Not Be Copyrighted: Why You Should Care About Free Culture
+* Recapturing the Revolutionary Heart of Hacking
+* Hackers and the Media- Misconceptions and Critical Tools To Combat Them
+* Paul Vixie Speaks
+* Trends in Licensing of Security Tools
+* Attacking Biometric Access Control Systems
+* The Unveiling of My Next Big Project
+
+h2. Could Go Either Way
+
 _might be good, might be bullshit_
 
-Mosquito – Secure Remote Code Execution Framework
-Auto-adapting Stealth Communication Channels
-Sketchtools: Prototyping Physical Interfaces (editor’s note: _this looks neat but is totally inappropriate for DefCon, which is the fault of the speaker reviewers and not this presenter_)
-Hacking in a Foreign Language: A Network Security Guide to Russia (and Beyond)
-Intro to High Security Locks and Safes
-Surgical Recovery from Kernel-Level Rootkit Installations
-GeoIP Blocking, A Controversial But (Sometimes) Effective Approach
-Trust Transience: Post Intrusion %(=caps)SSH% Hijacking
-%(=caps)ATM% Network Vulnerabilities
-Shmoo-Fu: Hacker Goo, Goofs, and Gear with the Shmoo
-?̢?????Shadow Walker?̢??? ?̢??̢?? Raising The Bar For Rootkit Detection
-%(=caps)DIRA%: Automatic Detection, Identification, and Repair of Control-Hijacking Attacks
-Physical Security Bypass Techniques: Exploring the Ethics of Full Disclosure
-End-to-End Voice Encryption over %(=caps)GSM%: A Different Approach
+* Mosquito – Secure Remote Code Execution Framework
+* Auto-adapting Stealth Communication Channels
+* Sketchtools: Prototyping Physical Interfaces (editor’s note: _this looks neat but is totally inappropriate for DefCon, which is the fault of the speaker reviewers and not this presenter_)
+* Hacking in a Foreign Language: A Network Security Guide to Russia (and Beyond)
+* Intro to High Security Locks and Safes
+* Surgical Recovery from Kernel-Level Rootkit Installations
+* GeoIP Blocking, A Controversial But (Sometimes) Effective Approach
+* Trust Transience: Post Intrusion %(=caps)SSH% Hijacking
+* %(=caps)ATM% Network Vulnerabilities
+* Shmoo-Fu: Hacker Goo, Goofs, and Gear with the Shmoo
+* Shadow Walker: Raising The Bar For Rootkit Detection
+* %(=caps)DIRA%: Automatic Detection, Identification, and Repair of Control-Hijacking Attacks
+* Physical Security Bypass Techniques: Exploring the Ethics of Full Disclosure
+* End-to-End Voice Encryption over %(=caps)GSM%: A Different Approach
 

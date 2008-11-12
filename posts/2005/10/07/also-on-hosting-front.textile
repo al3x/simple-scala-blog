@@ -1,4 +1,7 @@
 h1. Also, On The Hosting Front
+
 I’m pointing my email at Gmail.  I’m pretty done suffering Mail.app, and I check my email from a browser too often to tolerate IlohaMail or any of the other piss-poor open source webmail clients most hosts provide.
+
 So if there’s any oddnesses trying to reach me via email, which there shouldn’t be, blame Gmail.
+
 The "Gmail Notifier":http://toolbar.google.com/gmail-helper/index?promo=gdl-en for the Mac is pretty sweet, by the way.  Especially with "this Growl plugin":http://www.macupdate.com/info.php/id/19508.  Mail.app is _so_ off my Dock.

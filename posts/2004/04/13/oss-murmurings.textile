@@ -1,3 +1,5 @@
 h1. OSS Murmurings
+
 NewsForge has a nice "article":http://business.newsforge.com/article.pl?sid=04/04/09/1854218&amp;mode=thread&amp;tid=85&amp;pagenum=1 on Open Source Software helping out nonprofits.  It mentions the "Nonprofit Open Source Initiative":http://www.nosi.net/ (NOSI), of which my company, "PICnet, Inc.":http://www.picnet.net/, is a member and supporter.  Nonprofits have many unique organizational problems to solve, and unlike their for-profit peers, generally have to solve them in public.  Open code makes perfect sense for solving open problems.
+
 Meanwhile, "registration has opened":http://www.ebcvg.com/press.php?id=260 for the "O’Reilly Open Source Convention 2004":http://conferences.oreillynet.com/os2004/.  I hope to be there, as a number of the "tracks":http://conferences.oreillynet.com/pub/w/29/oscon_track_grid.html look pretty informative.

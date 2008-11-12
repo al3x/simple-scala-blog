@@ -1,4 +1,3 @@
 h1. Unix Joke!!!
---- 
-- p. "Today’s Jerkcity":http://www.jerkcity.com/jerkcity1944.html is a Unix joke!  Woo!
 
+"Today’s Jerkcity":http://www.jerkcity.com/jerkcity1944.html is a Unix joke!  Woo!

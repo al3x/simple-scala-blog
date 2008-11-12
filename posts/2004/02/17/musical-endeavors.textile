@@ -1,7 +1,13 @@
 h1. Musical Endeavors
-A couple things haven’t worked out for my personal musical endeavors, and I’m glad I figured them out well in advance of the AdjRecs release party.  
+
+A couple things haven’t worked out for my personal musical endeavors, and I’m glad I figured them out well in advance of the AdjRecs release party.
+
 Firstly, the broken-hearted songs I was going to record.  I was okay with my voice after laying down a couple takes, and even had some backing melody come to me.  But the more I thought about the lyrics, about making music around them, and about performing the whole thing, the more it seemed like a celebration of a negative element in my life these past 6+ months – wallowing, rather than cathartic.  All that, and it just didn’t sound like anything special.  I’m not a musician, nor do I want to play one for parties.  That much I’ve figured out.
+
 I am however, a DJ, and am quite comfortable playing one at parties.  I’ve been trying to shape Live into a DJ tool, but it’s just not working.  I know it can be done, because others on the Ableton forums speak in glowing terms about their successes, and Ableton is even holding workshops on DJing with Live in Germany this Spring.  But just as Live is a very techno-oriented tool in its use of loops and beat detection, so goes its application in the DJ realm: it works out better than not for techno, though not without an enormous amount of prep work.  But I rarely spin tcchno; my preferred playing-out sound is a crazy mix of glitchy, rhythmically-complex experimental sounds.  Live freaks out at this.  It has no idea how to place the warp markers that designate the beats in the track, and this in turn screws up any mixing between one track and the next.  Couple this with an interface designed for viewing and handling short clips of audio, not full tracks, and it’s more self-punishment than creative expression.  I can see Live working out great today for techno and house DJs, and maybe someday with %(=caps)MP3% support and some interface tweaks it’ll work for us leftfield types as well.
+
 So that means I’m finally breaking down and buying a copy of Traktor.  Run that out through the cheap %(=caps)USB% audio interface I linked to the other day into a DJ mixer and mix away.  Traktor handles crazy %(=caps)IDM% tracks with exceptional ease, and though its library functionality still needs vast improvement it’s an environment in which I can work quickly and successfully.
+
 So the al3x performing at the AdjRecs party will be bringing you a crazy digital set straight outta Traktor.  And it’ll be hot.
-Despite flirtations with it over the years, I’m just not a musician.  Case closed.  It’s a good thing, too, because I’ve barely got time to DJ. 
+
+Despite flirtations with it over the years, I’m just not a musician.  Case closed.  It’s a good thing, too, because I’ve barely got time to DJ.

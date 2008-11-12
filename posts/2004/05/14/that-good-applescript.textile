@@ -1,2 +1,3 @@
 h1. That’s Good AppleScript
+
 Nice little "script":http://www.macosxhints.com/article.php?story=20040512170804933 over at MacOSXHints that updates your iChat status based on your network connection, either subnet or wireless %(=caps)SSID%.  I’ve got it set up to report when I’m at the apartment and when I’m at the PICnet offices.  Probably not one for the road warriors, but handy.

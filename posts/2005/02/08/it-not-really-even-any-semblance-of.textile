@@ -1,5 +1,0 @@
-h1. It’s Not Really Even Any Semblance of Proper DJing
-What’s that you say, [pretty much any goddamn DC blogger]?  You’ve been listening to [pretty much any goddamn indie album on Pitchfork]?  And they sound like a cross between [band you think is obscure from New York, mid-’80s] and [other hip indie-pop band for more accessible point-of-reference]?  And you’re going to make me listen to them and a bunch of shit like them at "iPod DJ Night":http://www.ipodjukebox.com/?
-Well fuck you, cuz.  I’m going to make you listen to some real grime bizness, some real raw shit.  You _don’t even know_.  You won’t like it, but your girl will.  I’ma hit that in the bathroom and jet back to the lab and maybe post my playlist %(=caps)RIGHT THE FUCK HERE ON THIS BLOG% when I get there.  I know: you’re all “oh shit” and I’m all “[posting to blog sounds, typing I guess].”
-The above scenario, or I don’t get there early enough to get a slot and I have a beer and I leave.  Whatever.
-By the by, progress on the new Rails-powered blog engine was healthy this evening.  Believe!

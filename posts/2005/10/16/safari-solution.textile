@@ -1,5 +1,9 @@
 h1. A Safari Solution
+
 I may have found the solution to my Safari woes.
+
 Some basic testing suggests that PithHelmet was the cause of my crashes.  Removing it, leaving only the extensions Saft and Inquisitor, means none of the crashes that were becoming almost predictable.  Safari can be my main browser again.  Yay!
+
 But I can’t stomach ads.  Solution?  Use the "Floppymoose %(=caps)CSS%":http://www.floppymoose.com/ to beat down ads %(=caps)DOM% style.  Usage instructions available for most major browsers.  It’s not as easily customized as PithHelmet, but I never really built custom rules anyway.  And it’s whip-ass fast.
+
 Unrelated, I’ve started dorking around with "Adium":http://adiumx.com.  It’s neat, if almost _too_ customizable.

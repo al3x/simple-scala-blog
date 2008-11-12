@@ -1,4 +1,7 @@
 h1. Better Financial News
+
 I really loathe %(=caps)CNBC%, the only financial news channel we get on our free university cable package.  Every time I turn it on they’ve got Dennis Miller, reruns of _The Apprentice_, bad %(=caps)MSNBC% rebroadcasted news, or something equally inane.  When I want financial news I want numbers and commentary on those numbers and not a helluva lot else.  Particularly not Dennis Miller.  %(=caps)CNBC% fails me.
+
 Thankfully I can get "Bloomberg TV":http://www.bloomberg.com/media/tv/index.html as a free (with commericals) Real stream at a reasonable resolution.  They do good coverage, interrupting the flow of market data only for relevant, market-impacting business and world news.  They’ve got nice glitchy beats soundtracking their station spots.  And what’s more, they’ve implemented %(=caps)CNBC%’s only really good idea: attractive female hosts and correspondents.  Pretty ladies + superb economic analysis = happy al3x.
+
 I’m collecting streams of all varieties, audio and video, because Phil and I will most likely eschew a television and cable for his 17” iMac set up in our living room as a makeshift media center machine.  Nothin’ but streams and whatever we can find on BitTorrent.  That’s all I need if I can live without The Daily Show and Adult Swim (the only non-news %(=caps)TV I% watch), and I very much can.

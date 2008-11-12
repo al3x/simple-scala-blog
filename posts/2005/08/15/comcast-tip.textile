@@ -1,13 +1,21 @@
 h1. A Comcast Tip
+
 Many of the services one has to sign up for when moving can be taken care of with a phone call or a visit to a website.  It took me no more than five minutes apiece to get my natural gas and electricity set up.  Cable internet service, however, is another story.
+
 My local provider is "Comcast":http://www.comcast.com.  There is effectively no competition in the cable arena where I live, and the only other broadband alternative is Verizon, whose %(=caps)DSL% is comparatively slow and unreliable.  I called up Comcast and was informed that I needed to schedule an appointment for a technician to “install my service.”
+
 If you’re moving into an apartment or a home that was previously wired for Comcast cable, you may not need to have a tech come out at an inconvenient time, look around, make sure the cable is hot, and start your service.  Try this:
 
 Plug your cable modem (you have one, right?  only chumps rent…) into a cable outlet in your new place.  Get said modem talking to your computer and try browsing to any ol’ web page.  Does it bounce you to a “Welcome to Comcast” type page?  Good.
+
 Request new service from Comcast by phone or their website.  This gets your name and address in their database.  Just pick some random time for the installation; we won’t be needing it.
+
 Wait an hour or so for your new account request to percolate in their database.  Don’t want to seem suspicious, do we?
+
 Call up _technical support_, not sales.  Tell the nice person: “I have an appointment for new service, but I’ve plugged my cable modem in and it seems like my connection is ready to go, I see the ‘Welcome to Comcast’ page and everything!  Is there any chance I can give you my %(=caps)MAC% address and we can get this set up now?”
+
 Unless you got a real dick of a tech, speaking their language usually works.  When they ask for it, read them your cable modem’s %(=caps)MAC% address, which is often printed on a sticker affixed to the understand of the device.  You may also have to confirm your name, phone number, and address.  If everything’s good on their end you’ll be asked what username you want, and be given a randomly-generated password.
+
 Before you hang up, restart your cable modem or use its management software to get a new %(=caps)DHCP% lease.  Once it’s live again, make sure that you can get to a web site that isn’t in your browser’s cache.  If you can see the interwebs, you’re set.
 
 I’ve done this twice now, in two different Comcast service areas, and it works great.  No muss, no fuss, no wasting a day waiting for the cable guy.  Oh, and don’t bother downloading the setup software that the “Welcome to Comcast” page links you to; it’s hugely outdated and unreliable, even by the admission of a Comcast tech.

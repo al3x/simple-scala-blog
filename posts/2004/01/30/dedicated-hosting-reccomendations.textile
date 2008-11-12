@@ -1,5 +1,5 @@
-h1. Dedicated Hosting Reccomendations?
---- 
-- "p. The project I’m working on at my new gig requires a dedicated server.  I’ve worked with a few dedicated hosting shops, but it’s a huge market.  We need a solid x86 box running either a Linux variant (RedHat and Gentoo preferred) or FreeBSD, sitting on a seriously fat pipe, and none of this “administrative privileges but no root” bullshit: I need to get crazy freaky with some Apache configs.  No colo providers, just dedicated hosting.
-"ServerBeach":http://www.serverbeach.com/ looks good and affordable, but I’d like some first-hand recommendations if you’d like to share/rave/vent.  Much appreciated!"
+h1. Dedicated Hosting Recommendations?
 
+The project I’m working on at my new gig requires a dedicated server.  I’ve worked with a few dedicated hosting shops, but it’s a huge market.  We need a solid x86 box running either a Linux variant (RedHat and Gentoo preferred) or FreeBSD, sitting on a seriously fat pipe, and none of this “administrative privileges but no root” bullshit: I need to get crazy freaky with some Apache configs.  No colo providers, just dedicated hosting.
+
+"ServerBeach":http://www.serverbeach.com/ looks good and affordable, but I’d like some first-hand recommendations if you’d like to share/rave/vent.  Much appreciated!

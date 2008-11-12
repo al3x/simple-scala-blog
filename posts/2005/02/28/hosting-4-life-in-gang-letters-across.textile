@@ -1,5 +1,9 @@
 h1. Hosting 4 Life (In Gang Letters, Across Chest)
+
 I like the place this site is hosted at now, I really do.  Good people, interesting technology, fair price and a discount for Open Source geeks.  But I’ve been hearing wonderful things about TextDrive, and I love their attitude and entrepreneurial spirit.  I identify.  If I were going to run a hosting company, it would be like TextDrive only a little less about Content Management Systems and a little more about security.  It’d be, like, SecureDrive.  TextLock… Drive.  InfoCom.  Tech.
+
 Right.  So.  I saw that TextDrive is offering a "very sharp promotion":http://textdrive.com/vctwo to get some rapid funding: _lifetime_ service for a flat fee.  You give them a chunk of operating cash and they give you hosting as long as their doors are open.  Even if they’re only around for the next year (knock on wood), I still save about US$10 a month over my current deal.  Plus, 10% of that chunk of cash goes to the Open Source project of my choice, which of course I put towards "Ruby on Rails":http://www.rubyonrails.org.
+
 What do I lose?  Dedicated hosting, albeit virtual dedicated hosting.  It’s nice to have root, but it’s also nice to make it someone else’s problem when things blow up.  And given how on top of cutting edge hosting technologies TextDrive is, the only odd request I’ll probably be making is for my absurdly low SpamAssassin threshold (break 2.5 and it don’t jive, baby).
+
 I’ll be moving all this lot over in a few days but you shouldn’t even notice (this site has moved hosts more times than I can even count; so, like, four).  Woo for small business, Open Source, “the community,” et cetera.

@@ -1,4 +1,7 @@
 h1. Entirely del.icio.us
+
 If you "subscribe":http://del.icio.us/rss/al3x to "my del.icio.us":http://del.icio.us/al3x you might have seen a couple hundred new links go by the other night.  That’s because I moved all non-personal bookmarks over to the social linking service in a blizzard of tagging and carpal tunnel.
+
 Thanks to the del.icio.us plugin for "Quicksilver":http://quicksilver.blacktree.com/ all those URLs are now far more available than when they were tucked away in Safari’s bookmarks menu.
+
 Plus, sharing.  Aww.

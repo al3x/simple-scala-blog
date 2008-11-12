@@ -1,2 +1,3 @@
 h1. Production Shmerver
+
 OpenBSD "excising future Apache httpd developments":http://undeadly.org/cgi?action=article&amp;sid=20040607133603 seems, unfortunately, like yet another reason not to run the heavily audited OS as anything more than a firewall/router box.  I see where they’re coming from, and there’s always custom compiles, but it seems like they’re auditing themselves into a corner.

@@ -1,3 +1,5 @@
 h1. You Can Turn Off the Goddamn Arrows
-Everyone’s talking about the release of iTunes 4.5 today, and everyone’s got a thought about the little arrows that take you to relevant matches for whatever you clicked by (Artist, Album, etc.) in the iTunes Music Store.  Lots of people hate them, and rightly so: they clutter up an otherwise elegant interface, and it feels like Apple is going out of their way to pimp the iTMS.  
+
+Everyone’s talking about the release of iTunes 4.5 today, and everyone’s got a thought about the little arrows that take you to relevant matches for whatever you clicked by (Artist, Album, etc.) in the iTunes Music Store.  Lots of people hate them, and rightly so: they clutter up an otherwise elegant interface, and it feels like Apple is going out of their way to pimp the iTMS.
+
 Well guess what folks?  Stop kvetching, ’cause you can turn them off in the app’s Preferences.  While you’re there, turn on the awesome Compilation grouping and never have a cluttered Artist list impair your library browsing again.

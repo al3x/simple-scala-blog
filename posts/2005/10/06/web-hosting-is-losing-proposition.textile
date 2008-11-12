@@ -1,9 +1,17 @@
 h1. Web Hosting Is A Losing Proposition
+
 I’ve left TextDrive.  You’re reading this on "Dreamhost":http://www.dreamhost.com/.
+
 TextDrive was appealing for several reasons: a lifetime account for $399; support of open source projects; a blogger-friendly community; a web developer-friendly collection of new technologies.
-But a lifetime account is only a good deal if you can depend on the service, a community is only as good as its leaders, and technologies are only as useful as they are supported.  
+
+But a lifetime account is only a good deal if you can depend on the service, a community is only as good as its leaders, and technologies are only as useful as they are supported.
+
 TextDrive’s uptime has been, in a word, abhorrent.  The server I was on crashed bi- and often tri-weekly.  It was down each of the last three days.  People I didn’t even know read this site have been complaining about never being able to reach it.
+
 Once you’re in the door you find out that you’ll basically be watching your site 24/7 to keep it running in an unstable environment that allows careless users to bring down entire servers.  TextDrive blames the users, of course, rather than questioning their own administrative skills.  Users are threatened with hefty fines for causing service outages, but that hasn’t remedied the miserable quality of service, which recently included unannounced downtime of their spam filter in addition to the aforementioned frequent crashes.
+
 Folks in the blogging/Web 2.0 sphere have adopted TextDrive as their host of choice, and the TextDrive forums are bursting with Apple-grade loyalists and apologists.  Get on the wrong side of their wildly arrogant admins, however, and you’ll be roundly insulted by the people who’s salaries you’re helping to pay.  I’m not sure I’ve yet had a more singularly unpleasant hosting experience.
+
 But others have.  Web hosting is still a nightmare landscape of con artists, incompetents, and faceless server farms.  The consumer almost always loses, as ever-cheaper prices rarely coincide with good service.  It all makes hosting co-ops or more radical solutions like distributed hosting seem  worth serious consideration.
+
 Think twice before you find your next host.  Do some research.  Weigh the competition.  And, for the love, don’t sign up with TextDrive.

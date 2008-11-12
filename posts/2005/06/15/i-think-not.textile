@@ -1,6 +1,11 @@
 h1. I Think Not
+
 The "DEVONthink Pro":http://www.devon-technologies.com/products/devonthink/overview.php beta is "finally out":http://macupdate.com/info.php/id/18510.  I’ve been waiting a long-ass time for this.  In the interim I stopped using DEVONthink.
+
 I’m not a big Spotlight user.  I know %(=caps)DEVON% had a pretty chart on their website explaining that their shit was hotter than Spotlight – especially for textual correlation! – but getting into a DEVONthink workflow just doesn’t seem worth it.
+
 DEVONthink is schizophrenic, and only more so in Pro.  On the one hand, it’s got AppleScript through-and-through.  On the other, it (poorly) duplicates functionality in scads of established applications: %(=caps)RSS% reading as in Safari/NetNewsWire/NewsFire, photo organization as in iPhoto, outlining as in OmniOutliner, %(=caps)PDF% reading as in Preview, full-screen text editing as in Ulysses, and of course hooking WebKit to throw an entire goddamn browser in there.  Add importers/exporters for myriad formats to the mix and we’re left wondering: spend all day in DEVONthink or all day coordinating between it and a dozen different applications?
+
 “Whatever you prefer” is the likely response, and it’s fair enough.  But between Quicksilver, creative use of Spotlight and Smart Folders, and some sensible (but oh-so-"obsolete":http://www.wired.com/news/mac/0,2125,67774,00.html) hierarchical organization I feel like I have a more full-featured workflow that takes advantage of inter-application communication in the way it was intended rather than a do-everything solution in the fashion of Emacs.
-Add me to the list of disillusioned ex-DEVONthink’ers who sigh “well, if I had a research assistant to input thousands of documents like "Steven Berlin Johnson":http://www.stevenberlinjohnson.com/movabletype/archives/000230.html maybe all that textual correlation would be worth it.”
+
+Add me to the list of disillusioned ex-DEVONthink’ers who sigh “well, if I had a research assistant to input thousands of documents like "Steven Berlin Johnson":http://www.stevenberlinjohnson.com/movabletype/archives/000230.html maybe all that textual correlation would be worth it.
