@@ -1,9 +1,9 @@
 h1. Knowing Where I Stand
-Kineda’s "Are You an A-List Blogebrity?":http://www.kineda.com/are-you-an-a-list-bloglebrity/ widget will size you up and tear you down.  In my case, the results were wholly unsurprising:
-bq. 
-"!http://www.kineda.com/bloglebrity/clist.png(C-List Blogger)!":http://www.kineda.com/are-you-an-a-list-bloglebrity/
 
-bq. 
-“Technorati places "http://www.al3x.net":http://www.al3x.net in the middle authority group.”
+Kineda’s "Are You an A-List Blogebrity?":http://www.kineda.com/are-you-an-a-list-bloglebrity/ widget will size you up and tear you down.  In my case, the results were wholly unsurprising:
+
+bq. "!http://www.kineda.com/bloglebrity/clist.png(C-List Blogger)!":http://www.kineda.com/are-you-an-a-list-bloglebrity/
+
+bq. “Technorati places "http://www.al3x.net":http://www.al3x.net in the middle authority group.”
 
 I’ve been calling myself C-list since the emergence of the A-list.  It’s low-pressure here.

@@ -1,12 +1,15 @@
 h1. The Web Is Your GUI
-James Duncan Davidson "made a point":http://blog.duncandavidson.com/2007/01/more_on_java_an.html fairly similar to "mine":http://al3x.net/entries/762 about the iPhone being closed to developers, albeit with a Java twist:
-bq. 
-“So, you might not have Java in your iPhone. And you might not have an %(=caps)SDK%, but you’ll certainly be able to run the all the best Java applications out there on your iPhone, as well as all the other great Web 2.0 applications, thanks to Safari.”
+
+James Duncan Davidson "made a point":http://blog.duncandavidson.com/2007/01/more_on_java_an.html fairly similar to mine about the iPhone being closed to developers, albeit with a Java twist:
+
+bq. “So, you might not have Java in your iPhone. And you might not have an %(=caps)SDK%, but you’ll certainly be able to run the all the best Java applications out there on your iPhone, as well as all the other great Web 2.0 applications, thanks to Safari.”
 
 The other day a friend asked me what "widget toolkit":http://en.wikipedia.org/wiki/Widget_toolkit to learn for adding graphical user interfaces to his projects.  I wrote him back a longish email weighing the strengths and weaknesses of the various options out there: Cocoa is pretty but strictly Mac; %(=caps)GTK% has bindings for just about every language but has a pile of dependencies; %(=caps)FOX% and wxWidgets are highly cross-platform but the resulting applications don’t look at home on any system; and so forth.
+
 What I should have recommended was that he learn more about web application development, even just enough to output and consume basic forms.  Putting a web front-end on your application requires ever less and buys you so much independence.  Why invest time learning how to work with a cumbersome, platform-limiting toolkit for most tasks?
+
 As Duncan says:
-bq. 
-“Even Sun itself, the champion of making all apps Java, has gone this route. When I worked at Sun, there were a few internal Java Desktop applications, but before I left most of these??as well as all of the old native-code ones??were being migrated to web applications. After all, which is easier? Distribute a Java application or just tell employees to hit a %(=caps)URL% in their web browser? Update an application on everyone’s machines or update an application on a server?”
+
+bq. “Even Sun itself, the champion of making all apps Java, has gone this route. When I worked at Sun, there were a few internal Java Desktop applications, but before I left most of these??as well as all of the old native-code ones were being migrated to web applications. After all, which is easier? Distribute a Java application or just tell employees to hit a %(=caps)URL% in their web browser? Update an application on everyone’s machines or update an application on a server?”
 
 It all makes me wonder how many schools are teaching web application development versus legacy %(=caps)GUI% development.  That’s going to be a lot of catching up to do.

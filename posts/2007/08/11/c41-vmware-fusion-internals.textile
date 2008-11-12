@@ -1,11 +1,21 @@
-h1. C4[1]: Shawn Morel on VMware Fusion
+h1. C4-[1]: Shawn Morel on VMware Fusion
+
 Rougher notes on this one, sorry.  It's dense stuff!
+
 Some things can't be virtualized: optical drives, graphics cards, etc.  This talk mostly about CPU-level stuff.
+
 Hypervisor idea originated at IBM, was formalized by Popek & Goldberg in 1974.  Properties of a VMM (virtual machine monitor): equivalence (identical operation to host environment), resource control, efficiency.  Formalized set of attributes for a virtualizable processor.
+
 "We don't call it HijackOSX.kext because Apple wouldn't like that."  Switching each direction [between host and VM] is 7 microseconds.
+
 VT: Intel's set of instructions for virtualization; can tell it "trap this instruction for me."  Works fine without it for 32-bit.  VMware lives in high memory and protects the VM with segfault protection, which Intel clobbers in 64-bit, necessitating VT.
+
 A lot of the code is cross-platform C and C++.  The crux of the code is the Virtual Machine Monitor, which is hard to port to PPC.  Porting doesn't buy you much, since you could only run PPC guest VMs.
+
 3D: working on drivers that will get Aero Glass going.  Some Direct X games working without shaders internally.  GL coming after that.
+
 "Host doesn't have to know anything about 64-bit."
+
 OSx86 + VMware = virtual Mac on Mac right now.  VMware would have to implement EFI and Apple's proprietary ROM.
+
 Snapshot trees?  "Want to make things simple for consumers ... We can do it, but ought we do it?  Do we want Fusion and Workstation on the Mac?"

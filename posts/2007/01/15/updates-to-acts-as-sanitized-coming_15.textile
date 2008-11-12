@@ -1,5 +1,9 @@
 h1. Updates to Acts As Sanitized Coming
+
 It’s been nice to see that there’s some interest in Acts As Sanitized.
+
 "John Nunemaker":http://addictedtonew.com/ referred me to the "White List":http://svn.techno-weenie.net/projects/plugins/white_list/ plugin by "Rick Olsen":http://techno-weenie.net/, which seeks to solve a similar problem but for views, not models.  Rick himself then mentioned that the @sanitize@ method passes only a fraction of the test cases that he’s adapted from Rsnake’s "%(=caps)XSS% Cheat Sheet":http://ha.ckers.org/xss.html, something I’m well aware of.
+
 Over the next couple days I’ll be expanding my test cases to encompass the %(=caps)XSS% Cheat Sheet.  Beyond that, I’ll be providing an enhanced filter along the lines of Rick’s solution.  Rick has clearly done the difficult legwork here; the rest is just a matter of approach and implementation details.
+
 Any other feature requests while I’m at it?
