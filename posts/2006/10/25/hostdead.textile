@@ -1,11 +1,17 @@
 h1. Hostdead
+
 James Duncan Davidson "had the right idea about blogging tools":http://blog.duncandavidson.com/2004/12/typepad_transit.html:
-bq. 
-“I’ve putzed around way to[o] much with weblogging software over the years. It’s been fun and rewarding. But it’s taken away my concentration from other things I should be doing.”
+
+bq. “I’ve putzed around way to[o] much with weblogging software over the years. It’s been fun and rewarding. But it’s taken away my concentration from other things I should be doing.”
 
 That was in late 2004.
+
 Today I set up a Virtual Private Server with "Slicehost":http://www.slicehost.com/ with the intention of moving this domain to it, as well as laying down foundation for some upcoming projects.  My logic was that having a %(=caps)VPS% would allow me to run whatever crazy-ass blog software or services I so chose.
+
 Halfway into the tedium of setting up my server I surveyed the world of hosted blogging for the first time in ages.  "TypePad":http://www.typepad.com still sucks.  "Blogger":http://www.blogger.com sucks harder, if that’s even possible.  But "WordPress.com":http://www.wordpress.com does not suck, and  just today they added support for custom domains.  This serendipity got me thinking.
+
 My email is now totally outsourced.  Wouldn’t it be nice to do the same for blogging and the minimal file hosting needs I have for my domain?  No upgrades, no patches, just write when I feel like writing.  Always on and someone else’s problem.  Yeah.  _Yeah_.
+
 So I get all my entries imported into a WordPress.com blog.  I get the design looking halfway decent.  And that’s when I find out that WordPress.com currently doesn’t allow for both hosting a blog and receiving email at the same domain name.  This seems to defeat the purpose of such an offering entirely.  Bah.
+
 It’s really surprising that there’s not a mature hosted blogging offering in 2006.  Like, shocking.  What am I not getting?

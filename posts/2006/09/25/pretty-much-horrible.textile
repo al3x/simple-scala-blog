@@ -1,10 +1,15 @@
 h1. Pretty Much Horrible
-Ben Bengert "gave a talk":http://video.google.com/videoplay?docid=-872784530622495809&#38;q=type%3Agoogle+engEDU inside Google on reusable Python web components (WSGI, Paste, &#38;c).  In it, some choice thoughts on porting Rails Routes to Python:
-bq. 
-“I tried to port it but I just couldn’t read the Ruby code.  It was code generation of code generation.  Besides being pretty much horrible to debug, it was pretty much unreadable to everybody outside the [Rails] core team.”
+
+Ben Bengert "gave a talk":http://video.google.com/videoplay?docid=-872784530622495809&#38;q=type%3Agoogle+engEDU inside Google on reusable Python web components (WSGI, Paste, &c.).  In it, some choice thoughts on porting Rails Routes to Python:
+
+bq. “I tried to port it but I just couldn’t read the Ruby code.  It was code generation of code generation.  Besides being pretty much horrible to debug, it was pretty much unreadable to everybody outside the [Rails] core team.”
 
 Ruby’s Perl heritage is starting to show up in interesting ways.
+
 Perl ended up looking like line noise thanks to syntactical shortcuts provided for its sysadmin user base, designed to simplify tasks like string processing.  You could write powerful code in Perl quickly, but good luck sharing it with your team or coming back to it six months later.
+
 I see Ruby providing similar and equally confusing shortcuts for its audience of %(=caps)OOP%-hungry coders.  One can write powerful, dynamic, and terribly _clever_ Ruby, but readability and comprehension fly out the window.
+
 Jeremy Voorhis, presently authoring a book on Rails for O’Reilly, recently "blogged about":http://www.jvoorhis.org/articles/2006/08/29/on-writing-well-exposition-or-code using Rubyisms to write “denser, more readable code.”  Responses in the comments were mixed, with complaints ranging from “a clear example of code obfuscation” to “way to[o] arcane.”  Proponents of this style essentially say, “try it, you’ll get used it.”  Fair enough.  People managed to get used to Prolog, too.
+
 Programmers who get a big Cheshire Cat grin when they see obfuscated code and dense one-liners worry me.  Well-engineered code needn’t be verbose nor terse; there is a via media that is intuitive to every superb programmer I’ve worked with.  Setting aside clever code for good code increases readability and reduces potential side-effects like security flaws and performance issues.

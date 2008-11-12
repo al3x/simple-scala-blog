@@ -1,8 +1,15 @@
 h1. Fun With GAFYD
+
 I’ve had great success using "Google Apps For Your Domain":http://www.google.com/a/ (nee Google Apps, nee Google Hosted) for my current clients.  And by “great success” I mean “it’s worked since we started using it and I haven’t had to think about it.”
+
 My person email setup, however, was a little wacky: Dreamhost answers for my domain, collects email, and forwards it to Gmail where I then grab it in Mail.app via %(=caps)POP%.  There’s too many accounts and bounces and potential hiccups there.
+
 So, on a lark, I tried to see if Google would give me a Google Apps account for this domain.  I was expecting a multi-day delay, if not outright rejection, but instead I was presented with an account creation screen at the end of the form.  _Sweet._
+
 Some zone file editing later, my mail at this domain is handled by Google, no middleman required.  If you tried to email me this evening it may have bounced, but you probably didn’t.
+
 A neat thing is that you can now Jabber/Google Talk to me using my usual email address.  I’ll no longer be signed on to Google Talk with my old Gmail account.
+
 A sucky thing is that a Google Apps account is not the same as Google account.  You can’t login to Google Groups or Reader with it, for example, only those Google services that have been blessed for Hosted use.  That needs to change.
+
 So.  Google Apps.  It’s good.  Again.

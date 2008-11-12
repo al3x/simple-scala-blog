@@ -1,6 +1,11 @@
 h1. And Yet Another Thing
+
 Along with the "other changes I’m making":http://al3x.net/2006/06/07/some-other-things, I’ve resigned from "Kenshoto":http://www.kenshoto.com.  I haven’t talked too much about my participation therein, so here’s a sort of post-mortem.
+
 Kenshoto is a hacker group in the tradition of the "l0pht":http://en.wikipedia.org/wiki/L0pht, the "Shmoo Group":http://www.shmoo.com/, the Ghetto Hackers, etc.  The group was formed two years ago, during the first "ShmooCon":http://www.shmoocon.org/.  Most members competed in the Capture the Flag (CtF) competition at "DefCon":http://www.defcon.org/ 2004 as Team Bacon.  "Popular Science":http://www.popsci.com/ wrote an article about that year’s game, a fair portion of which was from the perspective of Team Bacon.  Bacon didn’t win, but we had a good time and thought hard about the mechanics of the game.
+
 While the group was established with the usual set of hacker ideals and goals, Kenshoto’s principal purpose was to take up the torch from the Ghetto Hackers and run CtF at DefCon 2005.  After a winning proposal bid, Kenshoto ran last year’s game to positive reaction from both teams and spectators.  They were invited back, and this year they’ll be running it again.  That’s the history, in a nutshell.
+
 My role has been fairly minor.  Much of the preparation for the 2005 game took place while I had moved to San Francisco, so my contribution was minimal.  I intended to do more this year, but as the months progressed I found myself spending my after-work time on DJing and other less deeply technical pursuits.  With qualifications coming up and development for the game about to get into full gear, it was time to either ramp up my commitment or bow out.  Faced with the deeply unappealing prospect of a third summer’s vacation hours spent in Vegas, I chose the latter option.
+
 I truly enjoyed my time participating in Kenshoto and I wish them the best for this year’s CtF game and beyond.

@@ -1,8 +1,15 @@
 h1. Fuck An Office
-The other day "Timoni":http://www.synergizement.com/blog/ and I were wondering why telecommuting isn’t the rule rather than the exception.  She gets to work from home on occassion.  I flat-out can’t and, the job aside, it really chafes me some days.
+
+The other day T and I were wondering why telecommuting isn’t the rule rather than the exception.  She gets to work from home on occassion.  I flat-out can’t and, the job aside, it really chafes me some days.
+
 Up until recently telecommuting has been unfairly regarded as a luxury in this country, the domain of antisocial programmers and parents with newborns.   Now "extraneous factors":http://www.csmonitor.com/2006/0508/p13s02-wmgn.html are making telecommuting a financial necessity.  Nothing like a kick in the bottom line to wake employers up.
+
 From the technological perspective, we’re just now getting to the point of having easy-to-use tools for productive remote working.  One good thing to come out of the “make everything a web application” craze is  the variety of solutions to keep remote teams on the same page; the ever-expanding suite of apps by "37 Signals":http://www.37signals.com/ are just a few decent, affordable examples.  Then arm your newly-freed troops with machines sporting "built-in webcams":http://www.apple.com/hardware/ to take advantage of cheap anytime/anywhere video and voice conferencing and you’ve even got the advantages of face time without all the watercooler bullshit.
+
 It’s downright easy to have a "virtual office":http://www.eweek.com/article2/0,1895,1958128,00.asp, something "Phil":http://www.millionairesocialite.com/ and I discovered when writing our aborted business plan last summer.  You can outsource _everything_ and guess what?  It makes good business sense.  Turns out that dividing specializations up amongst actors in a marketplace yields increased efficiency.  "Who knew?":http://www.google.com/search?q=economics+101
+
 Most fundamentally, there’s an issue of time management.  Timoni had a great observation: how much time do you spend getting ready for work, going to work, getting settled at work, getting ready to leave work, leaving work, getting home from work?  How much of that time could be spent actually working?  The routine of the business day is hellishly unproductive.
+
 Industry allowing, the convergence of factors makes this a ripe moment to seriously consider talking to your boss about teleworking.  Or, if you _are_ the boss, consider rethinking how you’re structuring your company.
+
 At some point in the near future I’d like to write more on this, including talking about how more teleworking can transform communities and social relationships.  It’s a fascinating issue, I think.

@@ -1,7 +1,13 @@
 h1. Mac Crashes, More
+
 My MacBook Pro has been slow and quirky for the past week.  Yesterday I had to hard reboot twice.  The second time made my machine decidedly unhappy: just about everything running decided to forget its preferences.  That meant all my Inquisitor shortcuts were gone; my news feeds were gone; my iTunes library was hosed.  A recent backup made this less of a problem than it could have been, but it was still a hassle.
+
 After restoring my files, I took the opportunity to track down the root of my machine’s instability.  As it turn out, "Application Enhancer":http://www.unsanity.com/haxies/ape was running, most likely installed by "Airfoil":http://www.rogueamoeba.com/airfoil/.  %(=caps)APE% being a notorious cause of instability, I eschewed it post-haste.   Things have been less strange since.
+
 I also disabled FileVault and secure virtual memory, which was painful.  I’ve read countless times that FileVault isn’t _supposed_ to degrade performance but experience has consistently shown me otherwise.  A pity.
+
 As much as I enjoyed the incredible flexibility and OS integration of "Voodoo Pad":http://www.flyingmeat.com/voodoopad/, it does more than I realistically need.  As soon as I started using it to build an “outboard brain” I realized that I prefer to collect information and synthesize it into coding, writing, or some other activity.  Passive collection of anything more than bookmarks just isn’t my style.
+
 I’ve gone back to using a “Life” project in "TextMate":http://www.macromates.com for short-term notes, numbers, ideas, and so forth.  Not having to worry (read: not being able to worry) about styling text, quirky list behavior, and other %(=caps)RTF% oddities is a burden lifted.  "Witch":http://www.petermaurer.de/nasi.php?section=witch makes getting to that project that much easier and "Megazoomer":http://www.ianhenderson.org/megazoomer.html lets me focus on TextMate and only TextMate.
+
 I find the combination of blogging and "del.icio.us":http://del.icio.us/al3x to be a fine outboard brain, but I need more granularity than the broad categories that TextPattern allows.  Tagging may be the feature that forces me to migrate yet again.

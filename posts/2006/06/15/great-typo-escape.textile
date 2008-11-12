@@ -1,27 +1,31 @@
 h1. The Great Typo Escape
+
 I guess a lot of people are sick of "Typo":http://www.typosphere.org.  I’ve had a number of emails in the last couple months asking me for the script I used to get my entries and comments out of Typo and into TextPattern.  Poor souls.
+
 Until recently most of my at-home geek time was devoted to Kenshoto, but now I’m freed up to work on lil’ side projects like this.  So, without further ado, here’s how to get the heck outta Typo:
-h3. Part 1: Exporting to Moveable Type Format
 
-Download -mt_export.rb- (ed: sorry, this file was lost ages ago!).
-Copy it to the scripts directory of your Typo installation.
-From a command line, change to the scripts directory and run my export script, piping the output to a new file: ruby mt_export.rb &gt; import.txt
-Set the new import.txt file aside somewhere safe.
-Install TextPattern.
+h2. Part 1: Exporting to Moveable Type Format
 
-h3. Part 2: Importing
+# Download -mt_export.rb- (ed: sorry, this file was lost ages ago!).
+# Copy it to the scripts directory of your Typo installation.
+# From a command line, change to the scripts directory and run my export script, piping the output to a new file: ruby mt_export.rb &gt; import.txt
+# Set the new import.txt file aside somewhere safe.
+# Install TextPattern.
+
+h2. Part 2: Importing
 
 Once you have TextPattern installed, bring up the admin section and open the import tab. 
 Read the help text that comes up when you click on the lil’ question marks.
 Move import.txt to the directory specified in the help text: /textpattern/include/import
 Do a “Moveable Type (File)” import.  It went well, right?
 
-h3. Part 3: Cleaning Up
+h2. Part 3: Cleaning Up
+
 (TextPattern is awesome but it’s not so smart about importing.  It’ll suck in new comments just fine but it won’t update its internal count of how many comments each post has recieved.  When you look at your blog, it’ll look like there’s no comments.  This fixes that.)
 
-Download "txp_update_comment_count.php (txp_update_comment_count.php)":http://code.al3x.net/svn/scraps/textpattern/txp_update_comment_count.php to the server you’re working on.
-Edit the commented variables to contain your database connection settings.
-Run the damn thang: php txp_update_comment_count.php
-If you see it figuring out how many comments each post has associated with it, you’re set.
+# Download "txp_update_comment_count.php (txp_update_comment_count.php)":http://code.al3x.net/svn/scraps/textpattern/txp_update_comment_count.php to the server you’re working on.
+# Edit the commented variables to contain your database connection settings.
+# Run the damn thang: php txp_update_comment_count.php
+# If you see it figuring out how many comments each post has associated with it, you’re set.
 
 Hope that puts you on the path to blog unsuckage.  Lemme know if something breaks!

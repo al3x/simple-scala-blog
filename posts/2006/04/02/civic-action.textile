@@ -1,6 +1,11 @@
 h1. Civic Action
+
 Last week my PowerBook’s hard drive failed.  Only a year and a half old, but that’s the way it goes.  I promptly replaced the drive and sold the machine to a friend; the lure of a new MacBook was simply too great.
+
 But when I got my shiny new machine home, all was not well.  There was, apparently, a young asp trapped just below the left speaker grille.  My new MacBook _hissed_ at me.  Had I angered it so soon?
+
 To Google I went, and then to Apple’s support forums.  Lo and behold, hundreds of other MacBook owners being whined at by their expensive new purchases.  Apple’s official stance?  Denial.
+
 This is not the sort of thing I take lightly.
+
 I’ve started a "petition":http://www.petitiononline.com/whinefix/petition.html to fix the MacBook Pro whine flaw.  If you or someone you know is tired of being whined at, take a stand and sign the petition.

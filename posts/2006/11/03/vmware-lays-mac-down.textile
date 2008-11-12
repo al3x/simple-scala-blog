@@ -1,6 +1,11 @@
 h1. VMware Lays the Mac Down
+
 "VMware Fusion":http://vmblog.com/archive/2006/10/17/2161.aspx is the name of VMware’s Mac offering, currently in private beta.  “Somebody I know” had a copy running on his or her MacBook Pro and I couldn’t help but take a look.
+
 VMware Fusion is far more Mac-like than its direct competitor, "Parallels":http://www.parallels.com/products/desktop/, not that that’s a high bar.  Fusion’s interface is simple, markedly more so than the Windows and Linux versions of VMware; when the “advanced installation options” are a choice between using a CD or an %(=caps)ISO% image we’re talking _basic_ for virtualization software.
+
 The good news is that Fusion will work with your existing VMware images, not to mention all of their "Virtual Appliances":http://www.vmware.com/vmtn/appliances/.  The bad news is that the software doesn’t support snapshots, rendering it essentially identical to Paralells in testing usefulness, which is to say not very useful at all.  Snapshots are what _makes_ VMware; they’re why we suffer its fits and starts (and shutdowns).  Without them, Fusion is a non-starter as a commercial product.
+
 Which isn’t to say that I wouldn’t rather use VMware over Parallels.  VMware really is synonymous with virtualization and I have an illogical and innate consumer trust in their brand and products.  If Fusion and Parallels are essentially the same product, I’ll use Fusion.  If one or another can deliver the advanced features of VMware 5 to my Mac, I’ll use that one.  Easy decision.
+
 Oh, and Fusion seems to be faster, even with the debugging checks hard-coded into this beta.  So that’s cool.

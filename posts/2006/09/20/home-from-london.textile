@@ -1,17 +1,33 @@
 h1. Home From London
+
 I’m back from London.  It was one of the _easiest_ trips I’ve ever done, to be sure.  When the most frustrating event in six days is not getting a fresh tea tray in your hotel room, you really can’t complain.
+
 My previous trip to London was years ago; I think I was 15.  London wasn’t the focus of that trip to the UK and we spent all of two days there.  I remembered a few sights but most everything was new to me this time around.
+
 The quick rundown:
+
 h3. Hotel
+
 The "Cumberland":http://www.guoman.com/guoman/hotels/hotelFinder/cumberland.do?hotelID=gu-cumberland&#38;reset=true, right around the corner from the Marble Arch tube station, has a boutique hotel’s lobby and a business hotel’s efficiency.  It was only affordable thanks to some persistent bidding on "Priceline":http://www.priceline.com.  The night porter should be fired, but his mistakes were compensated.  Recommended, overall.
+
 h3. Neighborhoods
+
 The Oxford Street shopping district in which we stayed was a fine location from which to explore other neighborhoods, but not interesting in the least.  We liked the theater district, predictably, and some of the other posh areas like Kensington and Belgravia.  An evening in the East End was a interesting contrast, and we found an excellent crumbling old pub and a hip dim-sum restaurant amidst the grey old buildings.  Camden Town is basically Hot Topic spread out over a number of blocks.
+
 h3. Museums
-The Tate Modern is a bit disappointing without the massive installation on the ground floor.  We only saw the free collections since the featured exhibits didn’t interest us.  Tate Britain, on the other hand, is excellent and of a manageable size; ignore most of the modern collections and take in all the beautiful classics.  I didn’t join Timoni for the British Museum since I saw it to exhaustion last time I was in London.
+
+The Tate Modern is a bit disappointing without the massive installation on the ground floor.  We only saw the free collections since the featured exhibits didn’t interest us.  Tate Britain, on the other hand, is excellent and of a manageable size; ignore most of the modern collections and take in all the beautiful classics.  I didn’t join T for the British Museum since I saw it to exhaustion last time I was in London.
+
 h3. Parks and Walking
-All the major parks and gardens are worth seeing.  We lucked out on those, weather-wise.  Timoni and I spent most of the trip walking and I feel like I have a much better sense of the city’s geography now.  Bring a good pair of shoes.  Walking along the Thames is lovely on a gray day.
+
+All the major parks and gardens are worth seeing.  We lucked out on those, weather-wise.  T and I spent most of the trip walking and I feel like I have a much better sense of the city’s geography now.  Bring a good pair of shoes.  Walking along the Thames is lovely on a gray day.
+
 h3. Food and Drink
+
 Pub food is great, but it’s hard to find a pub in the tony neighborhoods that isn’t totally commercial (think %(=caps)TGI% Fridays with mediocre ales and spotted dick).  Pubs also stop serving food by about 9PM to capitalize on the drinking crowd.  I tried a few of the pub favorite drinks and wasn’t impressed, but reminded myself that these ales, beers, and ciders are brewed for consumption in quantity.  Better beer can be had at regional restaurants.  Tea at the Orangery was indulgent and satisfying, and we soon found ourselves taking afternoon tea whenever possible.
+
 h3. Theater
+
 "Frost/Nixon":http://www.londontheatre.co.uk/lashmars/frostnixon/index.html was simply incredible.  Some of the best theater I’ve seen.  We were very lucky to get last minute tickets, and good seats at that.  "See How They Run":http://www.timeout.com/london/theatre/events/199172/see_how_they_run.html was great and almost overwhelmingly silly.  The cast did a great job with the far-fetched %(=caps)WWII%-era plot.
+
 That’s it in a nutshell.  My comments on RailsConf Europe are up next.

@@ -1,4 +1,7 @@
 h1. All OS X Ports Systems Are Broken
+
 Neither "Darwin Ports":http://www.darwinports.org/ nor "Fink":http://fink.sf.net/ can install "glade":http://glade.gnome.org/ without erroring out.  Not from binary, and not from source, and not even into a fresh install.
+
 What.  The.  Hell.
+
 _%(=caps)UPDATE%:_ I was "not alone":http://www.oreillynet.com/mac/blog/2006/02/a_bad_day_for_fink_and_darwin.html.

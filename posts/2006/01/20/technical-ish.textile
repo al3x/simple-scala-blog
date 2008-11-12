@@ -1,6 +1,11 @@
 h1. Technical Ish
+
 Email sent to my usual address seems to be bouncing.
-I’ve been forwarding that address to a Gmail account for months now, but sometime last night Google decided that wasn’t cool, and is sending back nasty little *%(=caps)PERM%_FAILURE: %(=caps)SMTP% Error (state 9): 554  Relay access denied* messages to any poor soul that tries to email me.
+
+I’ve been forwarding that address to a Gmail account for months now, but sometime last night Google decided that wasn’t cool, and is sending back nasty little *PERM_FAILURE: SMTP Error (state 9): 554  Relay access denied* messages to any poor soul that tries to email me.
+
 Except that spam is still getting through.  Just not, y’know, emails I want.  Thanks, Google.
+
 I’ve emailed Gmail support about it but I don’t expect any resolution, ever.
+
 _%(=caps)UPDATE%:_ seems to have resolved itself.  Weirdness.
