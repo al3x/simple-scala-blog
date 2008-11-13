@@ -1,5 +1,9 @@
 h1. I'm Writing A Book
+
 At this year's "Foo Camp":http://en.wikipedia.org/wiki/Foo_Camp I had a chance to talk to O'Reilly editor "Mike Loukides":http://www.oreillynet.com/pub/au/29 about my interests in emerging programming languages, particularly "Scala":http://www.scala-lang.org/.
+
 Several weeks ago, I signed a contract to co-author a book on Scala for O'Reilly, tentatively titled _Programming Scala_ (perhaps a confusing title amidst the brief array of similarly-named Scala books, but one in keeping with O'Reilly's titling conventions).  My co-author is "Dean Wampler":http://www.deanwampler.com/, a specialist in "polyglot programming"  that is, integrating multiple languages in production systems.  We've not yet met in person, but so far Dean has been great to work with, as have Mike and the other O'Reilly staff that have helped us out.
+
 Presently, Dean is working on the second chapter of the book and I'm working on the third.  The first has been written by Dean and edited by me.  We intend to write our book in the open, as the "Real World Haskell":http://www.realworldhaskell.org/blog/ authors did, so you'll soon be able to see our progress and contribute your suggestions, corrections, and critiques.
+
 It's difficult to express how thrilled I am to be working on this project.  Programming languages have become an obsession of mine, and I figured the opportunity to be working on a book about one would be a long ways off.  I know the hard parts of writing this book lay ahead, but so far, the process is a joy.

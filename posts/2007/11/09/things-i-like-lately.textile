@@ -1,19 +1,29 @@
 h1. Things I Like Lately
-There are some things that I like.  Software and other things.  Roundup:
-h4. Yep
-"!http://lh3.google.com/al3xanderpayne/RzTsH0G_WeI/AAAAAAAAAB0/bIdW2xLgAnY/Yep_small.jpg?imgmax=800(Yep_small.jpg)!":
-"Yep":http://www.ironicsoftware.com/yep/ is iTunes for PDFs.  If you don't collect PDFs like you collect music, this won't be appealing to you.  Personally, I'm grabbing presentations, papers, tutorials, and books every day, all the time.  This wouldn't be half as much fun without Yep's tagging and browsing.  I also make heavy use of the "YepShot" bookmarklet that takes the web page you're looking at and pops it in your PDF library.  Yep doesn't try to be an outboard brain like DevonThink.  It just stores and organizes collections of PDFs like nobody's business.  
-h4. Whisky
-I went to "Whiskey Fest SF":http://www.maltadvocate.com/whiskeyfest-sf.asp with several of my coworkers.  Favorites included "Jura's Superstition":http://www.isleofjura.com/range/detail.cfm?contentid=33 blended Scotch, "Old Pogue":http://www.oldpogue.com/ bourbon, and Macallen's "Amber":http://www.bevmo.com/productinfo.asp?sku=00000077313&N=168+40+4294956601&Nr=Store%3A99%2C+Store%3A99&Nr=Store%3A99&area=spirits maple Scotch whisky liqueur.  I also recommend having a quality Manhattan if you haven't ordered one in a while.  You'll be happy you did.
-h4. Gmail IMAP
-I can now use Gmail on my iPhone.  It works awesome.
-!http://lh4.google.com/al3xanderpayne/RzT4tEG_WgI/AAAAAAAAACE/7F9vhXm3Bb4/mailplane.jpg?imgmax=800(mailplane.jpg)!
-I can't say the same for the Mail.app in Leopard, though I give it a try every couple days.  I've been using "Mailplane": on my MacBook Pro with great success.  Just enough value added to the in-browser Gmail interface without getting in the way.
-h4. Music
-"DJ A-Trak's":www.djatrak.com _Kanye's Soul Mix Show_ has got so much soul.  The newest "Jens Lekman":http://www.jenslekman.com/ record, _Night Falls on Kortedala_ has also been in heavy rotation.  I'm seeing him tonight at "Bimbo's":http://www.bimbos365club.com/, the best live music venue in San Francisco.
-My Etymotics headphones died and I replaced them with a pair of "Vibe Duo":http://www.v-moda.com/collection/modaphones/vibe%20duo.aspxs.  While the Vibe's certainly aren't as accurate, their bouncy bass and handy iPhone-compatible mic makes them a pretty solid choice.  Plus, they're exactly the price of an iPhone rebate, if you have one on hand.
-h4. Twitter Things
-"Spaz":http://funkatron.com/spaz and "Snitter":http://snook.ca/snitter/ are impressive examples of what Adobe AIR can do.  Both are desktop Twitter clients that make extensive use of the API I maintain, and both authors have been excellent contributors to the Twitter development community.  Also a big nod to "Twitteriffic 3":http://iconfactory.com/software/twitterrific, definitely worth the asking price for all the work that Craig has put into it.
-"!http://lh4.google.com/al3xanderpayne/RzT5EEG_WhI/AAAAAAAAACM/2uyKg8IUOKk/Dock.jpg?imgmax=800(Dock.jpg)!":http://www.foamee.com/
-"Foamee":http://www.foamee.com/ just launched.  It's a way to keep track of people you owe beers to.  It's one of the best-designed Twitter projects I've seen.
 
+There are some things that I like.  Software and other things.  Roundup:
+
+h2. Yep
+
+"Yep":http://www.ironicsoftware.com/yep/ is iTunes for PDFs.  If you don't collect PDFs like you collect music, this won't be appealing to you.  Personally, I'm grabbing presentations, papers, tutorials, and books every day, all the time.  This wouldn't be half as much fun without Yep's tagging and browsing.  I also make heavy use of the "YepShot" bookmarklet that takes the web page you're looking at and pops it in your PDF library.  Yep doesn't try to be an outboard brain like DevonThink.  It just stores and organizes collections of PDFs like nobody's business.  
+
+h2. Whisky
+
+I went to "Whiskey Fest SF":http://www.maltadvocate.com/whiskeyfest-sf.asp with several of my coworkers.  Favorites included "Jura's Superstition":http://www.isleofjura.com/range/detail.cfm?contentid=33 blended Scotch, "Old Pogue":http://www.oldpogue.com/ bourbon, and Macallen's "Amber":http://www.bevmo.com/productinfo.asp?sku=00000077313&N=168+40+4294956601&Nr=Store%3A99%2C+Store%3A99&Nr=Store%3A99&area=spirits maple Scotch whisky liqueur.  I also recommend having a quality Manhattan if you haven't ordered one in a while.  You'll be happy you did.
+
+h2. Gmail IMAP
+
+I can now use Gmail on my iPhone.  It works awesome.
+
+I can't say the same for the Mail.app in Leopard, though I give it a try every couple days.  I've been using "Mailplane": on my MacBook Pro with great success.  Just enough value added to the in-browser Gmail interface without getting in the way.
+
+h2. Music
+
+"DJ A-Trak's":www.djatrak.com _Kanye's Soul Mix Show_ has got so much soul.  The newest "Jens Lekman":http://www.jenslekman.com/ record, _Night Falls on Kortedala_ has also been in heavy rotation.  I'm seeing him tonight at "Bimbo's":http://www.bimbos365club.com/, the best live music venue in San Francisco.
+
+My Etymotics headphones died and I replaced them with a pair of "Vibe Duo":http://www.v-moda.com/collection/modaphones/vibe%20duo.aspxs.  While the Vibe's certainly aren't as accurate, their bouncy bass and handy iPhone-compatible mic makes them a pretty solid choice.  Plus, they're exactly the price of an iPhone rebate, if you have one on hand.
+
+h2. Twitter Things
+
+"Spaz":http://funkatron.com/spaz and "Snitter":http://snook.ca/snitter/ are impressive examples of what Adobe AIR can do.  Both are desktop Twitter clients that make extensive use of the API I maintain, and both authors have been excellent contributors to the Twitter development community.  Also a big nod to "Twitteriffic 3":http://iconfactory.com/software/twitterrific, definitely worth the asking price for all the work that Craig has put into it.
+
+"Foamee":http://www.foamee.com/ just launched.  It's a way to keep track of people you owe beers to.  It's one of the best-designed Twitter projects I've seen.

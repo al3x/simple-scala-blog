@@ -1,9 +1,17 @@
 h1. RubyConf 2007, Day 3: Sploitin' with Ruby
-Speaker Aaron Bedra, who works for startup "gonowdo":http://gonowdo.com/, is closing out the day with a talk about how Ruby has "infiltrated the security community."  
+
+Speaker Aaron Bedra, who works for startup "gonowdo":http://gonowdo.com/, is closing out the day with a talk about how Ruby has "infiltrated the security community."
+
 The main thrust of the talk is introducing metasploit, a collection of information security tools for exploitation (attacking and owning systems).  The tool has been ported from Perl to Ruby in its most recent version.
-Metasploit has top-level concepts of exploits and their auxiliaries.  Exploits depend on payloads, encoders, and nops (no operation instructions).  Exploits are what trigger a vulnerability, and payloads determine what happens (for example, getting an administrative shell back from the target machine).  Encoders transform payloads, avoiding restricted characters and applying intrusion detection evasion techniques.  
+
+Metasploit has top-level concepts of exploits and their auxiliaries.  Exploits depend on payloads, encoders, and nops (no operation instructions).  Exploits are what trigger a vulnerability, and payloads determine what happens (for example, getting an administrative shell back from the target machine).  Encoders transform payloads, avoiding restricted characters and applying intrusion detection evasion techniques.
+
 A variety of payloads are available for different platforms.  Bedra describes Metasploit's meterpreter as "the coolest and best use of Ruby in the application."  It's an enhanced version of irb that exposes a DSL for exploitation.  To delivery these payloads, Metasploit has three interfaces: a console, a Rails-powered web interface, and a GTK GUI that's still experimental.
+
 Before Bedra can proceed with a demo, a couple of skeptical questions from audience interrupt him.  One questioner was unsure of the benefit of being shown how to attack systems, and the other wanted more information on defending his web applications.  A general discussion of security disclosure and the benefits of security research clears up some misconceptions, and the demo proceeds.
+
 The target machine is a virtual machine running an old copy of Windows 2000.  Bedra selects an exploit targeting a vulnerability in the WINS nameserver, and proceeds to demonstrate that the system is up and talking to the network.  The meterpreter payload is selected, the host set, and the system is exploited.  Everything is working flawlessly so far.
+
 Bedra then demonstrates increasing privileges, listing processes, and retrieving password hashes.  He then jumps to irb and manipulates various properties of the system from familiar Ruby syntax.  It's noted that the meterpreter DLL is a mere 80k, and lives solely in memory unless otherwise specified.  Spawning calc.exe and migrating to its privileged process is shown, as is uploading remote files.
+
 Next, the web interface is demoed from a virtual instance of Backtrack, described as the evolution of the WACKS and Auditor LiveCDs.  The process of exploiting from the web interface is quite literally point-and-click.  The payload this time around contains VNC, allowing complete graphical control of the target system.  Always impressive.

@@ -1,4 +1,39 @@
 h1. al3x's Rules for Computing Happiness
+
 A list.
-h4. SoftwareUse as little software as possible.Use software that does one thing well.Do not use software that does many things poorly.Do not use software that must sync over the internet to function.Do not use web applications that should be desktop applications.
-Do not use desktop applications that should be web applications.Do not use software that isn't made specifically for your operating system. (You'll know it when you see it because it won't look right or work correctly.)Do not run beta software unless you "know how to submit a bug report":http://stevenf.com/archive/reporting-bugs-in-mac-os-x-apps.php and are eager to do so.Use a plain text editor that you know well. &nbsp;Not a word processor, a plain text editor.Do not use your text editor for tasks other than editing text.Use a "password manager":http://agilewebsolutions.com/products/1Password. You shouldn't know any of your passwords save the one to your primary email account and the one to your password manager.Do not use software that's unmaintained.Pay for software that's worth paying for, but only after evaluating it for no less than two weeks.Thoroughly delete all traces of software that you no longer use.h4. HardwareDo not buy a desktop computer unless your daily computing needs include video/audio editing, 3D rendering, or some other hugely processor-intensive computing task. &nbsp;Buy a portable computer instead.Do not use your phone/smartphone/PDA/UMPC for tasks that would be more comfortably and effectively accomplished on a full-fledged&nbsp;computer. Use a Mac for personal computing.Use Linux or BSD on commodity hardware for server computing.Do not use anything other than a Mac at home and Linux/BSD on the server.The only peripheral you absolutely need is a hard disk or network drive to put backups on.Buy as large an external display as you can afford if you'll be working on the computer for more than three hours at a time.Use hosted services in lieu of hosting on your own hardware (or virtual hardware) for all but the most custom applications.h4. File FormatsKeep as much as possible in plain text. &nbsp;Not Word or Pages documents, plain text.For tasks that plain text doesn't fit, store documents in an open standard file format if possible.Do not buy digital media crippled by rights restriction technologies unless your intention is to rent the content for a limited period of time.These are my rules and they make me happy. &nbsp;I hope they make you happy too. &nbsp;If you have computing rules of your own that make you happy, I encourage you to publish them.
+
+h2. Software
+
+* Use as little software as possible.
+* Use software that does one thing well.
+* Do not use software that does many things poorly.
+* Do not use software that must sync over the internet to function.
+* Do not use web applications that should be desktop applications.
+* Do not use desktop applications that should be web applications.
+* Do not use software that isn't made specifically for your operating system. (You'll know it when you see it because it won't look right or work correctly.)
+* Do not run beta software unless you "know how to submit a bug report":http://stevenf.com/archive/reporting-bugs-in-mac-os-x-apps.php and are eager to do so.
+* Use a plain text editor that you know well. &nbsp;Not a word processor, a plain text editor.
+* Do not use your text editor for tasks other than editing text.
+* Use a "password manager":http://agilewebsolutions.com/products/1Password. You shouldn't know any of your passwords save the one to your primary email account and the one to your password manager.
+* Do not use software that's unmaintained.
+* Pay for software that's worth paying for, but only after evaluating it for no less than two weeks.
+* Thoroughly delete all traces of software that you no longer use.
+
+h2. Hardware
+
+* Do not buy a desktop computer unless your daily computing needs include video/audio editing, 3D rendering, or some other hugely processor-intensive computing task. &nbsp;Buy a portable computer instead.
+* Do not use your phone/smartphone/PDA/UMPC for tasks that would be more comfortably and effectively accomplished on a full-fledged computer.
+* Use a Mac for personal computing.
+* Use Linux or BSD on commodity hardware for server computing.
+* Do not use anything other than a Mac at home and Linux/BSD on the server.
+* The only peripheral you absolutely need is a hard disk or network drive to put backups on.
+* Buy as large an external display as you can afford if you'll be working on the computer for more than three hours at a time.
+* Use hosted services in lieu of hosting on your own hardware (or virtual hardware) for all but the most custom applications.
+
+h2. File Formats
+
+* Keep as much as possible in plain text. Not Word or Pages documents, plain text.
+* For tasks that plain text doesn't fit, store documents in an open standard file format if possible.
+* Do not buy digital media crippled by rights restriction technologies unless your intention is to rent the content for a limited period of time.
+
+These are my rules and they make me happy. I hope they make you happy too. If you have computing rules of your own that make you happy, I encourage you to publish them.

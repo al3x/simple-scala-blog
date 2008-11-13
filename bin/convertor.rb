@@ -10,4 +10,3 @@ Dir.glob(File.join("../posts/**", "*.html")).each do |filename|
   end
   puts "wrote #{new_filename}"
 end
-

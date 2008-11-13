@@ -1,6 +1,11 @@
 h1. Conference Burnout
-C4[1] was a good time , albeit lacking last year's first-time jubilance.  This year's conference suffered from a few rough edges: the wasted opportunity for a more productive (and less offensive) discussion on Saturday night, overlapping media- and marketing-centric talks, and Fake Steve's sick leave.  Still, a good geeky time and way better than most conferences.
+
+C4-[1] was a good time , albeit lacking last year's first-time jubilance.  This year's conference suffered from a few rough edges: the wasted opportunity for a more productive (and less offensive) discussion on Saturday night, overlapping media- and marketing-centric talks, and Fake Steve's sick leave.  Still, a good geeky time and way better than most conferences.
+
 I've been doing the conference thing since I was a nervous little hacker kid going to HOPE and Summercon; about ten years.  The last couple years have been particularly conference-heavy since the Rails community has taken off.  I'm definitely starting to burn out.
+
 Conferences are great when you don't frequently get an opportunity to hang out with your industry peers, but living in San Francisco is one big never-ending conference.  It was decided that only one of us from Twitter will be speaking at RailsConf Europe in September, and while I'm disappointed to not be seeing Berlin, it'll be a nice reprieve.
+
 As increasingly more high-caliber tech industry types turn to remote working, conferences are bound to change.  One the one hand, people might feel a stronger need to meet up with their peers if they spend most of their time with family and neighbors.  On the other hand, as online collaborative environments improve, a kind of cognitive dissonance could set in around having technical discussions offline.  Still, people love to have a beer with folks they admire.
+
 I'm hoping to maintain a conference moratorium until next year's South By Southwest Interactive.  Again, that doesn't mean much living in the Bay Area, but I feel like I'm due for some purely recreational travel.

@@ -1,5 +1,9 @@
 h1. al3x in Austin, al3x in NYC
+
 ...in that order!
+
 From Friday, March 7th to Tuesday, March 11th I'll be in toasty Austin, Texas for "SXSW Interactive 2008":http://2008.sxsw.com/interactive/.  I'm not speaking at SXSW itself, but my colleague "Blaine Cook":http://www.romeda.org/ and I will be giving an informal presentation on where Twitter is going at "BarCamp Austin III":http://barcamp.org/BarCampAustinIII, probably on Saturday.  Mostly, I'm going to SXSW to party and bullshit.  Those seem to be the primary activities given my experience last year, so this year I'm coming prepared.
-In April I'll be speaking at "GoRuCo 2008":http://2008.goruco.com/, the Gotham Ruby Conference.  It's a one-day conference on Saturday, April 26th, and I'm one of just six speakers (eep!).  I'll be talking about Twitter from a code-first perspective.  We've done our share of conference sessions in 2007, but I'm hoping to go a bit more in-depth with this one, particularly now that we're open-sourcing bits and pieces of our stack.  
+
+In April I'll be speaking at "GoRuCo 2008":http://2008.goruco.com/, the Gotham Ruby Conference.  It's a one-day conference on Saturday, April 26th, and I'm one of just six speakers (eep!).  I'll be talking about Twitter from a code-first perspective.  We've done our share of conference sessions in 2007, but I'm hoping to go a bit more in-depth with this one, particularly now that we're open-sourcing bits and pieces of our stack.
+
 You can find information about my travels on "Dopplr":http://www.dopplr.com/traveller/al3x, which is now open to the public and a joy to use.  I put my trips on Dopplr and on this blog because I'm eager to meet you.  If you'd like to meet up in Austin or NYC to talk about Twitter, Ruby, social software, bitchin' records, whatever, drop a line!

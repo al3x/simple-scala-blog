@@ -1,7 +1,5 @@
 h1. Recent Heros
-!http://lh3.google.com/al3xanderpayne/R_vHcRQeMZI/AAAAAAAAAG8/Yf1jI__wRQ8/5155208E-5B45-4F04-8F4F-C1A7645D9EA2.jpg?imgmax=800(5155208E-5B45-4F04-8F4F-C1A7645D9EA2.jpg)!
-"Steve Albini":http://en.wikipedia.org/wiki/Steve_Albini
-!http://lh3.google.com/al3xanderpayne/R_vHkRQeMaI/AAAAAAAAAHE/9-u89VWucT8/B0CAA4D8-D889-4CFF-BA8F-86A2CEA50373.jpg?imgmax=800(B0CAA4D8-D889-4CFF-BA8F-86A2CEA50373.jpg)!
-"John Rawls":http://en.wikipedia.org/wiki/John_Rawls
-!http://lh5.google.com/al3xanderpayne/R_vH1xQeMbI/AAAAAAAAAHM/Al17Aai8oR0/8D59B826-4A9F-4DC7-8FAD-891749E71823.jpg?imgmax=800(8D59B826-4A9F-4DC7-8FAD-891749E71823.jpg)!
-"Alan Kay":http://en.wikipedia.org/wiki/Alan_Kay
+
+* "Steve Albini":http://en.wikipedia.org/wiki/Steve_Albini
+* "John Rawls":http://en.wikipedia.org/wiki/John_Rawls
+* "Alan Kay":http://en.wikipedia.org/wiki/Alan_Kay
