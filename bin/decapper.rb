@@ -5,7 +5,13 @@ Dir.glob(File.join("../posts/**", "*.textile")).each do |filename|
 
   File.open(filename, 'r') do |f|
     body = f.read
-    fixed_body = body.gsub(/%\(=caps\)([\w|\s]+)%/, '\1')
+    body.gsub!(/’/, "'")
+    body.gsub!(/‘/, "'")
+    body.gsub!(/“/, '"')
+    body.gsub!(/”/, '"')
+
+    fixed_body = body
+    #puts fixed_body
   end
 
   File.open(filename, 'w') do |f|

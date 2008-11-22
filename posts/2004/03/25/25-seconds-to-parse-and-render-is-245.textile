@@ -1,5 +1,5 @@
 h1. 25 Seconds To Parse and Render Is 24.5 Seconds Too Long
 
-My kingdom for a fast XML parser (for PHP, specifically).  These "benchmarks":http://php.weblogs.com/discuss/msgReader$3290 are appalling, and they’re better than what I’m getting on some internal projects.  And no, the new libxml2-based SimpleXML extension in PHP5 isn’t exactly a speed demon either.  It’s not PHP’s fault, it’s XML’s.  “Human readable” doesn’t really entail “performance.”
+My kingdom for a fast XML parser (for PHP, specifically).  These "benchmarks":http://php.weblogs.com/discuss/msgReader$3290 are appalling, and they're better than what I'm getting on some internal projects.  And no, the new libxml2-based SimpleXML extension in PHP5 isn't exactly a speed demon either.  It's not PHP's fault, it's XML's.  "Human readable" doesn't really entail "performance."
 
-Also, I’m the first person to notice this about XML.  Ever.
+Also, I'm the first person to notice this about XML.  Ever.

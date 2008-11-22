@@ -1,13 +1,13 @@
-h1. The Sort Of Collected Life-Update Post I Don’t Often Stoop To
+h1. The Sort Of Collected Life-Update Post I Don't Often Stoop To
 
 Cop out:
 
 Moved into "a new apartment":http://www.equityapartments.com/market/brochure.aspx?page=overview&amp;PropID=1436 in Clarendon, a neighborhood in Arlington, Virginia.  I spent a lot of time in Clarendon before my brief move to SF, so it seemed to logical place to relocate to.  My place is a studio, roughly half the square footage of my old apartment but about three times as comfortable.  Friends talked me into painting, and with their help the place actually looks like someone lives there and likes it.  Which I do.  Very much.
 
-Got my "new car":http://www.mitsubishicars.com/eclipse/, a silver 2006 Mitsubishi Eclipse GS with a sunroof and an almost absurd sound package (650 watts with a sub in the trunk).  I’m not a huge car guy, but alls I know is that it’s a joy to drive.
+Got my "new car":http://www.mitsubishicars.com/eclipse/, a silver 2006 Mitsubishi Eclipse GS with a sunroof and an almost absurd sound package (650 watts with a sub in the trunk).  I'm not a huge car guy, but alls I know is that it's a joy to drive.
 
 Well-settled back into work.  I was expecting some post-homecoming doubts, but no.  Exactly where I want to be.
 
-My coworkers and compatriots are all devotees of the Python programming language.  I’ve never had anything again Python, but ignored it over the last few years of doing most of my web development and oddjob coding in PHP and, subsequently, Ruby.  As peer pressure and ribbing increased, I found myself motivated to explore Python further.  The emergence of "Django":http://www.djangoproject.org/ was the cornerstone in my Python toolkit.  It’s still a tossup for me on whether I like Ruby or Python syntax better, but I think I’m coming to prefer Python’s explicitness over Ruby’s Perl-esque shorthand.  This matter of preference extends to Django versus Rails: what’s implicit in Rails is specified in Django, and I find that appealing.
+My coworkers and compatriots are all devotees of the Python programming language.  I've never had anything again Python, but ignored it over the last few years of doing most of my web development and oddjob coding in PHP and, subsequently, Ruby.  As peer pressure and ribbing increased, I found myself motivated to explore Python further.  The emergence of "Django":http://www.djangoproject.org/ was the cornerstone in my Python toolkit.  It's still a tossup for me on whether I like Ruby or Python syntax better, but I think I'm coming to prefer Python's explicitness over Ruby's Perl-esque shorthand.  This matter of preference extends to Django versus Rails: what's implicit in Rails is specified in Django, and I find that appealing.
 
-I need to get on a rock climbing gym membership, but otherwise I’ve been doing better about being social and finding new experiences in DC.
+I need to get on a rock climbing gym membership, but otherwise I've been doing better about being social and finding new experiences in DC.

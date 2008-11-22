@@ -1,9 +1,9 @@
 h1. Apple Sexiness Roundup
 
 Steve Jobs has been busy at Macworld San Fransisco. Announced today: both
-"12”":http://www.apple.com/powerbook/index12.html and (!!!)
-"17”":http://www.apple.com/powerbook/index17.html PowerBook G4s, with onboard Bluetooth; "Airport
-Extreme":http://www.apple.com/powerbook/wireless.html, Apple’s name for the higher-speed,
+"12"":http://www.apple.com/powerbook/index12.html and (!!!)
+"17"":http://www.apple.com/powerbook/index17.html PowerBook G4s, with onboard Bluetooth; "Airport
+Extreme":http://www.apple.com/powerbook/wireless.html, Apple's name for the higher-speed,
 backwards-compatible 802.11g technology that pushes the existing 802.11b wireless up to 54Mbps and
 tacks on better security; a whipass-fast new web browser called
 "Safari":http://www.apple.com/safari/; a slick new PowerPoint competitor called

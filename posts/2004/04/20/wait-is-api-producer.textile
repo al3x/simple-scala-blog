@@ -6,4 +6,4 @@ An "announcement":http://news.php.net/article.php?group=php.pear.general&amp;art
 
 bq. WARNING: lots of API breakage!
 
-If you don’t get why that’s funny, it’s not worth explaining.
+If you don't get why that's funny, it's not worth explaining.

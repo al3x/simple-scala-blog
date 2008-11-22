@@ -1,15 +1,15 @@
-h1. We’ll Be Your Hosts This Con
+h1. We'll Be Your Hosts This Con
 
-So, there’s a little more to the Popular Science/DefCon/CTF story.  Sure, we played last year.  Yeah, we had a good time (a time good enough to write about, apparently).  But the nature of the competition left our wheels turning.
+So, there's a little more to the Popular Science/DefCon/CTF story.  Sure, we played last year.  Yeah, we had a good time (a time good enough to write about, apparently).  But the nature of the competition left our wheels turning.
 
-Months passed, and our crew found ourselves out for Thai food one evening during this February’s "Shmoocon":http://www.shmoocon.org.  ShmooCon didn’t attempt to offer a hacking contest on the scale of CTF, and its shorter sprint-style games weren’t popular.  We kicked some thoughts around and were soon dedicated to an idea: we were going to  run Capture The Flag, the biggest hacking competition in the world.  We were going to run it, and we were going to run it better.
+Months passed, and our crew found ourselves out for Thai food one evening during this February's "Shmoocon":http://www.shmoocon.org.  ShmooCon didn't attempt to offer a hacking contest on the scale of CTF, and its shorter sprint-style games weren't popular.  We kicked some thoughts around and were soon dedicated to an idea: we were going to  run Capture The Flag, the biggest hacking competition in the world.  We were going to run it, and we were going to run it better.
 
-For the past several years the venerable Ghetto Hackers, former multi-year CTF champions, have run the challenge.  I’ve only had the opportunity to play in one competition run by the Ghetto and it was, by and large, solid.  A hacking competition is a hideously complex thing, a tenuous web of puzzles and tricks designed to thwart tricksters who eat puzzles for breakfast.  Anyone managing to design a remotely entertaining hacking game deserves merit, and the Ghetto all the more so for taking the burden on multiple years running at considerable expenditure of bytes, sweat, and cash.
+For the past several years the venerable Ghetto Hackers, former multi-year CTF champions, have run the challenge.  I've only had the opportunity to play in one competition run by the Ghetto and it was, by and large, solid.  A hacking competition is a hideously complex thing, a tenuous web of puzzles and tricks designed to thwart tricksters who eat puzzles for breakfast.  Anyone managing to design a remotely entertaining hacking game deserves merit, and the Ghetto all the more so for taking the burden on multiple years running at considerable expenditure of bytes, sweat, and cash.
 
-The Ghetto, for the above and other circumstances, decided to make way for new blood this year.  A call for proposals was made several months ago and we didn’t hesitate.  Then we waited, and planned.  Oh yes.  We planned.
+The Ghetto, for the above and other circumstances, decided to make way for new blood this year.  A call for proposals was made several months ago and we didn't hesitate.  Then we waited, and planned.  Oh yes.  We planned.
 
-Today it’s "official":http://www.defcon.org/html/defcon-13/dc13-index.html.  We, "kenshoto":http://www.kenshoto.com, are your hosts for Capture The Flag at DefCon 2005.
+Today it's "official":http://www.defcon.org/html/defcon-13/dc13-index.html.  We, "kenshoto":http://www.kenshoto.com, are your hosts for Capture The Flag at DefCon 2005.
 
-We’re putting together a game that will be fresh for longtime players, accessible to first time players, and all around fun.  If you’re into pwning stuff I encourage you to sign up, try your hand at the qualifiers, and hopefully join us in Vegas this summer for a great goddamn time.  Spread the word, too: not only can teams register, but we’re accepting individuals who want to “lone wolf it” as well.
+We're putting together a game that will be fresh for longtime players, accessible to first time players, and all around fun.  If you're into pwning stuff I encourage you to sign up, try your hand at the qualifiers, and hopefully join us in Vegas this summer for a great goddamn time.  Spread the word, too: not only can teams register, but we're accepting individuals who want to "lone wolf it" as well.
 
 The next few months are gonna be busy!

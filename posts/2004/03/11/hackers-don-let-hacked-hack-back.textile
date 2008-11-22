@@ -1,5 +1,5 @@
-h1. Hackers Don’t Let The Hacked Hack Back
+h1. Hackers Don't Let The Hacked Hack Back
 
-Talk to a less technically-inclined person about information security for long enough and they’ll eventually and inevitably suggest the following idea: “what if the firewall hacked back at those jerk hackers?”  If you’re not an idiot, you then explain exactly _why_ you don’t want a firewall or similar security countermeasure that retaliates against intruders: because there is no legal self-defense doctrine for hacking, nor even a reliable guarantee that your automated retaliation will reach its intended target.
+Talk to a less technically-inclined person about information security for long enough and they'll eventually and inevitably suggest the following idea: "what if the firewall hacked back at those jerk hackers?"  If you're not an idiot, you then explain exactly _why_ you don't want a firewall or similar security countermeasure that retaliates against intruders: because there is no legal self-defense doctrine for hacking, nor even a reliable guarantee that your automated retaliation will reach its intended target.
 
 "Apparently":http://news.com.com/2100-7349_3-5172032.html?part=rss&amp;tag=feed&amp;subj=news, someone had the hack-back conversation and was an idiot.

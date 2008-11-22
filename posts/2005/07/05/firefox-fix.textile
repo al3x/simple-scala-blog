@@ -1,5 +1,5 @@
 h1. Firefox Fix
 
-Apparently readers using Firefox haven’t been seeing the CSS-styled version of this site since I moved to Typo.  My server was sending the stylesheet as an octet stream and Firefox don’t play that way.  Safari didn’t mind, so I didn’t notice.
+Apparently readers using Firefox haven't been seeing the CSS-styled version of this site since I moved to Typo.  My server was sending the stylesheet as an octet stream and Firefox don't play that way.  Safari didn't mind, so I didn't notice.
 
-It’s fixed.  Just had to set the css MIME type in "lighttpd":http://www.lighttpd.net/.
+It's fixed.  Just had to set the css MIME type in "lighttpd":http://www.lighttpd.net/.

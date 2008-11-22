@@ -1,30 +1,30 @@
-h1. What’s Good and What’s Bullshit at DefCon 13
+h1. What's Good and What's Bullshit at DefCon 13
 
-This is more for my scheduling purposes than anything else, but I thought I’d share.  Given that my friends and I will be busy with Capture The Flag at this year’s DefCon (just mere weeks away!) I won’t have a lot of time to see talks.  I played in CTF last year and didn’t see a single talk; given that I’m helping to run the contest this year I don’t have high hopes for my free time.
+This is more for my scheduling purposes than anything else, but I thought I'd share.  Given that my friends and I will be busy with Capture The Flag at this year's DefCon (just mere weeks away!) I won't have a lot of time to see talks.  I played in CTF last year and didn't see a single talk; given that I'm helping to run the contest this year I don't have high hopes for my free time.
 
-If I get a spare minute this is what I’ll be seeing, what I’ll be avoiding, and what I’ll be divided on, culled from the "DefCon 13 Speakers Page":http://defcon.org/html/defcon-13/dc13-speakers.html:
+If I get a spare minute this is what I'll be seeing, what I'll be avoiding, and what I'll be divided on, culled from the "DefCon 13 Speakers Page":http://defcon.org/html/defcon-13/dc13-speakers.html:
 
 h2. Good
 
 _appropriate to the conference, covers new material, challenges the audience_
 
 * Routing in the Dark: Scalable Searches in Dark P2P Networks
-* The Information Security Industry: $3 Billion of Snake Oil (editor’s note: _you had me at the title_)
+* The Information Security Industry: $3 Billion of Snake Oil (editor's note: _you had me at the title_)
 * The Next Generation of Cryptanalytic Hardware
-* Google Hacking for Penetration Testers (editor’s note: _seems like a mundane topic but the speaker is a sharp fella_)
-* Suicidal Linux (editor’s note: _Bruce does a good rant_)
+* Google Hacking for Penetration Testers (editor's note: _seems like a mundane topic but the speaker is a sharp fella_)
+* Suicidal Linux (editor's note: _Bruce does a good rant_)
 * Pen-testing the Backbone
 
 h2. Bullshit
 
-_tired topics, conference-unspecific material, non-technical, pandering, goofy, “hacker sociology” horseshit, tedious libertarianism, too academic, too corporate_
+_tired topics, conference-unspecific material, non-technical, pandering, goofy, "hacker sociology" horseshit, tedious libertarianism, too academic, too corporate_
 
 * A New Hybrid Approach for Infrastructure Discovery
 * On the Current State of Remote Active OS Fingerprinting
 * Introducing the Bastille Hardening Assessment Tool
 * Development of An Undergraduate Security Program
 * Be Your Own Telephone Company…With Asterisk
-* Analysis of Identity Creation Detection Schemes post-9/11 (editor’s note: _bonus bullshit for use of the phrase “post-9/11_)
+* Analysis of Identity Creation Detection Schemes post-9/11 (editor's note: _bonus bullshit for use of the phrase "post-9/11_)
 * Countering Denial of Information Attacks
 * CISO Q&amp;A with Dark Tangent
 * Whiz Kids or Juvenile Delinquents: A Sociological Perspective The Construction of Hacker Identity
@@ -34,9 +34,9 @@ _tired topics, conference-unspecific material, non-technical, pandering, goofy, 
 * Hacking Nmap
 * A Safecracking Double Feature: Dial ?̢????B?̢??̢?? For BackDialing and Spike the Wonder Safe
 * Bacon: A Framework for Auditing and Penetration Testing
-* Inequality and Risk (editor’s note: _please stop talking, Paul Graham_)
+* Inequality and Risk (editor's note: _please stop talking, Paul Graham_)
 * Top Ten Legal Issues in Computer Security
-* The Insecure Workstation II: “bob reloaded”
+* The Insecure Workstation II: "bob reloaded"
 * Your Defense is Offensive
 * No Women Allowed?  Exploring Gender Differences In Hacking
 * Meme Mining for Fun and Profit
@@ -47,7 +47,7 @@ _tired topics, conference-unspecific material, non-technical, pandering, goofy, 
 * A Linguistic Platform for Threat Development
 * Introducing Unicornscan – Riding the Unicorn
 * The Dark Side of Winsock
-* Social Engineering Do’s &amp; Don’ts (A Female Perspective)
+* Social Engineering Do's &amp; Don'ts (A Female Perspective)
 * The Six Year Old Hacker: No More Script Kiddies
 * Old Skewl Hacking – InfraRed
 * Visual Security Event Analysis
@@ -81,7 +81,7 @@ _might be good, might be bullshit_
 
 * Mosquito – Secure Remote Code Execution Framework
 * Auto-adapting Stealth Communication Channels
-* Sketchtools: Prototyping Physical Interfaces (editor’s note: _this looks neat but is totally inappropriate for DefCon, which is the fault of the speaker reviewers and not this presenter_)
+* Sketchtools: Prototyping Physical Interfaces (editor's note: _this looks neat but is totally inappropriate for DefCon, which is the fault of the speaker reviewers and not this presenter_)
 * Hacking in a Foreign Language: A Network Security Guide to Russia (and Beyond)
 * Intro to High Security Locks and Safes
 * Surgical Recovery from Kernel-Level Rootkit Installations

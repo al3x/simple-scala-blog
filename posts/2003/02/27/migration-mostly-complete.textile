@@ -1,7 +1,7 @@
 h1. Migration (Mostly) Complete
 
-After more hours than I’d like to admit I’ve finally moved all my Blosxom posts over to this spiffy Moveable Type weblog hosted on an Apple XServe at "XrackHosting":http://www.xrackhosting.com.  That’s right, even my hosting company likes the Apple.
+After more hours than I'd like to admit I've finally moved all my Blosxom posts over to this spiffy Moveable Type weblog hosted on an Apple XServe at "XrackHosting":http://www.xrackhosting.com.  That's right, even my hosting company likes the Apple.
 
-But yeah, Moveable Type is not without its quirks, but configuring Blosxom to do everything MT does out of the box seemed pretty redundant.  I still stand by Blosxom as a great “instant blog” tool, but I wanted features like commenting and TrackBacks, which I encourage you to use if you’ve got something worthwhile to say.  So, expect a few little tweaks here and there, but I’m mostly satisfied with how things have turned out.  If your bookmarks point to my (lengthy) school webspace URL, please correct them.  Ditto for the RSS feed, which you can grab to left here.
+But yeah, Moveable Type is not without its quirks, but configuring Blosxom to do everything MT does out of the box seemed pretty redundant.  I still stand by Blosxom as a great "instant blog" tool, but I wanted features like commenting and TrackBacks, which I encourage you to use if you've got something worthwhile to say.  So, expect a few little tweaks here and there, but I'm mostly satisfied with how things have turned out.  If your bookmarks point to my (lengthy) school webspace URL, please correct them.  Ditto for the RSS feed, which you can grab to left here.
 
 Enjoy the newer, faster, better tasting, stain-fighting action of al3x.net!

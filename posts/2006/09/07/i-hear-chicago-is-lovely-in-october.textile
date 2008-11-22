@@ -1,5 +1,5 @@
 h1. I Hear Chicago Is Lovely In October
 
-I would pretty much kill to be at the "C4":http://c4.rentzsch.com/ event next month.  I’m not sure if it’s invite-only or what, but there’s a bunch of smart people I respect lined up to talk.  Plus, I keep hearing how nice Chicago is, mostly from "Brittany":http://www.yarnballs.com.
+I would pretty much kill to be at the "C4":http://c4.rentzsch.com/ event next month.  I'm not sure if it's invite-only or what, but there's a bunch of smart people I respect lined up to talk.  Plus, I keep hearing how nice Chicago is, mostly from "Brittany":http://www.yarnballs.com.
 
-I periodically tell myself that I’ll become a Mac developer if I get sick of web application development.  Apple definitely makes developing on OS X sound sexier with every release.  The upcoming "changes to Objective-C":http://andymatuschak.org/articles/2006/08/27/clues-to-objective-c-2-0 sound like they’ll address some of the language’s idiosyncrasies.
+I periodically tell myself that I'll become a Mac developer if I get sick of web application development.  Apple definitely makes developing on OS X sound sexier with every release.  The upcoming "changes to Objective-C":http://andymatuschak.org/articles/2006/08/27/clues-to-objective-c-2-0 sound like they'll address some of the language's idiosyncrasies.

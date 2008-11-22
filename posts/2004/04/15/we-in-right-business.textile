@@ -1,7 +1,7 @@
-h1. We’re In the Right Business
+h1. We're In the Right Business
 
 Business 2.0 on the "coming high-tech arms race in political campaigns":http://www.business2.com/b2/web/articles/print/0,17925,598894,00.html.
 
-One point I take umbrage with is the proclamation by a consultant that “CRM tools are moving into campaigns. That’s what this is all about!”  This was certainly a point of note at PICnet’s last roundtable on politics online, but several smart folks at the table were uneasy about the lumbering technological giants that are CRM systems being used for campaigns.  Such bloated, high-cost, difficult-to-use systems are "money pits":http://www.computerweekly.com/Article105058.htm at Fortune 500s with multi-year implementation strategies; campaigns may be increasingly run like businesses, but that’s no reason they should pick up bad business strategies.  Instead, the benefits of full-blown CRMs should be matched with alternative strategies tailored to the needs of a campaigns.
+One point I take umbrage with is the proclamation by a consultant that "CRM tools are moving into campaigns. That's what this is all about!"  This was certainly a point of note at PICnet's last roundtable on politics online, but several smart folks at the table were uneasy about the lumbering technological giants that are CRM systems being used for campaigns.  Such bloated, high-cost, difficult-to-use systems are "money pits":http://www.computerweekly.com/Article105058.htm at Fortune 500s with multi-year implementation strategies; campaigns may be increasingly run like businesses, but that's no reason they should pick up bad business strategies.  Instead, the benefits of full-blown CRMs should be matched with alternative strategies tailored to the needs of a campaigns.
 
-I’m seeing articles of this sort almost daily.  Makes me think I’m in the right business.
+I'm seeing articles of this sort almost daily.  Makes me think I'm in the right business.

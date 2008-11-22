@@ -2,4 +2,4 @@ h1. Two-point-sucks?
 
 So apparently "GNOME 2.6 sucks":http://www.computerworld.com/softwaretopics/software/story/0,10801,92934,00.html big time?  Anybody have first-hand experience with it?
 
-I’ve half a mind to get an x86 box, ironically largely to run VMWare.  Virtual PC is abysmal, even on my PowerBook G4.  I’m not sure even then how much I’d use much GUI stuff – certainly not the full-on GNOME desktop.
+I've half a mind to get an x86 box, ironically largely to run VMWare.  Virtual PC is abysmal, even on my PowerBook G4.  I'm not sure even then how much I'd use much GUI stuff – certainly not the full-on GNOME desktop.

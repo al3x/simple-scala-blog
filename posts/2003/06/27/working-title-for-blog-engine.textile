@@ -1,5 +1,5 @@
-h1. Working Title For “Next-Gen” Blog Engine
+h1. Working Title For "Next-Gen" Blog Engine
 
-Seeing as how the ‘replacement RSS and more’ horde found themselves a project name ("Echo":http://intertwingly.net/wiki/pie/RoadMap), it was about time we (myself and "Phil":http://me.creativeloafing.org) did too.  Hence, the working title of our king-hell blog engine is _drumroll_: Sexxi.  Why, other than that it’s provocative, fairly Googlable (sp?), and brief?  Because, in fine Open Source tradition, it roughly stands for the things we want it to be: Social, EXtensible, and leXIcal.
+Seeing as how the 'replacement RSS and more' horde found themselves a project name ("Echo":http://intertwingly.net/wiki/pie/RoadMap), it was about time we (myself and "Phil":http://me.creativeloafing.org) did too.  Hence, the working title of our king-hell blog engine is _drumroll_: Sexxi.  Why, other than that it's provocative, fairly Googlable (sp?), and brief?  Because, in fine Open Source tradition, it roughly stands for the things we want it to be: Social, EXtensible, and leXIcal.
 
-And the logo possibilites are _endless_.  But yeah, Echo.  We’ll support it, assuming it doesn’t suck, which I don’t think it will unless the very same political problems it in-part aims to solve rear their ugly heads anew.  But standards are a good thing.  I think a couple people agree.
+And the logo possibilites are _endless_.  But yeah, Echo.  We'll support it, assuming it doesn't suck, which I don't think it will unless the very same political problems it in-part aims to solve rear their ugly heads anew.  But standards are a good thing.  I think a couple people agree.

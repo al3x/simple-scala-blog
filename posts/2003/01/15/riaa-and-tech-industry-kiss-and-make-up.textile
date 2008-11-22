@@ -3,24 +3,24 @@ h1. RIAA and the Tech Industry Kiss and Make Up?
 Several media sources, including the hometown "Washington Post":http://www.washingtonpost.com/wp-dyn/articles/A55542-2003Jan14.html,
 reported that various members of the tech industry and big media decided not to pursue legislatively
 mandated electronic copyright enforcement. What does that mean? It means big media (the
-RIAA, but not the MPAA) won’t go to Congress to get computer and electronics
-makers to put chips in their products that do “Digital Rights Management.” But note the absence of
+RIAA, but not the MPAA) won't go to Congress to get computer and electronics
+makers to put chips in their products that do "Digital Rights Management." But note the absence of
 the MPAA: Hillary Rosen and her record industry cronies are running out of money and/or
-patience with their war on music “piracy,” but Jack Valenti and his movie industry folks aren’t. And
+patience with their war on music "piracy," but Jack Valenti and his movie industry folks aren't. And
 yet, Rosen is not really losing out. She now has major players in the tech biz like IBM,
-Microsoft, Intel, and Dell committed (or so they say) to “aggressive enforcement against digital
-pirates,” whatever that means and entails.
+Microsoft, Intel, and Dell committed (or so they say) to "aggressive enforcement against digital
+pirates," whatever that means and entails.
 
 The RIAA may have dropped the call for some sort of technical solution, the sort I
-witnessed tech giants like Phillips telling Valenti and company were totally worthless, but they’ve
+witnessed tech giants like Phillips telling Valenti and company were totally worthless, but they've
 got a commitment from the techies to do __something__ about all this __awful__ piracy. But, if not a
 legislatively mandated technical solution of the hardware variety, what can the techs offer?
-Software? That’s arguably even weaker in terms of "defeatability" of copy protection. I guess they
-could write pleading messages on the MP3 players they sell in vast quantity (“__please__
-don’t pirate music. Please? C’mon, be a sport..”).
+Software? That's arguably even weaker in terms of "defeatability" of copy protection. I guess they
+could write pleading messages on the MP3 players they sell in vast quantity ("__please__
+don't pirate music. Please? C'mon, be a sport..").
 
-But regardless of all this mess, I’m psyched that John McCain is now heading the Senate Commerce
-Committee, previously run by Hollywood puppet Ernest Hollings who’s had a hand in some nasty
+But regardless of all this mess, I'm psyched that John McCain is now heading the Senate Commerce
+Committee, previously run by Hollywood puppet Ernest Hollings who's had a hand in some nasty
 anti-tech, anti-consumer, anti-American legislation. Republicans (and McCain is only Republican by
-title) are generally less inclined to sell out to Hollywood. My theory is Big Tobacco doesn’t like
+title) are generally less inclined to sell out to Hollywood. My theory is Big Tobacco doesn't like
 them traveling to cigarette-hostile Los Angeles.

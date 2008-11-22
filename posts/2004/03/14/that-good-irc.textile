@@ -1,4 +1,4 @@
-h1. That’s Good IRC
+h1. That's Good IRC
 
-"Colloquy":http://www.javelin.cc/colloquy/index.html is such an unfathomably good IRC client it’s … unfathomable.  I cannot fathom it.  Presently not fathoming.  So forth.
-It’s for OS X and acts like it all proper.  It makes IRC pretty so you can ignore the inane conversations.  It is good and free and open and righteous.
+"Colloquy":http://www.javelin.cc/colloquy/index.html is such an unfathomably good IRC client it's … unfathomable.  I cannot fathom it.  Presently not fathoming.  So forth.
+It's for OS X and acts like it all proper.  It makes IRC pretty so you can ignore the inane conversations.  It is good and free and open and righteous.

@@ -1,13 +1,13 @@
 h1. Netlabel Advice
 
-I hope you’re having a more festive Christmas Day, because I’ve spent the latter part of mine scouring netlabels for all kinds of electronic music.  I’ve been successful, but I’ve quickly developed a few pet peeves when searching around these sites.  Netlabels, please:
+I hope you're having a more festive Christmas Day, because I've spent the latter part of mine scouring netlabels for all kinds of electronic music.  I've been successful, but I've quickly developed a few pet peeves when searching around these sites.  Netlabels, please:
 
-# Don’t release your music in anything other than MP3 format.  Fuck Ogg Vorbis, Shorten, or any other crazy-ass format.  People use MP3s.  Software uses MP3s.  Hardware uses MP3s.  Use MP3s.
-# If you’re offering your music for full MP3 download, don’t bother with a Real Audio preview.  If you’re offering nothing but a Real Audio preview, just don’t bother.
-# #1 and #2 combined: don’t be "Tokyo Dawn":http://www.tokyodawn.org/, offering nothing but Real Audio and Ogg.  Life’s too short, guys, even if your music does get hella down.
-# Take a hint from "Roh Format":http://www.rohformat.de/ and employ a clean-but-stylish design and offer plain ol’ MP3s, spicing things up with DJ-friendly goodies like Traktor sets.  Take another hint from the Roh crew and release hard-ass minimal techno that would make Richie Hawtin cream himself.  Seriously, go download some Dupont.  Damn, that’s hard.
+# Don't release your music in anything other than MP3 format.  Fuck Ogg Vorbis, Shorten, or any other crazy-ass format.  People use MP3s.  Software uses MP3s.  Hardware uses MP3s.  Use MP3s.
+# If you're offering your music for full MP3 download, don't bother with a Real Audio preview.  If you're offering nothing but a Real Audio preview, just don't bother.
+# #1 and #2 combined: don't be "Tokyo Dawn":http://www.tokyodawn.org/, offering nothing but Real Audio and Ogg.  Life's too short, guys, even if your music does get hella down.
+# Take a hint from "Roh Format":http://www.rohformat.de/ and employ a clean-but-stylish design and offer plain ol' MP3s, spicing things up with DJ-friendly goodies like Traktor sets.  Take another hint from the Roh crew and release hard-ass minimal techno that would make Richie Hawtin cream himself.  Seriously, go download some Dupont.  Damn, that's hard.
 # Release early.  Release often.
 # I know hosting is expensive and hard to come by, but netlabels hosting their content at "Scene.org":http://www.scene.org/ make for some slooooow downloads.
 # More labels should consider offering their archives via BitTorrent, as a generous few "already have":http://www.legaltorrents.com/.  That way the bandwidth costs would be on us, not them.
 
-All that said, there’s lots of good stuff out there, and it’s great that people are making their art freely available, minor issues of presentation aside.  I wouldn’t be surprised if some of my upcoming sets are comprised of seventy percent or more netlabel tracks.  And, when you think about it, that’s a precedent that really speaks to the electronic music ethic: from the bedroom studio, delivered via the global communications network, right to the DJs and dancefloors.
+All that said, there's lots of good stuff out there, and it's great that people are making their art freely available, minor issues of presentation aside.  I wouldn't be surprised if some of my upcoming sets are comprised of seventy percent or more netlabel tracks.  And, when you think about it, that's a precedent that really speaks to the electronic music ethic: from the bedroom studio, delivered via the global communications network, right to the DJs and dancefloors.

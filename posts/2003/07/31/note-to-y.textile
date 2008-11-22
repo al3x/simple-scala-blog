@@ -1,5 +1,5 @@
-h1. Note To Y’all
+h1. Note To Y'all
 
-Stole that cat’s design ;-)  A few tweaks here and there, but the essential clean all-CSS look is the same.  I’m now grafting it on to the archives.  The color scheme, by the way, is my favorite mix of blues and grays that a friend of mine calls the “sad cloud” palate.  I’ve used it for years on my various sites and it never ceases to please (me).
+Stole that cat's design ;-)  A few tweaks here and there, but the essential clean all-CSS look is the same.  I'm now grafting it on to the archives.  The color scheme, by the way, is my favorite mix of blues and grays that a friend of mine calls the "sad cloud" palate.  I've used it for years on my various sites and it never ceases to please (me).
 
-*UPDATED:* All done!  Enjoy the new look, and thanks again to Matthew Rothenberg for his lovely layout.  Hopefully he’ll update his blog sometime soon… with a post about people ripping him off ;-)
+*UPDATED:* All done!  Enjoy the new look, and thanks again to Matthew Rothenberg for his lovely layout.  Hopefully he'll update his blog sometime soon… with a post about people ripping him off ;-)

@@ -1,7 +1,7 @@
 h1. Why Desktop Linux is Fux0red
 
-Look at the Fedora Core 1 (the community-developed version of what was once RedHat Linux before they decided consumer OSs don’t make money) "release notes":http://fedora.redhat.com/docs/release-notes/.  Scroll down to the section about fonts, namely the process for installing a font.  Read.  Read it again.  Let it sink in.
+Look at the Fedora Core 1 (the community-developed version of what was once RedHat Linux before they decided consumer OSs don't make money) "release notes":http://fedora.redhat.com/docs/release-notes/.  Scroll down to the section about fonts, namely the process for installing a font.  Read.  Read it again.  Let it sink in.
 
-Now, if you are a desktop Linux advocate, bang your head against the computer you used to view the release notes until the screen is smeared with your own blood, all the while yelling at the top of your lungs in a militaristic chant: “I WILL NOT EVANGELIZE LINUX AS A DESKTOP OPERATING SYSTEM UNTIL BASIC PROCEDURES NO LONGER REQUIRE THE USE OF A COMMAND LINE!”
+Now, if you are a desktop Linux advocate, bang your head against the computer you used to view the release notes until the screen is smeared with your own blood, all the while yelling at the top of your lungs in a militaristic chant: "I WILL NOT EVANGELIZE LINUX AS A DESKTOP OPERATING SYSTEM UNTIL BASIC PROCEDURES NO LONGER REQUIRE THE USE OF A COMMAND LINE!"
 
 Repeat daily if necessary.

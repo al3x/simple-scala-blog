@@ -1,3 +1,3 @@
-h1. Let’s Not Blow It Like GB
+h1. Let's Not Blow It Like GB
 
-The Observer "confirms":http://observer.guardian.co.uk/business/story/0,6903,1001636,00.html?=rss that bad infrastructure decisions – like, say, spending a shitload on painfully insecure Microsoft systems – can undermine public confidence in eGovernment.  Poor support and publicity for these services doesn’t help the situation much.  We’re already on the same path to eGov failure that Great Britain has travelled. Do we have to walk it ourselves, or can we learn from others?
+The Observer "confirms":http://observer.guardian.co.uk/business/story/0,6903,1001636,00.html?=rss that bad infrastructure decisions – like, say, spending a shitload on painfully insecure Microsoft systems – can undermine public confidence in eGovernment.  Poor support and publicity for these services doesn't help the situation much.  We're already on the same path to eGov failure that Great Britain has travelled. Do we have to walk it ourselves, or can we learn from others?

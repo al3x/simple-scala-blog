@@ -1,3 +1,3 @@
-h1. Someone’s Speaking Up
+h1. Someone's Speaking Up
 
-Remember that $90 million Microsoft purchase by Homeland Security I "wrote about":http://www.al3x.net/mt/archives/000213.html a while back?  At least Ed Black, President and CEO of the Computer &amp; Communications Industry Association, has the nerve to "speak up":http://www.ccianet.org/letters/dhs_030827.pdf to Tom Ridge about it in the wake of endless worm-based demonstrations of fundamental insecurity in Microsoft software.  It’s a nice gesture, but it won’t reverse that purchase order.
+Remember that $90 million Microsoft purchase by Homeland Security I "wrote about":http://www.al3x.net/mt/archives/000213.html a while back?  At least Ed Black, President and CEO of the Computer &amp; Communications Industry Association, has the nerve to "speak up":http://www.ccianet.org/letters/dhs_030827.pdf to Tom Ridge about it in the wake of endless worm-based demonstrations of fundamental insecurity in Microsoft software.  It's a nice gesture, but it won't reverse that purchase order.

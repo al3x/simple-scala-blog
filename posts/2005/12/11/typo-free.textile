@@ -1,11 +1,11 @@
 h1. Typo-Free
 
-A friend recently said to me something to the effect of: “if there’s two things you’re never happy with, it’s blog software and jobs.”  Ain’t it the truth.
+A friend recently said to me something to the effect of: "if there's two things you're never happy with, it's blog software and jobs."  Ain't it the truth.
 
-I’d had just about a bloody ‘nuff of Typo, what with constant errors and crippled non-cache performance and the like.  So I wrote a lil’ script that’ll export your Typo blog to the plain text Moveable Type export format, and threw the whole mess into "TextPattern":http://www.textpattern.com.
+I'd had just about a bloody 'nuff of Typo, what with constant errors and crippled non-cache performance and the like.  So I wrote a lil' script that'll export your Typo blog to the plain text Moveable Type export format, and threw the whole mess into "TextPattern":http://www.textpattern.com.
 
-Yeah, TextPattern.  Made by Dean Allen.  The TextDrive guy.  The “Text” in TextDrive, really.  If ever there was evidence that my beef with TextDrive isn’t personal, I’d say this is it.  Short of maybe a card.  On nice stationary.
+Yeah, TextPattern.  Made by Dean Allen.  The TextDrive guy.  The "Text" in TextDrive, really.  If ever there was evidence that my beef with TextDrive isn't personal, I'd say this is it.  Short of maybe a card.  On nice stationary.
 
-TextPattern is good.  It’s simple, faster than "WordPress":http://www.wordpress.org, well-written for being PHP, and friendly with shared hosting environments.  I took some time porting "Hemingway":http://hemingway.textdriven.com/, tweaking it and making the colors just so.  I’m happy with the way the whole lot looks on your end and works on my end.  Hopefully you dig the look too.
+TextPattern is good.  It's simple, faster than "WordPress":http://www.wordpress.org, well-written for being PHP, and friendly with shared hosting environments.  I took some time porting "Hemingway":http://hemingway.textdriven.com/, tweaking it and making the colors just so.  I'm happy with the way the whole lot looks on your end and works on my end.  Hopefully you dig the look too.
 
-Redirects have been put in place for the feeds, and I’ll get around to doing the same for the articles.
+Redirects have been put in place for the feeds, and I'll get around to doing the same for the articles.

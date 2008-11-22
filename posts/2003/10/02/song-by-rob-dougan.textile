@@ -1,4 +1,4 @@
-h1. “Drinking Song” by Rob Dougan
+h1. "Drinking Song" by Rob Dougan
 
   I want to weave a musical spell
   that leaves you unwell and thinking of me every day.
@@ -33,5 +33,5 @@ h1. “Drinking Song” by Rob Dougan
   So for one moment in time you'd find that you're mine,
   and softly I'd kiss you and weep.
 
-And speaking of weeping: join us at the “Cry Fest” Cure vs Smiths dance party this Saturday night at the "Black Cat":http://www.blackcatdc.com/, won’t you?
+And speaking of weeping: join us at the "Cry Fest" Cure vs Smiths dance party this Saturday night at the "Black Cat":http://www.blackcatdc.com/, won't you?
 

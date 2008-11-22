@@ -1,3 +1,3 @@
 h1. The Ad Helmet
 
-If you use Apple’s "Safari":http://www.apple.com/safari/ browser and don’t find that internet advertising lights up your world, try "Pith Helment":http://www.versiontracker.com/dyn/moreinfo/macosx/18158.  Just drop it into ~/Library/InputManagers/ (create the last folder if it doesn’t exist) and restart Safari.  Poof!  No ad banners, but the layout of your favorite pages is still maintained.  Oh yeah, and it’s freeware.  Keen!
+If you use Apple's "Safari":http://www.apple.com/safari/ browser and don't find that internet advertising lights up your world, try "Pith Helment":http://www.versiontracker.com/dyn/moreinfo/macosx/18158.  Just drop it into ~/Library/InputManagers/ (create the last folder if it doesn't exist) and restart Safari.  Poof!  No ad banners, but the layout of your favorite pages is still maintained.  Oh yeah, and it's freeware.  Keen!

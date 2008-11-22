@@ -1,3 +1,3 @@
 h1. Borkage
 
-Both "Ecto":http://ecto.kung-foo.tv/ and "MarsEdit":http://ranchero.com/marsedit/ choke on WordPress’s XML-RPC like [insert tasteless pornographic simile here] – "patches":http://mycvs.org/archives/2004/08/22/combined-xml-rpc-patch-for-wordpress-12-and-ecto/ or no.  Like, to the point of putting encoded entity characters in previously published posts that I’m trying to edit.  I don’t know where the blame lies, so instead I’ll just keep using the damn web form posting interface.
+Both "Ecto":http://ecto.kung-foo.tv/ and "MarsEdit":http://ranchero.com/marsedit/ choke on WordPress's XML-RPC like [insert tasteless pornographic simile here] – "patches":http://mycvs.org/archives/2004/08/22/combined-xml-rpc-patch-for-wordpress-12-and-ecto/ or no.  Like, to the point of putting encoded entity characters in previously published posts that I'm trying to edit.  I don't know where the blame lies, so instead I'll just keep using the damn web form posting interface.

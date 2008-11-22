@@ -3,7 +3,7 @@ h1. Timely Information from Stanton
 Just this morning I and a number of the other persistent bastards bugging Stanton about a Mac version of FinalScratch received the following e-mail from laurent@stanton.com.  Read and judge for yourself.
 
 <blockquote>
-“You are receiving this email because you have expressed interest in a MAC version of Final Scratch. Although we have no release information yet, we want to keep in touch with you and make sure to keep you updated as much as we can.
+"You are receiving this email because you have expressed interest in a MAC version of Final Scratch. Although we have no release information yet, we want to keep in touch with you and make sure to keep you updated as much as we can.
 
 So here are the answers to the 3 most frequently asked questions (sorry but that's all the answers we can give for now):
 
@@ -19,5 +19,5 @@ A: We have not yet determined the upgrade/crossgrade
 procedure. It will be announced at the same time as a release date as soon as we have accurate information.
 
 Thanks for your support and your patience.
-Your Final Scratch Team.”
+Your Final Scratch Team."
 </blockquote>

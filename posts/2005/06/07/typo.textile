@@ -1,5 +1,5 @@
 h1. Typo
 
-I moved this lot over to "Typo":http://typo.leetsoft.com because the My First Rails Blog Engine™ I wrote months ago was apparently leaving hung processes all over my host’s machine.  Which puzzles me, as it doesn’t *do* anything, but whatever.  Typo has all these “features” and “tests” is a far better system overall.
+I moved this lot over to "Typo":http://typo.leetsoft.com because the My First Rails Blog Engine™ I wrote months ago was apparently leaving hung processes all over my host's machine.  Which puzzles me, as it doesn't *do* anything, but whatever.  Typo has all these "features" and "tests" is a far better system overall.
 
-Things might look a little bit different and your feeds may be broken.  New feed links are listed on the right as usual.  Dig the “Live Search.”
+Things might look a little bit different and your feeds may be broken.  New feed links are listed on the right as usual.  Dig the "Live Search."

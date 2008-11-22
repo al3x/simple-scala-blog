@@ -1,15 +1,15 @@
 h1. Uncomment, Continued
 
-The first question/request about the new blog engine came from my friend Brittany, of late the author of knitting blog "Yarn Balls":http://www.yarnballs.com.  Her question: “how do I post comments?”
+The first question/request about the new blog engine came from my friend Brittany, of late the author of knitting blog "Yarn Balls":http://www.yarnballs.com.  Her question: "how do I post comments?"
 
-The short answer: you don’t.
+The short answer: you don't.
 
-I disabled comments while I was running WordPress due to the insufferable crush of comment spam.  While I’ve had some ideas about a comment system that would be both usable and reduce spam, I decided not to implement it yet.  Spam, however, did not cap this decision.
+I disabled comments while I was running WordPress due to the insufferable crush of comment spam.  While I've had some ideas about a comment system that would be both usable and reduce spam, I decided not to implement it yet.  Spam, however, did not cap this decision.
 
-I’ve always had a kind of mistrust or skepticism about comments.  Perhaps it comes from having watched Slashdot and similar communities dissolve into a raving, blithering, irrelevant cacophony.  Perhaps it was seeing how, time after time on blog after blog, comments would inevitably be turned off when discussion on a post got too heated.  My instinct was, and is, that comments are most often worthless in small doses and fatal in large ones.
+I've always had a kind of mistrust or skepticism about comments.  Perhaps it comes from having watched Slashdot and similar communities dissolve into a raving, blithering, irrelevant cacophony.  Perhaps it was seeing how, time after time on blog after blog, comments would inevitably be turned off when discussion on a post got too heated.  My instinct was, and is, that comments are most often worthless in small doses and fatal in large ones.
 
-I’ve had some useful, insightful, funny, and informative comments in the history of this weblog.  I don’t see a lot of commenting overall, which is fine with me.  But the ratio of provocative TrackBacks, IMs, and emails I’ve gotten versus provocative comments on posts here has furthered my opinion.  Readers motivated enough to write a post on their own weblog, type out an email to me, or engage me in realtime conversation generally have more to say, or not much to say but a context in which to sound out other thoughts.  Comments as a medium do not encourage goodness, essentially.
+I've had some useful, insightful, funny, and informative comments in the history of this weblog.  I don't see a lot of commenting overall, which is fine with me.  But the ratio of provocative TrackBacks, IMs, and emails I've gotten versus provocative comments on posts here has furthered my opinion.  Readers motivated enough to write a post on their own weblog, type out an email to me, or engage me in realtime conversation generally have more to say, or not much to say but a context in which to sound out other thoughts.  Comments as a medium do not encourage goodness, essentially.
 
-It was happenstance that my “iTunes Chatting” story made the rounds while comments were disabled here, but I’m infinitely grateful it was the case.  Even the more ribbing responses that tracked back to the post were still articulate and engaging.  All twentysomething of them.  That sent a pretty clear message to me.
+It was happenstance that my "iTunes Chatting" story made the rounds while comments were disabled here, but I'm infinitely grateful it was the case.  Even the more ribbing responses that tracked back to the post were still articulate and engaging.  All twentysomething of them.  That sent a pretty clear message to me.
 
 So comments will remain off, though old comments will be displayed.  I look forward, however, to your TrackBacks, your IMs, and your emails.

@@ -4,4 +4,4 @@ The way Web 2.0 works is dumb.  "Says":http://uadmin.blogspot.com/2006/08/web20-
 
 bq. [A Web 2.0 application is] a program that generates another program that is [run] on another computer that calls another program on the server that requests data from another program and sends it back to the client machine, which tells it what to change on the screen when a user does an action.
 
-When people talk about “simplicity” in the same breath as Web 2.0, they’re full of it.  It isn’t the _most_ cumbersome way to develop an application, but it sure ain’t the least.
+When people talk about "simplicity" in the same breath as Web 2.0, they're full of it.  It isn't the _most_ cumbersome way to develop an application, but it sure ain't the least.

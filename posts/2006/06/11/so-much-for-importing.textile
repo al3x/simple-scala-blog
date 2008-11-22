@@ -4,18 +4,18 @@ I gave up on my "aggravated wait for a new mobile":http://al3x.net/2006/04/22/ke
 
 The Nokia I wanted was never going to reach these shores for a reasonable price, I realized.  This was confirmed when I went to get a new phone:
 
-Me: So I’m guessing Cingular is never going to carry the Nokia N73, right?
+Me: So I'm guessing Cingular is never going to carry the Nokia N73, right?
 
-Cingular Guy: Oh, no.  They don’t go in for the high-end stuff.  Not when they’re trying to watch the bottom line.
+Cingular Guy: Oh, no.  They don't go in for the high-end stuff.  Not when they're trying to watch the bottom line.
 
 Me: Dang.
 
-Importing was looking to be too damned expensive.  An unlocked Nokia N80, cousin to the N73, runs upwards of $600.  “WebKit-powered browser:http://opensource.nokia.com/projects/S60browser/ and "Python on your phone":http://www.forum.nokia.com/python aside, that’s insanity.  The gadget cycle is just too short to justify that kind of layout.
+Importing was looking to be too damned expensive.  An unlocked Nokia N80, cousin to the N73, runs upwards of $600.  "WebKit-powered browser:http://opensource.nokia.com/projects/S60browser/ and "Python on your phone":http://www.forum.nokia.com/python aside, that's insanity.  The gadget cycle is just too short to justify that kind of layout.
 
-So I bought a "Motorola SLVR L7":http://www.motorola.com/motoinfo/product/details.jsp?globalObjectId=86.  It’s svelte, it’s sturdy, it’s reasonably priced, and it’s kinda slick.  It’s even turning out to be a good power user phone.
+So I bought a "Motorola SLVR L7":http://www.motorola.com/motoinfo/product/details.jsp?globalObjectId=86.  It's svelte, it's sturdy, it's reasonably priced, and it's kinda slick.  It's even turning out to be a good power user phone.
 
-All the Bluetooth functionality plays nice with Mac OS X, iSync, and "BluePhoneElite":http://www.reelintelligence.com/BluePhoneElite/.  "moto4lin":http://moto4lin.sourceforge.net/wiki/Main_Page works after some monkeying [1], and allows one to add, edit, and delete most anything on the phone, even those dumb “unerasable” images the providers slap on there.  Since the phone sports J2ME support, you can cop the surprisingly nice "Opera Mini":http://www.opera.com/products/mobile/operamini/ and have a decent browser at your disposal.  Not too shabby.
+All the Bluetooth functionality plays nice with Mac OS X, iSync, and "BluePhoneElite":http://www.reelintelligence.com/BluePhoneElite/.  "moto4lin":http://moto4lin.sourceforge.net/wiki/Main_Page works after some monkeying [1], and allows one to add, edit, and delete most anything on the phone, even those dumb "unerasable" images the providers slap on there.  Since the phone sports J2ME support, you can cop the surprisingly nice "Opera Mini":http://www.opera.com/products/mobile/operamini/ and have a decent browser at your disposal.  Not too shabby.
 
-The SLVR is also the first phone I’ve had with MP3 ringtones.  I’m sure the novelty will ware off eventually, but for now hearing Barrington Levy whenever I get a call puts a smile on my face.
+The SLVR is also the first phone I've had with MP3 ringtones.  I'm sure the novelty will ware off eventually, but for now hearing Barrington Levy whenever I get a call puts a smile on my face.
 
-[1] Getting moto4lin compiled on 10.4.6 is major suck.  Don’t bother.  Follow the directions for installing libusb and QT 3.3 "here":http://moto4lin.sourceforge.net/wiki/Mac_OS_X, then just download the pre-built binary at the bottom of the page.  Despite all the weird shit it’s linked against and being a PPC binary _and_ being like seven months old, it works fine between my MacBook Pro and SLVR with the exception of the Java app pane.  Still, it’s more than enough to get pre-installed off your phone and skins, wallpapers, and so forth.
+[1] Getting moto4lin compiled on 10.4.6 is major suck.  Don't bother.  Follow the directions for installing libusb and QT 3.3 "here":http://moto4lin.sourceforge.net/wiki/Mac_OS_X, then just download the pre-built binary at the bottom of the page.  Despite all the weird shit it's linked against and being a PPC binary _and_ being like seven months old, it works fine between my MacBook Pro and SLVR with the exception of the Java app pane.  Still, it's more than enough to get pre-installed off your phone and skins, wallpapers, and so forth.

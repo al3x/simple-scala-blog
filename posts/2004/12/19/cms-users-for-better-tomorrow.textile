@@ -1,7 +1,7 @@
 h1. CMS Users For a Better Tomorrow
 
-Political Wire reblogs The Register’s report of KE04 head of online communications Zach Exley’s "criticism":http://politicalwire.com/archives/2004/12/19/cool_software_doesnt_win_elections.html of his party/campaign’s Internet efforts, and it’s worth noting.
+Political Wire reblogs The Register's report of KE04 head of online communications Zach Exley's "criticism":http://politicalwire.com/archives/2004/12/19/cool_software_doesnt_win_elections.html of his party/campaign's Internet efforts, and it's worth noting.
 
-The technology powering this year’s campaigns failed in no small part because it was so self-conscious, so heavily reported-on and talked-about.  If the medium is the message heard, the message transmitted got lost.
+The technology powering this year's campaigns failed in no small part because it was so self-conscious, so heavily reported-on and talked-about.  If the medium is the message heard, the message transmitted got lost.
 
-Of course, the message this round of Democrats was transmitting wasn’t worth hearing anyway.
+Of course, the message this round of Democrats was transmitting wasn't worth hearing anyway.

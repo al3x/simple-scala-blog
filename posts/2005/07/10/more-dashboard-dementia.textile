@@ -1,6 +1,6 @@
 h1. More Dashboard Dementia
 
-I’m not alone in my "Dashboard-bashing":http://al3x.net/articles/2005/07/08/dashboard-s-damage.
+I'm not alone in my "Dashboard-bashing":http://al3x.net/articles/2005/07/08/dashboard-s-damage.
 Leon Breedt "suggests":http://blog.xeraph.org/articles/2005/07/10/take-back-your-latency:
 
 bq. Turn off Dashboard with "DashOnOff":http://www.macupdate.com/info.php/id/18261,performance and
@@ -10,39 +10,39 @@ my PowerBook was never thrashing (and it has 1.5GB of memory, more than my deskt
 hovering at around 700MB free, even with Dashboard). Now I?̢??̢??m wondering if it was a rogue
 widget, or if Dashboard just likes the taste of CPU in the morning.
 
-The thing is, Leon shouldn’t have to worry about “rogue widgets” eating his machine alive.  Apple should have built the walls on the Dashboard sandbox high enough that all the little widgets can’t hurt themselves – or anyone else.
+The thing is, Leon shouldn't have to worry about "rogue widgets" eating his machine alive.  Apple should have built the walls on the Dashboard sandbox high enough that all the little widgets can't hurt themselves – or anyone else.
 
 Andrew Orlowski of the Register relays "more concerns":http://www.theregister.co.uk/2005/05/26/tiger_ui_review/, albeit with a grain of salt:
 
-bq. On Apple’s own support boards, concern about the performance impact of Dashboard is widely
-expressed. But this is overstated, and isn’t the real issue with Dashboard. (With 30MB free memory –
-on a machine with 1.5GB of RAM – Dashboard claims half of what’s available when invoked. It
-doesn’t matter how many widgets are active. The memory is slowly reclaimed by the garbage collector,
-and this compares very favorably with Konfabulator, a clunky rip-off of Stardock’s DesktopX product
+bq. On Apple's own support boards, concern about the performance impact of Dashboard is widely
+expressed. But this is overstated, and isn't the real issue with Dashboard. (With 30MB free memory –
+on a machine with 1.5GB of RAM – Dashboard claims half of what's available when invoked. It
+doesn't matter how many widgets are active. The memory is slowly reclaimed by the garbage collector,
+and this compares very favorably with Konfabulator, a clunky rip-off of Stardock's DesktopX product
 for Windows.)
 
-That’s two voices suggesting that Dashboard isn’t a memory hog.  All I know is, flipping the switch in DashOnOff freed up 200MB.  It’s like having a new machine.  Or at least like having Panther back.  Orlowski then gets to the nitty-gritty of the Dashboard folly:
+That's two voices suggesting that Dashboard isn't a memory hog.  All I know is, flipping the switch in DashOnOff freed up 200MB.  It's like having a new machine.  Or at least like having Panther back.  Orlowski then gets to the nitty-gritty of the Dashboard folly:
 
-bq. The real issue with Dashboard is that it’s a solution looking for a problem. We’ve had
-equivalents such as Desktop X and Konfabulator for several years now, and they’ve yielded thousands
+bq. The real issue with Dashboard is that it's a solution looking for a problem. We've had
+equivalents such as Desktop X and Konfabulator for several years now, and they've yielded thousands
 of clocks, media controllers and dancing Hula girls. Shed the gimmicks and redundant applications
-and what’s left isn’t too different from the set of desk accessories that shipped with the original
+and what's left isn't too different from the set of desk accessories that shipped with the original
 Mac.
 
-Regardless, killing Dashboard forced me to refine my workflow.  I was already consolidating more activities into Safari: RSS reading, fast searching via "Saft":http://haoli.dnsalias.com/Saft/ shortcuts, using bookmarklets for things like easy del.icio.us additions.  Now I’ve gone back to peppering my toolbar bookmarks with shortcuts to the sort of information I was checking regularly with Dashboard, like a local weather report.  And you know what?  Being able to see detailed information on the day’s weather without clicking through from a widget to Safari is just better.  Or at the very least, it’s not _redundant_.
+Regardless, killing Dashboard forced me to refine my workflow.  I was already consolidating more activities into Safari: RSS reading, fast searching via "Saft":http://haoli.dnsalias.com/Saft/ shortcuts, using bookmarklets for things like easy del.icio.us additions.  Now I've gone back to peppering my toolbar bookmarks with shortcuts to the sort of information I was checking regularly with Dashboard, like a local weather report.  And you know what?  Being able to see detailed information on the day's weather without clicking through from a widget to Safari is just better.  Or at the very least, it's not _redundant_.
 
-Rather than half-assing my note-taking with the deplorably limited sticky widget I’m now getting more out of "QuickSilver":http://quicksilver.blacktree.com/ and its Text Manipulation Actions plugin, judiciously taking notes via a workflow like this:
+Rather than half-assing my note-taking with the deplorably limited sticky widget I'm now getting more out of "QuickSilver":http://quicksilver.blacktree.com/ and its Text Manipulation Actions plugin, judiciously taking notes via a workflow like this:
 
 # Bring up QuickSilver.
-# Hit ”.” (period) to bring up an input field.
+# Hit "." (period) to bring up an input field.
 # Type my note.
-# Tab to actions and navigate to “Append to…”
-# Tab to items and choose the “Scratch.txt” document that I’ve explicitly added to the QuickSilver catalog.
+# Tab to actions and navigate to "Append to…"
+# Tab to items and choose the "Scratch.txt" document that I've explicitly added to the QuickSilver catalog.
 
-It’s five steps, but damned if it takes more than a couple seconds once you have it down.  The next time I want my notes I flip over to "TextMate":http://www.macromates.com/ – which stays open most of the time – and check out Scratch.txt, which I keep in a broader “Notes” project.  If I just want to get there by the content of my notes I can always use Spotlight.  Or hell, I could use QuickSilver to get to the file.  No matter how I do it, it fits a familiar workflow, not zooming me off to the magical Dashboard realm of tiny applications that obey few rules and behave as they will.
+It's five steps, but damned if it takes more than a couple seconds once you have it down.  The next time I want my notes I flip over to "TextMate":http://www.macromates.com/ – which stays open most of the time – and check out Scratch.txt, which I keep in a broader "Notes" project.  If I just want to get there by the content of my notes I can always use Spotlight.  Or hell, I could use QuickSilver to get to the file.  No matter how I do it, it fits a familiar workflow, not zooming me off to the magical Dashboard realm of tiny applications that obey few rules and behave as they will.
 
-While rounding out my Dashboard-free setup I’ve come to re-appreciate just how brilliant "iPulse":http://www.iconfactory.com/ip_home.asp is (I know "Scott":http://holeinthebox.com/ is with me on this).  One glance at the Dock or flip of Expose’s “reveal desktop” hot corner and I’ve got a compact yet informative view of most everything going on with my system.  iPulse doesn’t eat RAM or chew CPU cycles.  Best of all, its elegance is decidedly Mac-like: a better way to display complex and “un-humane” information.
+While rounding out my Dashboard-free setup I've come to re-appreciate just how brilliant "iPulse":http://www.iconfactory.com/ip_home.asp is (I know "Scott":http://holeinthebox.com/ is with me on this).  One glance at the Dock or flip of Expose's "reveal desktop" hot corner and I've got a compact yet informative view of most everything going on with my system.  iPulse doesn't eat RAM or chew CPU cycles.  Best of all, its elegance is decidedly Mac-like: a better way to display complex and "un-humane" information.
 
-Ultimately, I didn’t mean to suggest in my last post on this topic that Apple shipped OS X 10.4 at the expense of quality features.  There are superb and well-concieved improvements all over Tiger, and even Dashboard was an answer to some demand and interest from the Mac community.  It’s undeniable, however, that Tiger is a step down from Panther in terms of overall quality control, riddled as it is with interface inconsistencies and odd performance issues.
+Ultimately, I didn't mean to suggest in my last post on this topic that Apple shipped OS X 10.4 at the expense of quality features.  There are superb and well-concieved improvements all over Tiger, and even Dashboard was an answer to some demand and interest from the Mac community.  It's undeniable, however, that Tiger is a step down from Panther in terms of overall quality control, riddled as it is with interface inconsistencies and odd performance issues.
 
-Dashboard may have its place for some users, but its development should have taken a back seat to resolving more substantial problems.  Apple has always been about balancing innovation with quality.  I don’t want to see that change.
+Dashboard may have its place for some users, but its development should have taken a back seat to resolving more substantial problems.  Apple has always been about balancing innovation with quality.  I don't want to see that change.

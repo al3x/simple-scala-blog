@@ -1,13 +1,13 @@
-h1. I Like What I’m Hearin’
+h1. I Like What I'm Hearin'
 
-First the DCeiver "wails on":http://dceiver.blogspot.com/2004/12/open-letter-to-peter-marks.html one of the WashPo’s shittier theater critics for spending all his time reviewing shows in NYC despite DC’s impressive and varied theater offerings.  Then our plucky lil’ local blogger proceeds to "take joy in College Park’s defeat":http://dceiver.blogspot.com/2004/12/maryland-terrapins-lose-ha-ha-ha-ha-ha.html, with which I sympathize though not to the DCeiver’s degree of bloody-mindedness.
+First the DCeiver "wails on":http://dceiver.blogspot.com/2004/12/open-letter-to-peter-marks.html one of the WashPo's shittier theater critics for spending all his time reviewing shows in NYC despite DC's impressive and varied theater offerings.  Then our plucky lil' local blogger proceeds to "take joy in College Park's defeat":http://dceiver.blogspot.com/2004/12/maryland-terrapins-lose-ha-ha-ha-ha-ha.html, with which I sympathize though not to the DCeiver's degree of bloody-mindedness.
 
-Elsewhere in the world, Momus "takes apart":http://www.livejournal.com/users/imomus/68041.html generic rawkers The Libertines’ recent award of NME’s Single of The Year with a comment that goes far beyond just one mediocre band:
+Elsewhere in the world, Momus "takes apart":http://www.livejournal.com/users/imomus/68041.html generic rawkers The Libertines' recent award of NME's Single of The Year with a comment that goes far beyond just one mediocre band:
 
-bq. “[R]ock music prefers to stay in its bedroom listening to old records than go out and join the dots of all the interesting, funny, trivial or important stuff going on in the world[.]”
+bq. "[R]ock music prefers to stay in its bedroom listening to old records than go out and join the dots of all the interesting, funny, trivial or important stuff going on in the world[.]"
 
-That comment makes me happy because most rock music doesn’t.  Not that Momus’s music does, mind you.
+That comment makes me happy because most rock music doesn't.  Not that Momus's music does, mind you.
 
-I’m still not sure what I think of the "massive post-cum-essay":http://www.drunkenblog.com/drunkenblog-archives/000356.html on DrunkenBlog about the nature of security and personal computing.  There are details in some assertions I want to nitpick about for not having a in-depth understanding of security architecture, but the overall point of the approach to security in personal computing being wrongheaded across the industry/community seems solid enough to let details go ignored.
+I'm still not sure what I think of the "massive post-cum-essay":http://www.drunkenblog.com/drunkenblog-archives/000356.html on DrunkenBlog about the nature of security and personal computing.  There are details in some assertions I want to nitpick about for not having a in-depth understanding of security architecture, but the overall point of the approach to security in personal computing being wrongheaded across the industry/community seems solid enough to let details go ignored.
 
-I may not be posting, but I am consuming content at an alarming rate.  So, uh, there’s that.
+I may not be posting, but I am consuming content at an alarming rate.  So, uh, there's that.

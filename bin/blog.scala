@@ -1,4 +1,4 @@
-import java.io.{BufferedReader, File, FileReader, FileWriter}
+import java.io.{BufferedReader, ByteArrayOutputStream, File, FileInputStream, FileReader, FileWriter}
 import net.sf.jtextile.JTextile
 import scala.collection.mutable.ListBuffer
 import scala.io.Source
@@ -21,8 +21,27 @@ def readFile(file: File): String = {
   src.getLines.mkString
 }
 
+def readFileToString(f: File) = {
+  val bos = new ByteArrayOutputStream
+  val ba = new Array[Byte](2048)
+  val is = new FileInputStream(f)
+
+  def read {
+    is.read(ba) match {
+      case n if n < 0 =>
+        case 0 => read
+      case n => bos.write(ba, 0, n); read
+    }
+  }
+
+  read
+  bos.toString("UTF-8")
+}
+
 findPosts(postDir)
 
 for (post <- posts) {
-  println(JTextile.textile(readFile(post)))
+  val body = readFileToString(post)
+  val textiled = JTextile.textile(body)
+  println(textiled)
 }
