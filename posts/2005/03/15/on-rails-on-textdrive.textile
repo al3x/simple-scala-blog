@@ -1,15 +1,15 @@
 h1. On Rails, On TextDrive
 
-A few minutes ago I kicked the %(=caps)DNS% for this domain over to TextDrive, where the "Rails (Ruby On Rails)":http://www.rubyonrails.com blog engine I’ve been working on has eagerly been waiting to send this right here your way.  Which is to say, I got the new shiz working and if you don’t care about the geeky details, be happy that I’ll be back to regular posting and other projects shortly.
+A few minutes ago I kicked the DNS for this domain over to TextDrive, where the "Rails (Ruby On Rails)":http://www.rubyonrails.com blog engine I’ve been working on has eagerly been waiting to send this right here your way.  Which is to say, I got the new shiz working and if you don’t care about the geeky details, be happy that I’ll be back to regular posting and other projects shortly.
 
 For those who do care about the geeky details, here’s the specs on the new engine, less-than-creatively dubbed threengine:
 
 * compatible with the latest Rails release as of this writing, 0.10.1
 * borrows liberally from "Typo (Typo)":http://typo.leetsoft.com and "EliteJournal":http://elitejournal.rubyforge.org/
-* like Typo, implements only %(=caps)XML%-RPC for posting/editing.
-* unlike Typo, only implements the MetaWeblog %(=caps)API%, and then via the new Rails ActionWebServices (as ganked from EliteJournal)
+* like Typo, implements only XML-RPC for posting/editing.
+* unlike Typo, only implements the MetaWeblog API, and then via the new Rails ActionWebServices (as ganked from EliteJournal)
 * fulltext search
-* %(=caps)RSS 2%.0 and Atom feeds
+* RSS 2.0 and Atom feeds
 * routes for compatibility with WordPress fancy URLs (email me if you want the c0de for this – a lovely kludge)
 * Markdown formatting for posts and comments
 * Trackback

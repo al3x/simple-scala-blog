@@ -1,6 +1,6 @@
 h1. Richard Stallman Still Doesn’t fscking Get It!
 
-Richard Stallman, speaking at the %(=caps)SXSW% conference on Friday, had this to say about copyright, filesharing, and the music industry:
+Richard Stallman, speaking at the SXSW conference on Friday, had this to say about copyright, filesharing, and the music industry:
 
 bq. “Another issue is Internet music sharing. We should simply legalize it now. The musicians and the public would be better off. Record labels treat musicians like dirt. The contracts that they impose on musicians are extremely cruel. When you buy a commercial CD, you fail to support the musicians. Concerts are how musicians make money. I want music that’s made by artisans, not in factories.”
 

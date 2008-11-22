@@ -10,19 +10,19 @@ No, I’m not at Mac World San Fransisco, but through some bandwidth miracle I�
 
 9:20am – Roz Ho, General Manager of Microsoft’s Mac Business Unit, talking about Office 2004
 
-9:22am – Lead Excel programmer demos “Mac-first” features: Word Notebook View for note taking, quick highlighting, audio notes in %(=caps)MP4% format, page layout view in Excel for more accurate printing, Project Center with multiple views + files + clippings + events + contacts etc.
+9:22am – Lead Excel programmer demos “Mac-first” features: Word Notebook View for note taking, quick highlighting, audio notes in MP4 format, page layout view in Excel for more accurate printing, Project Center with multiple views + files + clippings + events + contacts etc.
 
 9:29am – Copies of Office X bought today have free upgrade path to Office 2004’s Spring release.
 
-9:30am – Steve again: “10,000 native Mac %(=caps)OS X% apps.”
+9:30am – Steve again: “10,000 native Mac OS X apps.”
 
 9:31am – The G5 processor: Virginia Tech cluster (“we had to piss off a few other customers [to get the first 1100 dual proc G5s to VTech]”), 3rd fastest in the world and only $5.2 million, show promo video by VTech
 
-9:37am – G5 XServes with air vents on front, slot load optical drives, 1U form factor, single and dual 2.0 GHz G5 procs, %(=caps)EEC RAM%, dual gigabit ethernet, ship with Panther Server 10.3, unlimited client license, 3 models: server for $2999, dual proc for $3999, compute node with dual for $2999.  Shipping this month.
+9:37am – G5 XServes with air vents on front, slot load optical drives, 1U form factor, single and dual 2.0 GHz G5 procs, EEC RAM, dual gigabit ethernet, ship with Panther Server 10.3, unlimited client license, 3 models: server for $2999, dual proc for $3999, compute node with dual for $2999.  Shipping this month.
 
-9:39 – Xserve %(=caps)RAID% storage system updated to 3.5TBs of online storage, %(=caps)SFP% connectors for 2GB fibre channel, %(=caps)RAID% set slicing up to 16 per Xserve %(=caps)RAID%, qualified to work with lots of fibre channel systems and multiple OSs, 3 versions at $3/GB.
+9:39 – Xserve RAID storage system updated to 3.5TBs of online storage, SFP connectors for 2GB fibre channel, RAID set slicing up to 16 per Xserve RAID, qualified to work with lots of fibre channel systems and multiple OSs, 3 versions at $3/GB.
 
-9:42 – Sold 30 million songs via iTunes Music Store, closing in on 100 million songs/year rate, 70% of the legal downloads market, #1 in songs and revenue, top spender has spent $29,500 on songs ^_^, 5,000 audiobooks added and 50,000 sold in first quarter, gift certificates added in October and over 100,000 sold since, added %(=caps)AOL% integration.
+9:42 – Sold 30 million songs via iTunes Music Store, closing in on 100 million songs/year rate, 70% of the legal downloads market, #1 in songs and revenue, top spender has spent $29,500 on songs ^_^, 5,000 audiobooks added and 50,000 sold in first quarter, gift certificates added in October and over 100,000 sold since, added AOL integration.
 
 9:46 – New iTunes features: Billboard charts “done right” including historical charts, over 12,000 classical tracks from quality classical labels, hit 500,000 songs for download, Pepsi and Apple are going to give away 100 million free songs (“legally!”) on one-in-three yellow-capped Pepsi bottles.
 
@@ -34,7 +34,7 @@ No, I’m not at Mac World San Fransisco, but through some bandwidth miracle I�
 
 10:10 – iDVD 4: new themes, menus, navigation map, better encoding, project exporting.
 
-10:14 – New iApp(!!!): GarageBand can digitally mix up to 64 tracks, play over 50 software instruments with %(=caps)USB%/MIDI keyboards, use over 1,000 pro loops (“we built Soundtrack into it”), record live audio, over 200 pro quality effects, vintage guitar amp sounds.
+10:14 – New iApp(!!!): GarageBand can digitally mix up to 64 tracks, play over 50 software instruments with USB/MIDI keyboards, use over 1,000 pro loops (“we built Soundtrack into it”), record live audio, over 200 pro quality effects, vintage guitar amp sounds.
 
 10:17 – Musician John Meyer does a demo with Steve (blogger’s note: virtual instruments sound _really goddamn good!_)
 
@@ -46,6 +46,6 @@ No, I’m not at Mac World San Fransisco, but through some bandwidth miracle I�
 
 10:52 – iPod:  “we are so thrilled with [its] success… 730,000 iPods sold last quarter.  Over 2 Million sold.”   Updates: 10GB -&gt; 15GB for same price.  In-ear headphones for $39.00, “really good.”  New ad (pretty funky).
 
-10:58 – iPod mini introduced!  4GBs of storage/1000 songs, 0.5” thick, $249.  Looks like a squished iPod, “size of a business card.”  Has solid state scroll wheel with built-in buttons, supports Firewire and %(=caps)USB2% and can charge from either, has both cables, belt clip included.  Accessories: dock, arm band.  Comes in silver, gold, blue, pink, green, anodized aluminum.  Shipping next month in US, in April worldwide.
+10:58 – iPod mini introduced!  4GBs of storage/1000 songs, 0.5” thick, $249.  Looks like a squished iPod, “size of a business card.”  Has solid state scroll wheel with built-in buttons, supports Firewire and USB2 and can charge from either, has both cables, belt clip included.  Accessories: dock, arm band.  Comes in silver, gold, blue, pink, green, anodized aluminum.  Shipping next month in US, in April worldwide.
 
 11:05 – That’s a wrap!

@@ -1,5 +1,5 @@
 h1. Cloud Atlas
 
-Bwahahaha!  An "%(=caps)EC2%":http://www.amazon.com/gp/browse.html?node=201590011 beta account is mine!
+Bwahahaha!  An "EC2":http://www.amazon.com/gp/browse.html?node=201590011 beta account is mine!
 
 That is all.

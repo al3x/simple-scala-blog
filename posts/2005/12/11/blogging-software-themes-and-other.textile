@@ -8,14 +8,14 @@ It is not good.
 
 Look, I don’t want to bash the popular kid.  Rails is tasty-sweet, a great fit for certain kinds of projects.  But it, and the components it relies on like FastCGI and, well, Ruby, need some work.  They’re unstable.  They leak.  They eat servers for breakfast.
 
-Now, I don’t mind doing some application tweaking and handholding when in a complex production scenario.  But Typo is a _blog engine_.  It goes “here’s some posts… Hey, that one has a comment! Oh, lemme post that via %(=caps)XML%-RPC for you, sir! And how about those session cookies?”  That’s all it does.  That’s all it needs to do.
+Now, I don’t mind doing some application tweaking and handholding when in a complex production scenario.  But Typo is a _blog engine_.  It goes “here’s some posts… Hey, that one has a comment! Oh, lemme post that via XML-RPC for you, sir! And how about those session cookies?”  That’s all it does.  That’s all it needs to do.
 
 *I shouldn’t need to be a full-time administrator for my blog software.*  I shouldn’t need to tweak a damn thing to have it run acceptably in a shared hosting environment.  And it certianly shouldn’t consume so many resources that I’m (rightly!) getting nasty notes from my hosting provider.
 
-I’ve actually got half a mind to switch back to "WordPress":http://www.wordpress.org.  Oh, sure, it’s %(=caps)PHP% and %(=caps)PHP% sucks and it’s insecure and it’s the third largest target for blog spam on the entire Internet, but it _works_.  It’s speedy.  The 2.0 release candidate is a-okay.
+I’ve actually got half a mind to switch back to "WordPress":http://www.wordpress.org.  Oh, sure, it’s PHP and PHP sucks and it’s insecure and it’s the third largest target for blog spam on the entire Internet, but it _works_.  It’s speedy.  The 2.0 release candidate is a-okay.
 
 I’m going to hold off on switching, however, until WordPress 2.0 is released and abused; that is, until 2.0.1 is out.  That should be enough time for the right honorable Kyle Neath to release his "Hemmingway":http://warpspire.com/journal/personal/introducing-hemingway/  theme for WordPress.  It’s presently a Typo theme – the _best_ Typo theme – and he was nice enough to write me back and suggest it’d be ported by sometime in December.  I’ll shift it over to my usual “sad cloud” color scheme, but damn it looks good.  I’d been mulling over a similar design, something close to Steve Smith’s "Ordered List":http://orderedlist.com, and stumbling across Hemmingway totally made my day.
 
 Now, I thought about writing my own blog engine in "Django":http://www.djangoproject.org.  In fact, it’s basically done, in no small part because Django’s generic views mean you hardly have to write a damn thing.  But Django is still undergoing seismic shifts in its codebase, and I’ve had enough trouble running pre-1.0 web frameworks on shared hosts via FastCGI.  There’s also nothing custom that I’m really jonesing for; I just want to set the thing up, made it look perdy, and forget about it so I can write.
 
-Which brings us back to my state. I’ll shake it off.  I’ll write, even if I have to move the new posts over by hand, through a sea of broken glass and %(=caps)SQL% statements.  I’ll do this thing because I care about *you*, dear reader.
+Which brings us back to my state. I’ll shake it off.  I’ll write, even if I have to move the new posts over by hand, through a sea of broken glass and SQL statements.  I’ll do this thing because I care about *you*, dear reader.

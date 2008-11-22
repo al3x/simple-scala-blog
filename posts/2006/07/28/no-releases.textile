@@ -4,6 +4,6 @@ I’m developing my current project on "Edge Rails":http://wiki.rubyonrails.com/
 
 This got me thinking: I’d like to see a prominent Open Source project stop having releases.  Milestones or targets, sure, but not releases in the “this code will live forever” sense.  Daily or weekly tarballs at the most.  Embrace version control or you don’t get to play.  (Obviously this better suits projects like frameworks and web applications over compiled client-side software).
 
-Test-driven development means that the bleeding edge version of a project can be just as reliable as a release, if not more so; newer, better tests get checked in all the time.  Ubiquitous news feeds mean that it’s no longer difficult to push warnings about upcoming backwards-incompatible %(=caps)API% changes out to developers.
+Test-driven development means that the bleeding edge version of a project can be just as reliable as a release, if not more so; newer, better tests get checked in all the time.  Ubiquitous news feeds mean that it’s no longer difficult to push warnings about upcoming backwards-incompatible API changes out to developers.
 
 Update daily, test early, deploy often.  Never release, because it’s never done.  The days of software in a box are long gone, so why develop like we’re still shipping on floppy disks?

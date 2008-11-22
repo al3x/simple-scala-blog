@@ -1,6 +1,6 @@
 h1. What’s Good and What’s Bullshit at DefCon 13
 
-This is more for my scheduling purposes than anything else, but I thought I’d share.  Given that my friends and I will be busy with Capture The Flag at this year’s DefCon (just mere weeks away!) I won’t have a lot of time to see talks.  I played in %(=caps)CTF% last year and didn’t see a single talk; given that I’m helping to run the contest this year I don’t have high hopes for my free time.
+This is more for my scheduling purposes than anything else, but I thought I’d share.  Given that my friends and I will be busy with Capture The Flag at this year’s DefCon (just mere weeks away!) I won’t have a lot of time to see talks.  I played in CTF last year and didn’t see a single talk; given that I’m helping to run the contest this year I don’t have high hopes for my free time.
 
 If I get a spare minute this is what I’ll be seeing, what I’ll be avoiding, and what I’ll be divided on, culled from the "DefCon 13 Speakers Page":http://defcon.org/html/defcon-13/dc13-speakers.html:
 
@@ -8,7 +8,7 @@ h2. Good
 
 _appropriate to the conference, covers new material, challenges the audience_
 
-* Routing in the Dark: Scalable Searches in Dark %(=caps)P2P% Networks
+* Routing in the Dark: Scalable Searches in Dark P2P Networks
 * The Information Security Industry: $3 Billion of Snake Oil (editor’s note: _you had me at the title_)
 * The Next Generation of Cryptanalytic Hardware
 * Google Hacking for Penetration Testers (editor’s note: _seems like a mundane topic but the speaker is a sharp fella_)
@@ -26,7 +26,7 @@ _tired topics, conference-unspecific material, non-technical, pandering, goofy, 
 * Be Your Own Telephone Company…With Asterisk
 * Analysis of Identity Creation Detection Schemes post-9/11 (editor’s note: _bonus bullshit for use of the phrase “post-9/11_)
 * Countering Denial of Information Attacks
-* %(=caps)CISO Q%&amp;A with Dark Tangent
+* CISO Q&amp;A with Dark Tangent
 * Whiz Kids or Juvenile Delinquents: A Sociological Perspective The Construction of Hacker Identity
 * Introduction to Lockpicking and Physical Security
 * The Hacker?̢??̢??s Guide to Search and Arrest
@@ -52,8 +52,8 @@ _tired topics, conference-unspecific material, non-technical, pandering, goofy, 
 * Old Skewl Hacking – InfraRed
 * Visual Security Event Analysis
 * Meet the Fed
-* Hacking the Mind (Influence and %(=caps)NLP%)
-* Ask %(=caps)EFF%: The Year in Digital Liberties
+* Hacking the Mind (Influence and NLP)
+* Ask EFF: The Year in Digital Liberties
 * Causing the Law
 * Bypassing Authenticated Wireless Networks
 * Assymetric Digital Warfare
@@ -64,7 +64,7 @@ _tired topics, conference-unspecific material, non-technical, pandering, goofy, 
 * Forensic Data Acquisition Tools
 * Building WarDriving Hardware Workshop
 * Legal and Ethical Aspects of WarDriving
-* The %(=caps)NMRC% Warez 2005 Extravaganza
+* The NMRC Warez 2005 Extravaganza
 * Attacking Web Services: The Next Generation of Vulnerable Apps
 * Hacking Google AdWords
 * The Revolution Will Not Be Copyrighted: Why You Should Care About Free Culture
@@ -86,11 +86,11 @@ _might be good, might be bullshit_
 * Intro to High Security Locks and Safes
 * Surgical Recovery from Kernel-Level Rootkit Installations
 * GeoIP Blocking, A Controversial But (Sometimes) Effective Approach
-* Trust Transience: Post Intrusion %(=caps)SSH% Hijacking
-* %(=caps)ATM% Network Vulnerabilities
+* Trust Transience: Post Intrusion SSH Hijacking
+* ATM Network Vulnerabilities
 * Shmoo-Fu: Hacker Goo, Goofs, and Gear with the Shmoo
 * Shadow Walker: Raising The Bar For Rootkit Detection
-* %(=caps)DIRA%: Automatic Detection, Identification, and Repair of Control-Hijacking Attacks
+* DIRA: Automatic Detection, Identification, and Repair of Control-Hijacking Attacks
 * Physical Security Bypass Techniques: Exploring the Ethics of Full Disclosure
-* End-to-End Voice Encryption over %(=caps)GSM%: A Different Approach
+* End-to-End Voice Encryption over GSM: A Different Approach
 

@@ -10,13 +10,13 @@ h2. Josh Fergus from Sunthe pro-RDBMS guy
 
 h2. Chad Walters from Powerset on Giant Scale Systems
 
-  %(=caps)ACID% means constraints
-  %(=caps)SQL% is hard to grok at scale
+  ACID means constraints
+  SQL is hard to grok at scale
   talking about very large computational domains delivered at very high volumes
   use a ton of commodity hardware to overcome failures
   modern rdbms dont deliver on reliability
   replication starts to be a headache with rdbms
-  use something like %(=caps)GFS% or Hadoop that was designed for the task
+  use something like GFS or Hadoop that was designed for the task
   why the application/db divide?
   move the computation to the data  MapReduce, specialized data structures
   sounds in general like a digestion of the Google approach
@@ -25,13 +25,13 @@ h2. Paul Querna from Bloglines
 
   BloglinesFS: store every blog post ever
   currently storing several billion posts
-  inspired by MogileFS and %(=caps)GFS%, but different
+  inspired by MogileFS and GFS, but different
   two main components: PodServer (serves metadata) on ItemDBs (storage nodes)
   PodServer: stateless, finds nodes on startup, provides cross-data center replication, spigots for dumping data
-  ItemDB: serves web sites as chunks, local indexes for for attributes like Date, Post %(=caps)URL%, etc.
+  ItemDB: serves web sites as chunks, local indexes for for attributes like Date, Post URL, etc.
   request goes from app server to PodServer to ItemDB
   crawler writes to PodServer which then writes to ItemDBs
-  75 data machines of 2?300GB disks, one ItemDB per disk, no %(=caps)RAID%
+  75 data machines of 2?300GB disks, one ItemDB per disk, no RAID
   crawl all blogs every 30 minutes, thousands of concurrent reads + writes per second
   wed do it all over again because there arent any choices out there
   Hadoop too specialized for web search, not good for write-heavy data

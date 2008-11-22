@@ -2,21 +2,21 @@ h1. I Suffer DNS Woes So You Don't Have To
 
 Of late I ran into an issue that I think a fair number of geeks have: how to use the same name for your home server wherever you are.
 
-Lots of you have servers at home and a laptop that you use to talk to that server when you’re at the coffee shop, on the road, at the office, and so forth.  That server is probably on a %(=caps)DSL% or cable connection, and thus you’ve assigned a name to it via dynamic %(=caps)DNS%.  That works great when you want to talk to the server from the coffee shop.  But when you’re at home, no worky, right?  You’re all “hey connect to myserver.dyndns.com” and your router is all “durr hurr that’s at the same address that I’m connected to and I can’t move your packets there hurr” and you’re all “crap.”
+Lots of you have servers at home and a laptop that you use to talk to that server when you’re at the coffee shop, on the road, at the office, and so forth.  That server is probably on a DSL or cable connection, and thus you’ve assigned a name to it via dynamic DNS.  That works great when you want to talk to the server from the coffee shop.  But when you’re at home, no worky, right?  You’re all “hey connect to myserver.dyndns.com” and your router is all “durr hurr that’s at the same address that I’m connected to and I can’t move your packets there hurr” and you’re all “crap.”
 
-So maybe you could get buck wild and set up %(=caps)BIND% or "djbdns":http://cr.yp.to/djbdns.html or another full-fledged %(=caps)DNS% server.  That’s overkill, though.  All you really want is a piece of software running at home that says “if someone asks where these couple of computers are, tell them they’re right here on this network, otherwise pass the question on to my %(=caps)ISP%’s nameserver.”  That piece of software is "dproxy":http://dproxy.sourceforge.net/, and it totally owns.
+So maybe you could get buck wild and set up BIND or "djbdns":http://cr.yp.to/djbdns.html or another full-fledged DNS server.  That’s overkill, though.  All you really want is a piece of software running at home that says “if someone asks where these couple of computers are, tell them they’re right here on this network, otherwise pass the question on to my ISP’s nameserver.”  That piece of software is "dproxy":http://dproxy.sourceforge.net/, and it totally owns.
 
 Here’s what’cha do:
 
-# Download dproxy to your server.  Decompress it and read the %(=caps)README% file.
+# Download dproxy to your server.  Decompress it and read the README file.
 # Build and install it.
 # Add the machines on your network to your server’s /etc/hosts file.
-# Edit the dproxy configuration file so that it talks to your favorite nameserver and (probably) doesn’t use %(=caps)PPP%.
+# Edit the dproxy configuration file so that it talks to your favorite nameserver and (probably) doesn’t use PPP.
 # Start dproxy.
-# Tell the machines on your network to use your server’s IP as a %(=caps)DNS% server.  On UNIXish systems this means adding it to the top of your /etc/resolv.conf file.  Don’t forget that on your server you’ll be adding 127.0.0.1, not your server’s network-facing address.
+# Tell the machines on your network to use your server’s IP as a DNS server.  On UNIXish systems this means adding it to the top of your /etc/resolv.conf file.  Don’t forget that on your server you’ll be adding 127.0.0.1, not your server’s network-facing address.
 # Try talking to myserver.dyndns.com from home.  Worky?
-# If something’s messed up, make sure your server’s firewall is allowing %(=caps)TCP% and %(=caps)UDP% traffic on port 53, that you told dproxy about a working nameserver, and that you sacrificed a virgin.
+# If something’s messed up, make sure your server’s firewall is allowing TCP and UDP traffic on port 53, that you told dproxy about a working nameserver, and that you sacrificed a virgin.
 
-Hopefully that wasn’t too painful.  I didn’t think so, at least not compared to setting up other %(=caps)DNS% softaware.  On my "Fedora":http://fedora.redhat.com/ box, dproxy even installed a handy startup script.  It worked _instantly_.  It is love.
+Hopefully that wasn’t too painful.  I didn’t think so, at least not compared to setting up other DNS softaware.  On my "Fedora":http://fedora.redhat.com/ box, dproxy even installed a handy startup script.  It worked _instantly_.  It is love.
 
 The main impetus for this, by the way, was Subversion, which doesn’t offer a brainless way to say “my server is usually at myserver.dyndns.com, but if you can’t talk to that machine, try 192.168.0.2”.  But that’s all sorted now.  Huzzah!

@@ -5,7 +5,7 @@ I didn't really get "Twitter":http://www.twitter.com/ at first blush, but its gr
 We've since discovered that blogging is far too _long_ a form for such mundanity, but Twitters 160 characters are the ideal length for terse, informative updates about ones life.  It's the personal activity equivalent of "del.icio.us":http://del.icio.us/.  I want to see what my friends are finding on the web, but I don't necessarily want to see a whole blog post about each link.
 There are a couple of things that I think Twitter could benefit from:
 
-Integration with %(=caps)AIM% status messages.  Many of my friends use iChat or other IM clients that allow them to set their available status that is, an away message without marking yourself as away.  These status messages perform much the same function of Twitter, albeit without the sense of a timeline and other social aspects of the site.  Only having to set my status once would be nice.
+Integration with AIM status messages.  Many of my friends use iChat or other IM clients that allow them to set their available status that is, an away message without marking yourself as away.  These status messages perform much the same function of Twitter, albeit without the sense of a timeline and other social aspects of the site.  Only having to set my status once would be nice.
 
 Integration with "Feedburner":http://www.feedburner.com/.  I'd like to see Twitter updates mashed into friends combined blog + del.icio.us + Flickr ego feeds.
 

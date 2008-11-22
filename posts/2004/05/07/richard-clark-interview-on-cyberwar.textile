@@ -1,6 +1,6 @@
 h1. Richard Clark Interview on Cyberwar
 
-Choice quote from the "%(=caps)PBS% interview":http://www.pbs.org/wgbh/pages/frontline/shows/cyberwar/interviews/clarke.html:
+Choice quote from the "PBS interview":http://www.pbs.org/wgbh/pages/frontline/shows/cyberwar/interviews/clarke.html:
 
 bq. I think the fact that Microsoft hadn’t applied its own patch of its own system says it’s difficult and time consuming to apply these fixes.
 

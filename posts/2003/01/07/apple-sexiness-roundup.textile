@@ -8,4 +8,4 @@ backwards-compatible 802.11g technology that pushes the existing 802.11b wireles
 tacks on better security; a whipass-fast new web browser called
 "Safari":http://www.apple.com/safari/; a slick new PowerPoint competitor called
 "Keynote":http://www.apple.com/keynote/, and even their own distribution of the
-"%(=caps)X11%":http://www.apple.com/macosx/x11/ *nixland graphics layer. Crazy busy Apple.
+"X11":http://www.apple.com/macosx/x11/ *nixland graphics layer. Crazy busy Apple.

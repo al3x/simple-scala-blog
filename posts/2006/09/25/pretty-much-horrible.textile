@@ -8,7 +8,7 @@ Ruby’s Perl heritage is starting to show up in interesting ways.
 
 Perl ended up looking like line noise thanks to syntactical shortcuts provided for its sysadmin user base, designed to simplify tasks like string processing.  You could write powerful code in Perl quickly, but good luck sharing it with your team or coming back to it six months later.
 
-I see Ruby providing similar and equally confusing shortcuts for its audience of %(=caps)OOP%-hungry coders.  One can write powerful, dynamic, and terribly _clever_ Ruby, but readability and comprehension fly out the window.
+I see Ruby providing similar and equally confusing shortcuts for its audience of OOP-hungry coders.  One can write powerful, dynamic, and terribly _clever_ Ruby, but readability and comprehension fly out the window.
 
 Jeremy Voorhis, presently authoring a book on Rails for O’Reilly, recently "blogged about":http://www.jvoorhis.org/articles/2006/08/29/on-writing-well-exposition-or-code using Rubyisms to write “denser, more readable code.”  Responses in the comments were mixed, with complaints ranging from “a clear example of code obfuscation” to “way to[o] arcane.”  Proponents of this style essentially say, “try it, you’ll get used it.”  Fair enough.  People managed to get used to Prolog, too.
 

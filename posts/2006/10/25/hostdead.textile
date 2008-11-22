@@ -6,7 +6,7 @@ bq. “I’ve putzed around way to[o] much with weblogging software over the yea
 
 That was in late 2004.
 
-Today I set up a Virtual Private Server with "Slicehost":http://www.slicehost.com/ with the intention of moving this domain to it, as well as laying down foundation for some upcoming projects.  My logic was that having a %(=caps)VPS% would allow me to run whatever crazy-ass blog software or services I so chose.
+Today I set up a Virtual Private Server with "Slicehost":http://www.slicehost.com/ with the intention of moving this domain to it, as well as laying down foundation for some upcoming projects.  My logic was that having a VPS would allow me to run whatever crazy-ass blog software or services I so chose.
 
 Halfway into the tedium of setting up my server I surveyed the world of hosted blogging for the first time in ages.  "TypePad":http://www.typepad.com still sucks.  "Blogger":http://www.blogger.com sucks harder, if that’s even possible.  But "WordPress.com":http://www.wordpress.com does not suck, and  just today they added support for custom domains.  This serendipity got me thinking.
 

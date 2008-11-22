@@ -2,7 +2,7 @@ h1. Lazyweb: Web-based BitTorrent Client?
 
 I need a web-based BitTorrent client that’s suck-free.
 
-"TorrentFlux":http://www.torrentflux.com/ is close, but not that close.  It’s %(=caps)PHP%, and that sucks.  The “stable” version is a year old and bug-riddled, and the beta under active development isn’t really any more stable, and that sucks.  Its interface kinda sucks.  Did I mention %(=caps)PHP%?
+"TorrentFlux":http://www.torrentflux.com/ is close, but not that close.  It’s PHP, and that sucks.  The “stable” version is a year old and bug-riddled, and the beta under active development isn’t really any more stable, and that sucks.  Its interface kinda sucks.  Did I mention PHP?
 
 My ideal solution is written in Python.  It runs on Linux.  It speaks a current version of the BitTorrent protocol.  It works like this:
 

@@ -2,4 +2,4 @@ h1. The Poddie is Podcast
 
 "iPodderX":http://ipodderx.com/ is a crime against Mac interface design and unstable to boot.  Use anything else.
 
-*Addendum:* actually, all the other podcast aggregators for %(=caps)OS X% suck just as bad.
+*Addendum:* actually, all the other podcast aggregators for OS X suck just as bad.

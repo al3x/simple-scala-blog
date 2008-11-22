@@ -1,5 +1,5 @@
 h1. We Got Blogged!
 
-"PICnet":http://www.picnet.net/’s joint session with Democracy in Action at the "Grassroots Use of Technology":http://organizenow.net/conference04.html conference at %(=caps)MIT% this past weekend was "blogged":http://www.corante.com/loose/archives/002393.html over at Corante’s Loose Democracy.  I wasn’t present, but fellow PICnet’ers Ryan and Ann were there to talk up our idea of *distributed campaigns*, which I’ve been building the software to make happen.
+"PICnet":http://www.picnet.net/’s joint session with Democracy in Action at the "Grassroots Use of Technology":http://organizenow.net/conference04.html conference at MIT this past weekend was "blogged":http://www.corante.com/loose/archives/002393.html over at Corante’s Loose Democracy.  I wasn’t present, but fellow PICnet’ers Ryan and Ann were there to talk up our idea of *distributed campaigns*, which I’ve been building the software to make happen.
 
 I’ve been putting off talking about my work here, but now that the cat is out of the bag blog-wise I’d guess I’d better start talking.  You’ll get a post soon.

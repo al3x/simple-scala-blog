@@ -10,7 +10,7 @@ We’re failing our potential.
 
 We are supposed to be the Net Generation.  We’re supposed to bring the positive, globalizing force of the network to the people who need it most.  Instead, we’re chasing advertising dollars and barely inching technology forward.
 
-Technology?  Web 2.0 isn’t about technology.  Web application development is a joke.  It’s easy, especially after a decade of collective experience.  "Ruby on Rails":http://www.rubyonrails.com didn’t emerge solely out of its developer’s much-touted genius; it’s a codification of best practices wrapped up in clever invocations.  %(=caps)AJAX% is a five-minute rehashing of technology that’s been around for ages.  The code powering Web 2.0 is so rooted in the now that we’re practically going backwards in time.
+Technology?  Web 2.0 isn’t about technology.  Web application development is a joke.  It’s easy, especially after a decade of collective experience.  "Ruby on Rails":http://www.rubyonrails.com didn’t emerge solely out of its developer’s much-touted genius; it’s a codification of best practices wrapped up in clever invocations.  AJAX is a five-minute rehashing of technology that’s been around for ages.  The code powering Web 2.0 is so rooted in the now that we’re practically going backwards in time.
 
 We should be moving forward.  We should be innovating.  It’s no accident that people view the Web 2.0 sphere with the same economic, technological, and moral trepidation that they did the Dot Com era.  History is repeating itself, and while the market losses may be less, the lost opportunities to do good are that much greater.
 

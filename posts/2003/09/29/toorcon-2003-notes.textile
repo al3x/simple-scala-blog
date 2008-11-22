@@ -1,6 +1,6 @@
 h1. ToorCon 2003 Notes
 
-I’ll write more about the con when I’m home tomorrow, but now that I’ve got mad net connectivity here at "Dachb0den":http://www.dachb0den.com/ it seems a good time to share the collaborative notes on the conference that I and several other Rendezvous-enabled attendees took.  So right here, exclusive, and in plain old readable %(=caps)ASCII%, are:
+I’ll write more about the con when I’m home tomorrow, but now that I’ve got mad net connectivity here at "Dachb0den":http://www.dachb0den.com/ it seems a good time to share the collaborative notes on the conference that I and several other Rendezvous-enabled attendees took.  So right here, exclusive, and in plain old readable ASCII, are:
 
 * "Day One":http://www.al3x.net/toorcon2003day1.txt
 * "Day Two":http://www.al3x.net/toorcon2003day2.txt

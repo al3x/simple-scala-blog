@@ -1,6 +1,6 @@
 h1. Blogspam Finally Starts To Irk Me
 
-Unlike a lot of bloggers I haven’t let blogspam get to me for a while.  The expressions of indignity (“they, why, they just can’t _do_ this!  Blogspace is _our_ space, pure and virginal!  This is so… so… _%(=caps)AOL%_!”) amongst bloggers have been amusing to me.  I quietly installed "MT-Blacklist":http://www.jayallen.org/projects/mt-blacklist/ and filtered away at my blogspam, figuring such inconveniences were just part of the reality of having a presence in the wild ecosystem of cyberspace.
+Unlike a lot of bloggers I haven’t let blogspam get to me for a while.  The expressions of indignity (“they, why, they just can’t _do_ this!  Blogspace is _our_ space, pure and virginal!  This is so… so… _AOL_!”) amongst bloggers have been amusing to me.  I quietly installed "MT-Blacklist":http://www.jayallen.org/projects/mt-blacklist/ and filtered away at my blogspam, figuring such inconveniences were just part of the reality of having a presence in the wild ecosystem of cyberspace.
 
 But over and over the bots these blogspammers use have been hitting the same entry on this site, probably because it’s linked to from several fairly high-traffic blogs.  I’ve finally decided to close that entry for comments in an attempt to stem the now bi-daily tide of blogspam.  What sucks is that anyone who wants to make a legitimate comment on that entry is now unable to.  Blogspam has finally moved from mere nuisance to genuine roadblock for me and this blog.
 

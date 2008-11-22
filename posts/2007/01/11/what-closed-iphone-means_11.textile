@@ -6,7 +6,7 @@ There's the potential here for some serious George Jetson shit and it would be a
 
 Wolf Rentzsch "suggests you file a bug about it":http://rentzsch.com/cocoa/iphoneIndieAppDevelopment.  I did.  Why not?  Its _broken_.
 
-But what would a closed iPhone mean?  It means the opening is in the browser.    p. The browser on the iPhone is, essentially, Safari.  I have a similar browser right now on my Nokia %(=caps)E60%, and its hot.  Like Safari developer Dave Hyatt "says":http://webkit.org/blog/?p=87:bq.
+But what would a closed iPhone mean?  It means the opening is in the browser.    p. The browser on the iPhone is, essentially, Safari.  I have a similar browser right now on my Nokia E60, and its hot.  Like Safari developer Dave Hyatt "says":http://webkit.org/blog/?p=87:bq.
 
 There is less and less need for a special dumbed down version of the web just for mobile devices; instead we can have a single device-independent web that??s presented in the best possible way on a variety of devices."
 

@@ -6,7 +6,7 @@ Buying from a scalper was _easy_.  I put my offered amount on Craigslist, went a
 
 Console supply-and-demand grouching aside, Nintendo made a very puzzling decision with regard to the Wii’s video output options.  After doing a fair bit of research I can say with reasonable confidence that there’s no way, at present, to get a Wii talking to a 30” Apple Cinema Display.
 
-For that matter, there’s no affordable way to get a Wii displaying on most any %(=caps)VGA% or %(=caps)DVI% display as best I can tell.  What about all the college students getting a Wii for the holidays who only have a computer display in their dorm rooms?  The lack of a %(=caps)VGA%/DVI adaptor seems a bizarre gap in Nintendo’s launch-time accessory lineup.
+For that matter, there’s no affordable way to get a Wii displaying on most any VGA or DVI display as best I can tell.  What about all the college students getting a Wii for the holidays who only have a computer display in their dorm rooms?  The lack of a VGA/DVI adaptor seems a bizarre gap in Nintendo’s launch-time accessory lineup.
 
 Once again, Craigslist to the rescue.  It’s actually way, way cheaper to buy a used television than to attempt to piece together the right combination of adapters, convertors, and scalers to get a good picture from the Wii on a computer monitor.
 

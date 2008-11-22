@@ -4,4 +4,4 @@ Neither "Darwin Ports":http://www.darwinports.org/ nor "Fink":http://fink.sf.net
 
 What.  The.  Hell.
 
-_%(=caps)UPDATE%:_ I was "not alone":http://www.oreillynet.com/mac/blog/2006/02/a_bad_day_for_fink_and_darwin.html.
+_UPDATE:_ I was "not alone":http://www.oreillynet.com/mac/blog/2006/02/a_bad_day_for_fink_and_darwin.html.

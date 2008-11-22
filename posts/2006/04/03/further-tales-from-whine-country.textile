@@ -19,6 +19,6 @@ Fantastic.  Meanwhile, dozens of trolls are running around Apple’s forums post
 
 Next, I found Daniel Jalkut’s "Red Sweater Blog":http://www.red-sweater.com/blog/, where he’s been obsessively documenting and trying to remedy "the whine and other noises":http://www.red-sweater.com/blog/macbook-pro-noise-complaints/.  He even signed "the petition":http://www.petitiononline.com/whinefix/petition.html.  Nice guy.
 
-I ran his MagicNoiseKiller just now.  The whine stopped, as advertised.  But with the processor whine gone, the %(=caps)LCD% inverter noise became apparent.  It’s not as distracting as the whine, but unlike the accounts on the forums mine only goes away when I turn the display to its darkest setting.  No workaround there.
+I ran his MagicNoiseKiller just now.  The whine stopped, as advertised.  But with the processor whine gone, the LCD inverter noise became apparent.  It’s not as distracting as the whine, but unlike the accounts on the forums mine only goes away when I turn the display to its darkest setting.  No workaround there.
 
 I’m crossing my fingers about the reports of revised logic boards.  As soon as I hear of enough people getting 100% working replacements you better believe I’ll be tap-dancing on my local Genius Bar in cleats until they hook me the fuck up.

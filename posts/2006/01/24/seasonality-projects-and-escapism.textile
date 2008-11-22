@@ -1,6 +1,6 @@
 h1. Seasonality, Projects, and Escapism
 
-I’d like to offer a word of advice to any readers who deal with with "%(=caps)SAD%":http://en.wikipedia.org/wiki/Seasonal_affective_disorder: remember your "known good state":http://www.webopedia.com/TERM/L/Last_Known_Good_configuration.html.
+I’d like to offer a word of advice to any readers who deal with with "SAD":http://en.wikipedia.org/wiki/Seasonal_affective_disorder: remember your "known good state":http://www.webopedia.com/TERM/L/Last_Known_Good_configuration.html.
 
 When you’re seasonal, you can find your life suddenly unrecognizable.  When the dark months come, the ideas, routines, duties, and people you care about will seem distant and unappealing.  You become a different person, but it’s nearly impossible to see the change from your low, gloomy purview.
 
@@ -22,5 +22,5 @@ My site would be free of the gimmicks of most dating sites – blogs, social net
 
 It’s easy to have a warm fuzzy feeling about this project, and the upfront development time isn’t that long.  Everyone I’ve talked to about it likes the idea.  If it got popular, however, maintenance could quickly become a full-time job.  On a selfish personal level, it’s also more time spent coding when I could be out meeting people the normal way; that is, it might be a solution, but it’s more likely to exacerbate the problem.
 
-So now you know a couple of the sort of things a lovelorn geek and bedroom DJ comes up with in the grips of %(=caps)SAD%, along with fancies of going back to freelance web app development and moving to Portland or Vancouver or someplace soft, airily lefty, and forgiving.  Jekyll and Hyde, innit?
+So now you know a couple of the sort of things a lovelorn geek and bedroom DJ comes up with in the grips of SAD, along with fancies of going back to freelance web app development and moving to Portland or Vancouver or someplace soft, airily lefty, and forgiving.  Jekyll and Hyde, innit?
 Your thoughts are welcome and encouraged.

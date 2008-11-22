@@ -6,6 +6,6 @@ But Microsoft has a positively horrific track record for security, and has consi
 
 The article mentions that “Microsoft will provide the standard e-mail software for the entire department.”  Have these people been living under rocks for the last three years?!  Lovebug, anyone?  How about any of the other scores of vulnerabilities exploited in Microsoft’s historically insecure mail software?  I know I’m looking forward to getting that “Somebody likes you!” message from Tom Ridge.  We’re fucked.
 
-*%(=caps)UPDATE%:* Think I’m just making shit up?  "Brent":http://www.inessential.com/ points out a %(=caps)USA% Today article, "“Microsoft Admits Critical Flaw in Nearly All Windows Software.”":http://www.usatoday.com/tech/news/computersecurity/2003-07-16-microsoft-hole_x.htm 
+*UPDATE:* Think I’m just making shit up?  "Brent":http://www.inessential.com/ points out a USA Today article, "“Microsoft Admits Critical Flaw in Nearly All Windows Software.”":http://www.usatoday.com/tech/news/computersecurity/2003-07-16-microsoft-hole_x.htm 
 
 Totally, totally fucked.

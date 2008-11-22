@@ -6,6 +6,6 @@ I’d had just about a bloody ‘nuff of Typo, what with constant errors and cri
 
 Yeah, TextPattern.  Made by Dean Allen.  The TextDrive guy.  The “Text” in TextDrive, really.  If ever there was evidence that my beef with TextDrive isn’t personal, I’d say this is it.  Short of maybe a card.  On nice stationary.
 
-TextPattern is good.  It’s simple, faster than "WordPress":http://www.wordpress.org, well-written for being %(=caps)PHP%, and friendly with shared hosting environments.  I took some time porting "Hemingway":http://hemingway.textdriven.com/, tweaking it and making the colors just so.  I’m happy with the way the whole lot looks on your end and works on my end.  Hopefully you dig the look too.
+TextPattern is good.  It’s simple, faster than "WordPress":http://www.wordpress.org, well-written for being PHP, and friendly with shared hosting environments.  I took some time porting "Hemingway":http://hemingway.textdriven.com/, tweaking it and making the colors just so.  I’m happy with the way the whole lot looks on your end and works on my end.  Hopefully you dig the look too.
 
 Redirects have been put in place for the feeds, and I’ll get around to doing the same for the articles.

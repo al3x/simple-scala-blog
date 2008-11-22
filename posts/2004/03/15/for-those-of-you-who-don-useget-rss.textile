@@ -1,3 +1,3 @@
 h1. For Those of You Who Don’t Use/Get RSS Readers
 
-%(=caps)CNN% has "an article":http://www.cnn.com/2004/TECH/03/15/new.web/index.html on feed readers, including picks for various platforms.  Get with the program, luddites.  I’m not publishing that %(=caps)XML% out of the goodness of my heart.
+CNN has "an article":http://www.cnn.com/2004/TECH/03/15/new.web/index.html on feed readers, including picks for various platforms.  Get with the program, luddites.  I’m not publishing that XML out of the goodness of my heart.

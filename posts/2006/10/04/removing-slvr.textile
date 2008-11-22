@@ -1,13 +1,13 @@
 h1. Removing a SLVR
 
-A while back I said some nice things about the Motorola %(=caps)SLVR L7%.  That was my three-days-out-of-the-box impression.  I now firmly retract those nice things.  This is me glaring daggers at Motorola: _glare_.
+A while back I said some nice things about the Motorola SLVR L7.  That was my three-days-out-of-the-box impression.  I now firmly retract those nice things.  This is me glaring daggers at Motorola: _glare_.
 
-A phone that does as comparatively little as the %(=caps)SLVR% should not crash; I’d like to say that phones in general shouldn’t crash but that’s simply not a realistic expectation these days.   The %(=caps)SLVR% should not stall indefinitely while trying to load your contacts list.  You shouldn’t be able to exhaust its memory by simply running a web browser.  You shouldn’t have to wonder whether or not your phone is actually receiving calls while it sits there, powered on, acting like nothing’s wrong.
+A phone that does as comparatively little as the SLVR should not crash; I’d like to say that phones in general shouldn’t crash but that’s simply not a realistic expectation these days.   The SLVR should not stall indefinitely while trying to load your contacts list.  You shouldn’t be able to exhaust its memory by simply running a web browser.  You shouldn’t have to wonder whether or not your phone is actually receiving calls while it sits there, powered on, acting like nothing’s wrong.
 
 All those major technical issues are aside from the fact that the interface is horrific and misleading.  For example: I don’t expect to have a phonebook entry overwritten when I try to assign a number to speed dial.
 
 I know Motorola has a lousy reputation when it comes to mobiles, but I’m a firsthand experience kinda guy.  Now that I’ve had that firsthand experience you’ll be hard-pressed to catch me buying another Motorola phone.
 
-Problem is, there’s not a worthwhile alternative out there.  I’ve looked at the Blackberry Pearl hands-on and wasn’t impressed.  Ditto the current Samsung offerings (basically rip-offs of Motorola’s designs), the Sidekick 3, and the Nokia %(=caps)E62% that "Web Worker Daily was touting":http://webworkerdaily.com/2006/10/04/nokia-e62-good-deal-for-150/.  I’d leave my current carrier for a better phone - at a loss, even - but there just isn’t anything compelling on the market.
+Problem is, there’s not a worthwhile alternative out there.  I’ve looked at the Blackberry Pearl hands-on and wasn’t impressed.  Ditto the current Samsung offerings (basically rip-offs of Motorola’s designs), the Sidekick 3, and the Nokia E62 that "Web Worker Daily was touting":http://webworkerdaily.com/2006/10/04/nokia-e62-good-deal-for-150/.  I’d leave my current carrier for a better phone - at a loss, even - but there just isn’t anything compelling on the market.
 
 Where oh where is the "iPhone":http://www.appleiphone.blogspot.com/?

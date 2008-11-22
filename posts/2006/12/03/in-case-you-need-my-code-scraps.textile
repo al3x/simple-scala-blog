@@ -4,7 +4,7 @@ Since rejiggering my domain recently, Id been running "code.al3x.net":http://cod
 
 Retrospectiva is quite full-featured for a beta release.  It already goes a ways beyond Collaboa, and even Trac in some respects (the blog extension, for example).  Retrospectiva isn't production-ready, though, so for the time being code.al3x.net is simply serving up plain ol' Apache-powered Subversion.
 
-I'm so taken with Nginx that I decided to keep it as my public-facing %(=caps)HTTP% server.  I just run an Apache virtual host for Subversion on a high port and and tell Nginx to proxy to it like so:
+I'm so taken with Nginx that I decided to keep it as my public-facing HTTP server.  I just run an Apache virtual host for Subversion on a high port and and tell Nginx to proxy to it like so:
 
   server {
     listen 80;

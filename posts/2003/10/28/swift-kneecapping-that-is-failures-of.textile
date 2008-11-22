@@ -4,4 +4,4 @@ h1. The Swift Kneecapping That Is Failures of Backwards Compatibility
 
 I can’t be too bitter at the Big Apple, though.  Steve gave developers ample time to get their apps Panther-ready, and iTerm seems to follow a positively _glacial_ development cycle.  Everything else in my arsenal works like a bomb with 10.3.
 
-So, uh, anybody got a better tabbed terminal emulator for %(=caps)OS X%?  Anyone?  Bueller?  It ain’t GLTerm, so don’t even start bullshitting on Front Street.
+So, uh, anybody got a better tabbed terminal emulator for OS X?  Anyone?  Bueller?  It ain’t GLTerm, so don’t even start bullshitting on Front Street.

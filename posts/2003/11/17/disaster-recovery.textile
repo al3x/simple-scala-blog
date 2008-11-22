@@ -1,10 +1,10 @@
 h1. Disaster, Recovery
 
-My iBook was stepped on and sustained the sole injury of a damaged hard drive.  The machine  decided it no longer had a hard drive: no diagnostic software even reported the existence of anything other than the %(=caps)DVD%/CD-RW combo drive on the %(=caps)IDE% chain.  The best explanation for this “forgotten hard drive” was a broken controller chip on the drive itself.
+My iBook was stepped on and sustained the sole injury of a damaged hard drive.  The machine  decided it no longer had a hard drive: no diagnostic software even reported the existence of anything other than the DVD/CD-RW combo drive on the IDE chain.  The best explanation for this “forgotten hard drive” was a broken controller chip on the drive itself.
 
 I replaced the drive in the iBook myself, swapping in another 40 gigger.  Replacing a hard drive in an iBook is a hideous, miserable exercise in screws, plates, brackets, some more screws, tabs, screws, and then some screws.  So many screws.  But it’s done, and I’m writing this from a clean install of Panther, for better and, well, worse.
 
-As I mentioned before, I don’t have many physical possessions.  I do, however, have quite a lot of data.  My last backup of my home directory, excepting the 22-odd GBs of music, was roughly a month ago.  My mail is kept remotely via %(=caps)IMAP%, thankfully.  But I need that hard drive working again long enough get my music and a few other sundry files off of it.
+As I mentioned before, I don’t have many physical possessions.  I do, however, have quite a lot of data.  My last backup of my home directory, excepting the 22-odd GBs of music, was roughly a month ago.  My mail is kept remotely via IMAP, thankfully.  But I need that hard drive working again long enough get my music and a few other sundry files off of it.
 
 Any suggestions or experiences with data recovery services?
 

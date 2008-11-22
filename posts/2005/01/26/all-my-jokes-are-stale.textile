@@ -2,6 +2,6 @@ h1. All My “Ahoy” Jokes Are Stale
 
 It’s a small web development community.
 
-Why, who is that shooting up the "del.icio.us":http://del.icio.us/popular/ popularity index with a nice "intro":http://www.slash7.com/flashback/2005/01/oreilly_onlamp.html and new blog about Rails?  It’s none other than the multitalented "Amy Hoy":http://www.infocookie.com, the developer I recommended to my "last employer":http://www.picnet.net when I left consulting for my current gig.  She codes some mean %(=caps)PHP%, edits some, uh, mean English, and bakes a mean cake.  She’s awesome, and awesome people are automatically attracted to Rails.  Also me.
+Why, who is that shooting up the "del.icio.us":http://del.icio.us/popular/ popularity index with a nice "intro":http://www.slash7.com/flashback/2005/01/oreilly_onlamp.html and new blog about Rails?  It’s none other than the multitalented "Amy Hoy":http://www.infocookie.com, the developer I recommended to my "last employer":http://www.picnet.net when I left consulting for my current gig.  She codes some mean PHP, edits some, uh, mean English, and bakes a mean cake.  She’s awesome, and awesome people are automatically attracted to Rails.  Also me.
 
 It’s like a fever, Ruby is, spreading.  Some sort ruby red fever.  Crimson, even.  Brick.  Maroon.

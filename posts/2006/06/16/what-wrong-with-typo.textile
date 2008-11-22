@@ -4,7 +4,7 @@ h1. What's Wrong With Typo
 
 What’s wrong with "Typo":http://www.typosphere.org/?  Lots of stuff.
 
-Typo started out on the right foot: a lithe Rails blog engine with no web-based administration; all posting, editing, and deleting of articles was done via %(=caps)XML%-RPC, presumably via a desktop blog editing app like "MarsEdit":http://ranchero.com/marsedit/.  This kept the code base small and the user base smaller, which meant that the only features getting added were must-haves for serious bloggers, not something-for-everyone niceties.
+Typo started out on the right foot: a lithe Rails blog engine with no web-based administration; all posting, editing, and deleting of articles was done via XML-RPC, presumably via a desktop blog editing app like "MarsEdit":http://ranchero.com/marsedit/.  This kept the code base small and the user base smaller, which meant that the only features getting added were must-haves for serious bloggers, not something-for-everyone niceties.
 
 When Rails started to take off, fans got a bad case of “everything on the same platform” syndrome.  Even though there are stellar, battle-tested blogging packages that are far easier to deploy and maintain, every Rails newbie under the sun decided that their first project was going to be setting up a Typo blog and chronicling their adventures in Ruby-land.  With this influx of users came the desire for a snazzy administration interface and about a billion other features.  Typo got bloated in a big way.
 

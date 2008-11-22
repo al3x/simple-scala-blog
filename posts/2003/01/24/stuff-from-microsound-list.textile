@@ -15,7 +15,7 @@ microsound?” The best way I can describe it (and these genre things are tricky
 say it’s “post-IDM,” in the same way that one refers to “post-Rock.” Post-Rock is shoegazing music,
 as arty and academic and rock can be.
 
-Similarly, if %(=caps)IDM% is our “classic rock”, then microsound is %(=caps)IDM%’s successor,
+Similarly, if IDM is our “classic rock”, then microsound is IDM’s successor,
 though less for shoegazing than art-gallery soundscapes, armchair post-postmodern philosophy, maybe
 even programming (as long as your code comes out minimal). Microsound is one of those expansive
 genre definitions that appear so often in the electronic music world, claiming artists past and

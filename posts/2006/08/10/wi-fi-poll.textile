@@ -1,5 +1,5 @@
 h1. A Wi-Fi Poll
 
-If you have a wi-fi router at home do you run it open or closed?  If closed, do you use %(=caps)WEP%/WPA or %(=caps)MAC% filtering or what?  What’s your logic either way?  Leave a comment if you please.
+If you have a wi-fi router at home do you run it open or closed?  If closed, do you use WEP/WPA or MAC filtering or what?  What’s your logic either way?  Leave a comment if you please.
 
-I’m curious to see how people are using home wireless networks several years on.  I just opened up my router after a year or so of running it closed for no particular reason.  Feel free to surf if you find yourself in Clarendon; the %(=caps)SSID% is nice_packets_lol.
+I’m curious to see how people are using home wireless networks several years on.  I just opened up my router after a year or so of running it closed for no particular reason.  Feel free to surf if you find yourself in Clarendon; the SSID is nice_packets_lol.

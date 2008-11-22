@@ -12,6 +12,6 @@ and "new
 mythology":http://www.amazon.com/exec/obidos/ASIN/0380789035/qid=1040938892/sr=2-3/ref=sr_2_3/103-6494444-116061.
 
 I promise a more regular update schedule, and even some aesthetic improves, when I return. The lack
-of a functioning version of open %(=caps)AFS% client Arla makes editing my blog a remote affair,
+of a functioning version of open AFS client Arla makes editing my blog a remote affair,
 rather than the networked-but-same-as-local power of Arla/AFS. As you can imagine, that slows things
 down a bit. Solutions will be, uhm, soluted and more in the New Year. I resolve as much. Cheers all.

@@ -1,3 +1,3 @@
 h1. Enlightenment on GNOME and X11
 
-(Ignore the title pun, g33ks)  Confuzzled by the Linux/Unix desktop’s workings and design?  Wanna know more about %(=caps)GNOME 2.4?  Ars Technica has got you "covered":http://arstechnica.com/reviews/003/software/gnome-2.4/gnome2.4-1.html like a jimmy hat.  They get all under the hood, then all above the hood, then they wax that thing up and down.  What a (popular) technical article should be.
+(Ignore the title pun, g33ks)  Confuzzled by the Linux/Unix desktop’s workings and design?  Wanna know more about GNOME 2.4?  Ars Technica has got you "covered":http://arstechnica.com/reviews/003/software/gnome-2.4/gnome2.4-1.html like a jimmy hat.  They get all under the hood, then all above the hood, then they wax that thing up and down.  What a (popular) technical article should be.

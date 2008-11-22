@@ -6,7 +6,7 @@ So you want to browse the web on a Mac?
 
 "Opera":http://www.opera.com/ may be free as of late, but no thanks.  It just  has this cheap Windows vibe.
 
-"Safari":http://www.apple.com/safari/ is ever so _native_, but it’s seriously lacking in power-user features.  I basically can’t use Safari without "PithHelmet":http://culater.net/software/PithHelmet/PithHelmet.php and "Saft":http://haoli.dnsalias.com/Saft/index.html.  Unfortuately, Safari’s lack of a clear extension %(=caps)API% means those two step on each other’s toes all too frequently.  Safari routinely crashes when I’m checking Gmail or "SuicideGirls":http://www.suicidegirls.com, and that’s like my whole web right there.  Damn.
+"Safari":http://www.apple.com/safari/ is ever so _native_, but it’s seriously lacking in power-user features.  I basically can’t use Safari without "PithHelmet":http://culater.net/software/PithHelmet/PithHelmet.php and "Saft":http://haoli.dnsalias.com/Saft/index.html.  Unfortuately, Safari’s lack of a clear extension API means those two step on each other’s toes all too frequently.  Safari routinely crashes when I’m checking Gmail or "SuicideGirls":http://www.suicidegirls.com, and that’s like my whole web right there.  Damn.
 
 "Firefox":http://www.getfirefox.com is the seemingly obvious choice: mostly reliable, increasingly ubiquitous, featureful, and hugely extensible.  But it feels wrong on a Mac: the widgets are flat, the interface conventions are just slightly off, and it doesen’t take advantage of Cocoa offerings like system-wide spellcheck and Keychain password storage.  The 1.5 beta is nice, and faster than its predecessor, but not perfect.
 

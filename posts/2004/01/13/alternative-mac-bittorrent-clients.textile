@@ -1,7 +1,7 @@
 h1. Alternative Mac BitTorrent Clients
 
-Sarwat Khan has "whipped up":http://sarwat.net/bittorrent/ a more full-featured expansion of the BitTorrent 3.3 code for Mac %(=caps)OS X%, keeping the same name but piling on the features.  The application feels like it could use some touch-ups for Panther, however.
+Sarwat Khan has "whipped up":http://sarwat.net/bittorrent/ a more full-featured expansion of the BitTorrent 3.3 code for Mac OS X, keeping the same name but piling on the features.  The application feels like it could use some touch-ups for Panther, however.
 
-Recommended to me was "Azureus":http://azureus.sourceforge.net/, a Java BitTorrent client with even more bells and whistles but, in my view, a long way to go on the %(=caps)GUI% and stability.  Still, it’s better than the generic %(=caps)OS X% client.
+Recommended to me was "Azureus":http://azureus.sourceforge.net/, a Java BitTorrent client with even more bells and whistles but, in my view, a long way to go on the GUI and stability.  Still, it’s better than the generic OS X client.
 
 Options, options.
