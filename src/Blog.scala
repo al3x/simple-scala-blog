@@ -2,30 +2,39 @@ package net.al3x.blog
 
 import java.io.File
 import scala.collection.{immutable, mutable}
+import scala.xml.XML
 
-object Blog {
-  var postFiles = new mutable.ListBuffer[File]()
-  var allPosts = new mutable.ListBuffer[Post]()
+object Blog extends XMLHelpers {
 
-  def findPostFiles(dir: File) {
-    for (file <- dir.listFiles) {
-      if (file.isFile && file.getName.endsWith(".textile")) {
-        postFiles += file
-      } else if (file.isDirectory) {
-        findPostFiles(file)
+  def findPosts(postDir: File): mutable.ListBuffer[Post] = {
+    var foundPosts = new mutable.ListBuffer[Post]()
+
+    def recursiveFind(dir: File) {
+      for (file <- dir.listFiles) {
+        if (file.isFile && file.getName.endsWith(".textile")) {
+          foundPosts += new Post(file)
+        } else if (file.isDirectory) {
+          recursiveFind(file)
+        }
       }
     }
+
+    recursiveFind(postDir)
+    foundPosts
   }
 
   def main(args: Array[String]) {
-    findPostFiles(new File(Config.postDir))
+    val posts = findPosts(new File(Config.postDir))
+    val lastTenPosts = posts.reverse.slice(0, 10)
 
-    //for (post <- postFiles) {
-    //  allPosts += Post.fromTextile(file)
-    //}
-    //allPosts.foreach(post => post.filePost)
+    if (Config.force) {
+      posts.foreach(post => post.write)
+    } else {
+      lastTenPosts.foreach(post => post.write)
+    }
 
-    val lastTen = postFiles.reverse.slice(0, 10)
-    lastTen.foreach(post => println(post.getPath))
+    XML.saveFull(Config.atomPath, toAtom(lastTenPosts), "UTF-8", true, null)
+    XML.saveFull(Config.sitemapPath, toSitemap(posts), "UTF-8", true, null)
   }
+
 }
