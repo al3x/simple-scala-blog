@@ -1,7 +1,7 @@
 package net.al3x.blog
 
 object Config {
-  val force = true
+  val force = false
 
   val pwd = "/Users/al3x/src/blog"
 

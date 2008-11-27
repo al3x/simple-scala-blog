@@ -2,6 +2,7 @@ package net.al3x.blog
 
 import java.io.File
 import scala.collection.{immutable, mutable}
+import scala.collection.jcl
 import scala.xml.XML
 
 object Blog extends XMLHelpers {
@@ -21,6 +22,41 @@ object Blog extends XMLHelpers {
 
     recursiveFind(postDir)
     foundPosts
+  }
+
+  def archiveByYearMap(posts: Seq[Post]): jcl.TreeMap[String, mutable.ListBuffer[Post]] = {
+    var yearMap = new jcl.TreeMap[String, mutable.ListBuffer[Post]]
+
+    for (post <- posts) {
+      var yearList = {
+        if (yearMap.contains(post.year)) {
+           yearMap(post.year)
+        } else {
+          new mutable.ListBuffer[Post]()
+        }
+      }
+      yearList += post
+      yearMap += (post.year -> yearList)
+    }
+
+    yearMap
+  }
+
+  def archivePageBody(posts: Seq[Post]) = {
+    val yearMap = archiveByYearMap(posts)
+    val yearsDiv =
+    <div id="years-div">
+    {for (key <- yearMap.keys) yield
+      <h1>{key}</h1>
+      <ul id="archive-by-year">
+      {for (post <- yearMap(key)) yield
+        <li><a href={post.url}>{post.title}</a></li>
+      }
+      </ul>
+    }
+    </div>
+
+    yearsDiv.toString
   }
 
   def main(args: Array[String]) {
