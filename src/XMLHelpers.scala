@@ -57,7 +57,8 @@ trait XMLHelpers {
         <lastmod>{post.siteMapDate}</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-       </url>}
+       </url>
+       }
     </urlset>
   }
 }
