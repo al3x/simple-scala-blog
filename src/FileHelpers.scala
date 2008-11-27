@@ -21,7 +21,7 @@ trait FileHelpers {
   def templatizeFile(file: File, varMap: immutable.Map[String, String]): String = {
     var out = readFile(file)
     for (key <- varMap.keys) {
-      out.replace(key, varMap(key))
+      out = out.replace(key, varMap(key))
     }
     out
   }
@@ -36,9 +36,29 @@ trait FileHelpers {
     }
 
     if (file.exists) {
-      Config.force match {
-        case true => file.delete; writeIt
-        case false => writeIt
+      file.delete
+    }
+
+    writeIt
+  }
+
+  def copyFileToPath(file: File, path: String) = {
+    val body = readFile(file)
+    val newFileName = Array(path, file.getName).mkString("/")
+    val newFile = new File(newFileName)
+    writeFile(newFile, body)
+  }
+
+  def copyAllFiles(from: String, to: String) = {
+    val dir = new File(from)
+
+    if (!dir.isDirectory) {
+      throw new RuntimeException(dir + " is not a directory, cannot copy from it.")
+    }
+
+    for (file <- dir.listFiles) {
+      if (file.isFile) {
+        copyFileToPath(file, to)
       }
     }
   }

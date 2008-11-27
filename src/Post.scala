@@ -27,7 +27,7 @@ class Post(file: File) extends FileHelpers {
     val bodyLines = body.split("\n")
     bodyLines.slice(1, bodyLines.size).mkString.trim
   }
-  lazy val templatizedBody = templatizeFile(new File(Config.postTemplate),
+  lazy val templatizedBody = templatizeFile(new File(Config.template),
                                             immutable.Map("XTITLE" -> title, "XBODY" -> body))
 
   def updatedDate: String = {

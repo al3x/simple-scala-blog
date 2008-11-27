@@ -5,13 +5,11 @@ object Config {
 
   val pwd = "/Users/al3x/src/blog"
 
-  val postDir = pwd + "/posts"
-  val wwwDir  = pwd + "/www"
+  val postDir   = pwd + "/posts"
+  val wwwDir    = pwd + "/www"
+  val staticDir = pwd + "/static"
 
-  val aboutTemplate   = pwd + "/templates/about.html"
-  val archiveTemplate = pwd + "/templates/archive.html"
-  val indexTemplate   = pwd + "/templates/index.html"
-  val postTemplate    = pwd + "/templates/post.html"
+  val template = pwd + "/templates/template.html"
 
   val aboutPath   = wwwDir + "/about.html"
   val archivePath = wwwDir + "/archive.html"
