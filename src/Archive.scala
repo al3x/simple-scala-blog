@@ -29,7 +29,7 @@ class Archive(posts: Seq[Post]) extends FileHelpers {
     <h1>{key}</h1>
     <ul id="archive-by-year">
     {for (post <- archiveByYearMap(key)) yield
-      <li><a href={post.url}>{post.title}</a></li>
+      <li><a href={post.relativeUrl}>{post.title}</a></li>
     }
     </ul>
   }

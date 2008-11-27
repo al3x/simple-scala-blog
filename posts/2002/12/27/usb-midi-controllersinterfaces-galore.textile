@@ -34,4 +34,4 @@ software, but about as fluid and intuitive as soldering your own synth together 
 exactly an instant concept-to-product workflow, like Live. I'm curious if anyone out there knows of
 good Max/MSP tutorials, and from there some good ambient/"microsound":http://www.microsound.org instruments built with it.
 
-Whew! Lots to learn, and such little time in the winter break…
+Whew! Lots to learn, and such little time in the winter break...
