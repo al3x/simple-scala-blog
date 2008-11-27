@@ -23,19 +23,34 @@ class Post(file: File) extends FileHelpers {
   lazy val atomId  = "tag:al3x.net," + siteMapDate + ":" + relativeUrl
 
   lazy val title = Source.fromFile(file).getLine(1).split("h1. ")(1)
-  lazy val body = JTextile.textile(readFile(file)).trim
+
+  lazy val body =
+    "<div class=\"post\">" + JTextile.textile(readFile(file)).trim + signoffDate + "</div>"
+
   lazy val bodyMinusTitle = {
     val bodyLines = body.split("\n")
     bodyLines.slice(1, bodyLines.size).mkString.trim
   }
+
   lazy val templatizedBody = templatizeFile(new File(Config.template),
                                             immutable.Map("XTITLE" -> title, "XBODY" -> body))
 
-  def updatedDate: String = {
+  lazy val updatedDate = {
     val rfc3339 = new SimpleDateFormat("yyyy-MM-dd'T'h:m:ss'-05:00'")
     val calendar = Calendar.getInstance
     calendar.set(year.toInt, month.toInt, day.toInt)
     rfc3339.format(calendar.getTime)
+  }
+
+  lazy val signoffDate = {
+    val simpleDate = new SimpleDateFormat("MMM d, yyyy")
+    val calendar = Calendar.getInstance
+    calendar.set(year.toInt, month.toInt, day.toInt)
+    val dateStr = simpleDate.format(calendar.getTime)
+
+    <p class="signoff">
+      &mdash;<a href={relativeUrl}>{dateStr}</a>
+    </p>.toString
   }
 
   def createDir(year: String, month: String, day: String) = {

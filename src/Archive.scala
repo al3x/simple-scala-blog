@@ -25,7 +25,7 @@ class Archive(posts: Seq[Post]) extends FileHelpers {
 
   lazy val yearsDiv =
   <div id="years-div">
-  {for (key <- archiveByYearMap.keys) yield
+  {for (key <- archiveByYearMap.keys.toList.reverse) yield
     <h1>{key}</h1>
     <ul id="archive-by-year">
     {for (post <- archiveByYearMap(key)) yield

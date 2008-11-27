@@ -13,7 +13,7 @@ class Index(posts: Seq[Post]) extends FileHelpers {
   }
 
   lazy val index = templatizeFile(new File(Config.template),
-                                  immutable.Map("XTITLE" -> "Online Writings",
+                                  immutable.Map("XTITLE" -> "Home",
                                                 "XBODY"  -> indexBody))
 
   def write = writeFile(new File(Config.indexPath), index)

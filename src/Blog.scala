@@ -11,7 +11,7 @@ object Blog extends FileHelpers {
     val lastTenPosts = posts.reverse.slice(0, 10)
 
     // write posts
-    if (args(1) == "-f") {
+    if ((args.size) > 0 && args(1) == "-f") {
       posts.foreach(post => post.write)
     } else {
       lastTenPosts.foreach(post => post.write)
