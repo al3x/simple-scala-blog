@@ -1,7 +1,7 @@
 package net.al3x.blog
 
-import scala.collection.{immutable, mutable}
 import java.io.File
+import scala.collection.{immutable, mutable}
 
 class Index(posts: Seq[Post]) extends FileHelpers {
   def indexBody = {

@@ -1,8 +1,6 @@
 package net.al3x.blog
 
 object Config {
-  val force = false
-
   val pwd = "/Users/al3x/src/blog"
 
   val postDir   = pwd + "/posts"
@@ -10,6 +8,8 @@ object Config {
   val staticDir = pwd + "/static"
 
   val template = pwd + "/templates/template.html"
+
+  val aboutPost = postDir + "/about.textile"
 
   val aboutPath   = wwwDir + "/about.html"
   val archivePath = wwwDir + "/archive.html"

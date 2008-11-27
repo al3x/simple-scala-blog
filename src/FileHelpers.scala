@@ -6,6 +6,23 @@ import scala.collection.{immutable, mutable}
 import scala.io.Source
 
 trait FileHelpers {
+  def findPosts(postDir: File): mutable.ListBuffer[Post] = {
+    var foundPosts = new mutable.ListBuffer[Post]()
+
+    def recursiveFind(dir: File) {
+      for (file <- dir.listFiles) {
+        if (file.isFile && file.getName.endsWith(".textile") && (file.getName != "about.textile")) {
+          foundPosts += new Post(file)
+        } else if (file.isDirectory) {
+          recursiveFind(file)
+        }
+      }
+    }
+
+    recursiveFind(postDir)
+    foundPosts
+  }
+
   def readFile(file: File): String = {
     val src = Source.fromFile(file)
     src.getLines.mkString

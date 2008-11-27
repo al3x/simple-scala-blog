@@ -10,6 +10,7 @@ import scala.xml.XML
 
 class Post(file: File) extends FileHelpers {
   val parts = file.getPath.split("posts/")(1).split("/")
+
   val year = parts(0)
   val month = parts(1)
   val day = parts(2)
