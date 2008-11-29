@@ -6,7 +6,7 @@ import net.sf.jtextile.JTextile
 
 class About(filePath: String) extends FileHelpers {
   val file = new File(filePath)
-  val aboutHTML = JTextile.textile(readFile(file)).trim
+  val aboutHTML = "<div class=\"post\">" + JTextile.textile(readFile(file)).trim + "</div>"
 
   lazy val about = templatizeFile(new File(Config.template),
                                   immutable.Map("XTITLE" -> "About",

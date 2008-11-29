@@ -8,7 +8,7 @@ class Archive(posts: Seq[Post]) extends FileHelpers {
   def archiveByYearMap: jcl.TreeMap[String, mutable.ListBuffer[Post]] = {
     var yearMap = new jcl.TreeMap[String, mutable.ListBuffer[Post]]
 
-    for (post <- posts) {
+    for (post <- posts.reverse) {
       var yearList = {
         if (yearMap.contains(post.year)) {
            yearMap(post.year)
@@ -16,6 +16,7 @@ class Archive(posts: Seq[Post]) extends FileHelpers {
           new mutable.ListBuffer[Post]()
         }
       }
+
       yearList += post
       yearMap += (post.year -> yearList)
     }
@@ -25,11 +26,12 @@ class Archive(posts: Seq[Post]) extends FileHelpers {
 
   lazy val yearsDiv =
   <div id="years-div">
+  <h1>Archive</h1>
   {for (key <- archiveByYearMap.keys.toList.reverse) yield
-    <h1>{key}</h1>
-    <ul id="archive-by-year">
+    <h2>{key}</h2>
+    <ul id="archive-by-year" class="yearlist">
     {for (post <- archiveByYearMap(key)) yield
-      <li><a href={post.relativeUrl}>{post.title}</a></li>
+      <li>{post.archiveDate} &mdash; <a href={post.relativeUrl}>{post.title}</a></li>
     }
     </ul>
   }

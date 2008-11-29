@@ -53,6 +53,13 @@ class Post(file: File) extends FileHelpers {
     </p>.toString
   }
 
+  lazy val archiveDate = {
+    val simpleDate = new SimpleDateFormat("MMM d")
+    val calendar = Calendar.getInstance
+    calendar.set(year.toInt, month.toInt, day.toInt)
+    simpleDate.format(calendar.getTime)
+  }
+
   def createDir(year: String, month: String, day: String) = {
     val outDir = new File(Array(Config.wwwDir, year, month, day).mkString("/"))
     if (!outDir.exists) {

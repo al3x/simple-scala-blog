@@ -13,20 +13,18 @@ body {
 }
 
 a:link {
-  color:#336699;
-  text-decoration:none;
+  color: #336699;
+  text-decoration: none;
 }
 a:visited {
-  color:#660000;
-  text-decoration:none;
+  color: #660000;
+  text-decoration: none;
 }
 a:hover {
-  color:#336699;
-  text-decoration:underline;
+  color: #336699;
+  text-decoration: underline;
 }
-a img {
-  border-width:0;
-}
+a img { border-width: 0; }
 
 blockquote {
   border-left: 1px solid #222;
@@ -53,9 +51,7 @@ h3 {
   line-height: 18px; 
 }
 
-li {
-  margin-bottom: 4px; 
-}
+li { margin-bottom: 4px; }
 
 p { line-height: 22px; }
 
@@ -66,18 +62,20 @@ p, ul, ol {
 ul {
   list-style-type: square;
   margin-left: 2em;
+  padding-bottom: 18px;
 }
 
 
 /* classes */
-.post { margin-bottom: 36px; }
+.post, .yearlist {
+  border-bottom: 1px solid #222;
+  margin-bottom: 36px; 
+}
 
 .post .signoff { text-align: right; }
 
-
 /* ids */
 #footer {
-  border-top: 1px solid #222;
   font-size: 18px;
   padding-top: 18px;
   text-align: center;
