@@ -80,4 +80,7 @@ trait FileHelpers {
     }
   }
 
+  def editFile(file: File) = {
+    Runtime.getRuntime.exec("/usr/local/bin/mate -w " + file.getPath)
+  }
 }

@@ -10,9 +10,12 @@ object Blog extends FileHelpers {
     val posts = findPosts(new File(Config.postDir))
     val lastTenPosts = posts.reverse.slice(0, 10)
 
-    // write posts
-    if ((args.size) > 0 && args(1) == "-f") {
-      posts.foreach(post => post.write)
+    if (args.isDefinedAt(0)) {
+      args(0) match {
+        case "-f" => posts.foreach(post => post.write)
+        case "-n" => Post.newPost(args(1))
+        case _ => println("Unknown argument."); System.exit(-1)
+      }
     } else {
       lastTenPosts.foreach(post => post.write)
     }

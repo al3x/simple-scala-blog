@@ -84,3 +84,16 @@ class Post(file: File) extends FileHelpers {
     createSymlink(year, month, filename, postFile)
   }
 }
+
+object Post extends FileHelpers {
+  def newPost(title: String) = {
+    val df = new SimpleDateFormat("yyyy/MM/dd")
+    val calendar = Calendar.getInstance
+    val todayPath = Config.postDir + "/" + df.format(calendar.getTime)
+    val postFile = new File(todayPath + "/" + title + ".textile")
+
+    new File(todayPath).mkdirs
+    postFile.createNewFile
+    editFile(postFile)
+  }
+}
