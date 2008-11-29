@@ -1,3 +1,3 @@
 h1. Way To Leverage Those Databases, Dipshits
 
-Am I missing something, or does neither Borders-cum-Amazon.com nor Barnes&Noble.com do real-time inventory/availability/in-store pickup for their retail shops?  Why not?  Obvious answer is cost versus yield per units, I guess.  But still, if Best Buy can do it…
+Am I missing something, or does neither Borders-cum-Amazon.com nor Barnes&Noble.com do real-time inventory/availability/in-store pickup for their retail shops?  Why not?  Obvious answer is cost versus yield per units, I guess.  But still, if Best Buy can do it...

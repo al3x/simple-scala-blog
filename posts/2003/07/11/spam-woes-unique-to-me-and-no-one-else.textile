@@ -1,4 +1,4 @@
-h1. Spam Woes (Unique to Me And No One Else…)
+h1. Spam Woes (Unique to Me And No One Else...)
 
 When we eschew our civil liberties in the face of terror, the terrorists have already won, or so they say.  In that vein I posit that we if modify the content of our emails to avoid spam filters, the spammers have already won.  I don't care if "Sexxi":http://sexxi.al3x.net gets picked up by filters; I'm gonna write about it in my emails, filters be damned.
 To that end, if filters suck so bad that you still have to comb through a "spam bucket" it seems like you might as well not bother.  Well, I refuse to comb through anymore.  I'm shunting what SpamAssassin tags as the most obvious of spams to /dev/null, never to be seen again.  If your email gets caught in there, tough; IM me or something.  SpamAssassin is pretty good, however: it hasn't generated a single false positive in my week of testing, which is more than can be said for Apple's learning filters in Mail.app.

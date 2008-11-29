@@ -4,4 +4,4 @@ Chris's CSS link buttons ended up not looking quite right across browsers, so I'
 
 I've also ditched the __link__ to the RSS 1.0 feed, but the feed itself remains.  I'm trying to ween people off of it but a fair number of you batards are persistant in subscribing to it.  Evolving standards, people, c'mon!  ;-)
 
-At any rate all these changes may be short-lived if my sooper-secret blog plans come to fruition.  And summer is a good season for fruition…
+At any rate all these changes may be short-lived if my sooper-secret blog plans come to fruition.  And summer is a good season for fruition...

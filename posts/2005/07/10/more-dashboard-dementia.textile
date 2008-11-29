@@ -36,7 +36,7 @@ Rather than half-assing my note-taking with the deplorably limited sticky widget
 # Bring up QuickSilver.
 # Hit "." (period) to bring up an input field.
 # Type my note.
-# Tab to actions and navigate to "Append to…"
+# Tab to actions and navigate to "Append to..."
 # Tab to items and choose the "Scratch.txt" document that I've explicitly added to the QuickSilver catalog.
 
 It's five steps, but damned if it takes more than a couple seconds once you have it down.  The next time I want my notes I flip over to "TextMate":http://www.macromates.com/ – which stays open most of the time – and check out Scratch.txt, which I keep in a broader "Notes" project.  If I just want to get there by the content of my notes I can always use Spotlight.  Or hell, I could use QuickSilver to get to the file.  No matter how I do it, it fits a familiar workflow, not zooming me off to the magical Dashboard realm of tiny applications that obey few rules and behave as they will.

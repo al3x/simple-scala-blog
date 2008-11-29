@@ -1,4 +1,4 @@
-h1. But… They're Tracking Me!
+h1. But... They're Tracking Me!
 
 The first "privacy advocate" to complain about the "prospect of Apple embedding GPS trackers":http://www.kottke.org/05/04/future-spotlight into PowerBooks gets punched in the neck.  Nobody wants to *be* within thirty feet of you people, much less track your geospatial location to an accuracy of thirty feet.
 

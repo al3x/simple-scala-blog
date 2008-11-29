@@ -6,7 +6,7 @@ My local provider is "Comcast":http://www.comcast.com.  There is effectively no 
 
 If you're moving into an apartment or a home that was previously wired for Comcast cable, you may not need to have a tech come out at an inconvenient time, look around, make sure the cable is hot, and start your service.  Try this:
 
-Plug your cable modem (you have one, right?  only chumps rent…) into a cable outlet in your new place.  Get said modem talking to your computer and try browsing to any ol' web page.  Does it bounce you to a "Welcome to Comcast" type page?  Good.
+Plug your cable modem (you have one, right?  only chumps rent...) into a cable outlet in your new place.  Get said modem talking to your computer and try browsing to any ol' web page.  Does it bounce you to a "Welcome to Comcast" type page?  Good.
 
 Request new service from Comcast by phone or their website.  This gets your name and address in their database.  Just pick some random time for the installation; we won't be needing it.
 

@@ -23,7 +23,7 @@ _tired topics, conference-unspecific material, non-technical, pandering, goofy, 
 * On the Current State of Remote Active OS Fingerprinting
 * Introducing the Bastille Hardening Assessment Tool
 * Development of An Undergraduate Security Program
-* Be Your Own Telephone Company…With Asterisk
+* Be Your Own Telephone Company...With Asterisk
 * Analysis of Identity Creation Detection Schemes post-9/11 (editor's note: _bonus bullshit for use of the phrase "post-9/11_)
 * Countering Denial of Information Attacks
 * CISO Q&amp;A with Dark Tangent
