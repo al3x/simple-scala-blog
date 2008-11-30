@@ -7,7 +7,7 @@ class Index(posts: Seq[Post]) extends FileHelpers {
   def indexBody = {
     var out = ""
     for (post <- posts) {
-      out += post.body
+      out += post.htmlBody
     }
     out
   }

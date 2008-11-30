@@ -24,8 +24,9 @@ class Post(file: File) extends FileHelpers {
 
   lazy val title = Source.fromFile(file).getLine(1).split("h1. ")(1)
 
-  lazy val body =
-    "<div class=\"post\">" + JTextile.textile(readFile(file)).trim + signoffDate + "</div>"
+  lazy val body = JTextile.textile(readFile(file)).trim
+  lazy val htmlBody =
+    "<div class=\"post\">" + body + signoffDate + "</div>"
 
   lazy val bodyMinusTitle = {
     val bodyLines = body.split("\n")
@@ -33,7 +34,7 @@ class Post(file: File) extends FileHelpers {
   }
 
   lazy val templatizedBody = templatizeFile(new File(Config.template),
-                                            immutable.Map("XTITLE" -> title, "XBODY" -> body))
+                                            immutable.Map("XTITLE" -> title, "XBODY" -> htmlBody))
 
   lazy val updatedDate = {
     val rfc3339 = new SimpleDateFormat("yyyy-MM-dd'T'h:m:ss'-05:00'")
