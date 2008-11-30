@@ -38,14 +38,14 @@ class Post(file: File) extends FileHelpers {
   lazy val updatedDate = {
     val rfc3339 = new SimpleDateFormat("yyyy-MM-dd'T'h:m:ss'-05:00'")
     val calendar = Calendar.getInstance
-    calendar.set(year.toInt, month.toInt, day.toInt)
+    calendar.set(year.toInt, month.toInt - 1, day.toInt)
     rfc3339.format(calendar.getTime)
   }
 
   lazy val signoffDate = {
     val simpleDate = new SimpleDateFormat("MMM d, yyyy")
     val calendar = Calendar.getInstance
-    calendar.set(year.toInt, month.toInt, day.toInt)
+    calendar.set(year.toInt, month.toInt - 1, day.toInt)
     val dateStr = simpleDate.format(calendar.getTime)
 
     <p class="signoff">
@@ -56,7 +56,7 @@ class Post(file: File) extends FileHelpers {
   lazy val archiveDate = {
     val simpleDate = new SimpleDateFormat("MMM d")
     val calendar = Calendar.getInstance
-    calendar.set(year.toInt, month.toInt, day.toInt)
+    calendar.set(year.toInt, month.toInt - 1, day.toInt)
     simpleDate.format(calendar.getTime)
   }
 

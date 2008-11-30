@@ -44,3 +44,5 @@ I also contribute to the following other weblogs and sites:
 * "Graceless Failures":http://www.gracelessfailures.com/ -- Scala tips and tricks.
 * "Minima":http://minima.soup.io/ -- a record of applied simplicity.
 * "Twitter Technology Blog":http://dev.twitter.com/ -- the engineering behind Twitter.
+
+Feel free to email me at <a href="mailto:al3x@al3x.net">al3x@al3x.net</a>.

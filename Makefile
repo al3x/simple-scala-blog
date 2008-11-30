@@ -1,7 +1,7 @@
 CLASSES = src/classes
 CLASSPATH = src/lib/jtextile.jar:src/lib/gnu-regexp-1.1.4.jar
 
-.PHONY: all clean post sync
+.PHONY: all clean cleanwww post sync
 
 all: clean run
 
@@ -13,7 +13,10 @@ src/classes/%.class:
 
 clean:
 	rm -rf src/classes/*
-	
+
+cleanwww:
+	rm -rf www/*
+
 post:
 	scala -classpath $(CLASSES):$(CLASSPATH) net.al3x.blog.Blog -n
 
