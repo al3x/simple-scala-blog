@@ -12,12 +12,12 @@ object Blog extends FileHelpers {
 
     if (args.isDefinedAt(0)) {
       args(0) match {
-        case "-f" => posts.foreach(post => post.write)
-        case "-n" => Post.newPost(args(1))
+        case "-f" => posts.foreach(post => { post.write; print(".") }); println("Done.")
+        case "-n" => Post.newPost
         case _ => println("Unknown argument."); System.exit(-1)
       }
     } else {
-      lastTenPosts.foreach(post => post.write)
+      lastTenPosts.foreach(post => { post.write; print(".") }); println("Done.")
     }
 
     // copy static files
@@ -29,5 +29,6 @@ object Blog extends FileHelpers {
     new Sitemap(posts).write
     new AtomFeed(lastTenPosts).write
     new Index(lastTenPosts).write
+
   }
 }

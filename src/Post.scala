@@ -60,33 +60,36 @@ class Post(file: File) extends FileHelpers {
     simpleDate.format(calendar.getTime)
   }
 
-  def createDir(year: String, month: String, day: String) = {
+  def createDir = {
     val outDir = new File(Array(Config.wwwDir, year, month, day).mkString("/"))
     if (!outDir.exists) {
       outDir.mkdirs
     }
   }
 
-  def createFile(year: String, month: String, day: String, filename: String): File = {
+  def createFile = {
     val outFile = new File(Array(Config.wwwDir, year, month, day, filename).mkString("/") + ".html")
     writeFile(outFile, templatizedBody)
-    outFile
   }
 
-  def createSymlink(year: String, month: String, filename: String, postFile: File) = {
-    val symlinkFile = new File(Array(Config.wwwDir, year, month, filename).mkString("/") + ".html")
-    symlinkFileToFile(postFile, symlinkFile)
+  def createSymlink = {
+    val cdDir = new File(Array(Config.wwwDir, year, month).mkString("/"))
+    val symlinkFile = new File(Array(day, filename).mkString("/") + ".html")
+    symlinkFileToFile(cdDir, symlinkFile)
   }
 
   def write = {
-    createDir(year, month, day)
-    val postFile = createFile(year, month, day, filename)
-    createSymlink(year, month, filename, postFile)
+    createDir
+    createFile
+    createSymlink
   }
 }
 
 object Post extends FileHelpers {
-  def newPost(title: String) = {
+  def newPost = {
+    print("Title: ")
+    var title = readLine().trim
+
     val df = new SimpleDateFormat("yyyy/MM/dd")
     val calendar = Calendar.getInstance
     val todayPath = Config.postDir + "/" + df.format(calendar.getTime)
@@ -94,6 +97,7 @@ object Post extends FileHelpers {
 
     new File(todayPath).mkdirs
     postFile.createNewFile
+    println("Created new blank post: " + postFile.getPath)
     editFile(postFile)
   }
 }

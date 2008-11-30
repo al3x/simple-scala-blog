@@ -17,5 +17,8 @@ clean:
 post:
 	scala -classpath $(CLASSES):$(CLASSPATH) net.al3x.blog.Blog -n
 
+rebuild:
+	scala -classpath $(CLASSES):$(CLASSPATH) net.al3x.blog.Blog -f
+
 sync:
-	rsync -avz www/ elsy:/var/www/al3x.net
+	rsync -avz -e ssh /Users/al3x/src/blog/www/ al3x@elsy:/var/www/al3x.net

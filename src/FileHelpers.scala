@@ -28,9 +28,9 @@ trait FileHelpers {
     src.getLines.mkString
   }
 
-  def symlinkFileToFile(a: File, b: File) = {
-    if (!b.exists) {
-      val symCmd = "ln -s " + a.getPath + " " + b.getPath
+  def symlinkFileToFile(cdDir: File, file: File) = {
+    if (!file.exists) {
+      val symCmd = Array("/bin/sh", "-c", "cd " + cdDir + "; ln -s " + file.getPath)
       Runtime.getRuntime.exec(symCmd)
     }
   }

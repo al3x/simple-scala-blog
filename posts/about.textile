@@ -1,6 +1,6 @@
 h1. About The Author
 
-My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, and I'm perhaps better recognized by it. At the time of writing (Nov 29, 2008) I'm twenty-five, and I've lived in San Francisco's SoMA (South of Market) neighborhood since mid-2007. I grew up around Washington, DC.
+My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, where I'm now perhaps better recognized by it. At the time of writing I'm twenty-five. I've lived in San Francisco's "SoMa":http://en.wikipedia.org/wiki/South_of_Market neighborhood since mid-2007. Previously, I lived for most of my life around Washington, DC, particularly in Bethesda, Maryland.
 
 I currently work for "Twitter, Inc.":http://twitter.com, a communications service that allows users to send short one-to-many messages via a variety of media. My title at Twitter is API Lead; my daily work is growing and supporting a collection of services on which other developers can build. I've been working at Twitter since the beginning of 2007, several months before the service began to grow in popularity. Working at Twitter has been an education in scaling, performance optimization, and systems architecture.
 
@@ -10,19 +10,19 @@ As a sort of work-related hobby I study the design and implementation of program
 
 Technology aside, my main interests are music, food & drink, and culture. I "DJ":http://seriousdjs.net an eclectic mix of musical styles with "a friend":http://5dots.net whenever we get the chance. I'm a fan of good beer, cocktails, spirits, and short-pull espresso. I enjoy cooking and sampling the wide world of culinary options. In my free time I frequent museums and theater, and I try to keep up on novels and films. I enjoy cultural criticism, and I maintain an "online scrapbook":http://minima.soup.io of minimalist art, design, architecture, and technology.
 
-In terms of social ideology, I identify as a secular humanist. I'm an agnostic. Politically, I'm a registered independent; my politics are closest to that of "The Economist": mildly Libertarian, fiscally conservative, socially liberal where it's practical and pragmatic, cautiously globalist.
+In terms of social ideology, I identify as a "secular humanist":http://en.wikipedia.org/wiki/Secular_Humanism. I'm an agnostic. Politically, I'm a registered independent; my politics are closest to that of "The Economist":http://www.economist.com/ newspaper: mildly Libertarian, fiscally conservative, socially liberal where it's practical and pragmatic, cautiously globalist.
 
 h1. About This Site
 
 I write here. I write on no particular schedule and about no definite range of topics. My posts range in length from a single sentence to several printed pages. More often than not, I write about technology, culture, music, travel, and ideas, punctuated with accounts of major goings-on in my life.
 
-This site has gone through many iterations over the years. Before its incarnation as a weblog, "al3x.net":http://al3x.net was a portfolio for my early attempts at web and graphic designed, maintained by hand via FTP. I eventually migrated the site to an early version of "Blogger":http://blogger.com and began updating more frequently.
+This site has gone through many iterations over the years. Before its incarnation as a weblog, "al3x.net":http://al3x.net was a portfolio for my early attempts at web and graphic design, maintained by hand and updated via FTP. I eventually migrated the site to an early version of "Blogger":http://blogger.com and began updating more frequently.
 
-In 2002 I redesigned the site as a blog, powered by an early version of Blosxom running on my university's servers. Subsequently, I've tried just about every major blogging software package out there and written my own in various languages and frameworks. There's no practical reason for switching blogging software so often, save that it makes for enjoyable tinkering. Of all the free blogging software I've used, I've been most satisfied with "Blogger":http://blogger.com.
+In 2002 I redesigned the site as a blog, powered by an early version of "Blosxom":http://www.blosxom.com/ running on my university's servers. Subsequently, I've tried just about every major blogging software package out there and written my own in various languages and frameworks. There's no practical reason for switching blogging software so often, save that it makes for enjoyable tinkering. Of all the free blogging software I've used, I've been most satisfied with "Blogger":http://blogger.com.
 
-I currently use a custom blogging system written in "Scala":http://scala-lang.org that translates a directory structure of Textile-formatted files organized by year, month, and day into a corresponding directory structure of HTML files. I then sync the directory of HTML files to my server via Rsync over SSH. This system allows me to write posts in my favorite text editor, "TextMate":http://macromates.com, and allows me complete control over the design and structure of my site while remaining portable and inexpensive to host.
+I currently use a custom blogging system written in "Scala":http://scala-lang.org that translates a directory structure of "Textile":http://hobix.com/textile/ files organized by year, month, and day into a corresponding directory structure of HTML files. I then sync the directory of HTML files to my server via "rsync":http://samba.anu.edu.au/rsync/ over "SSH":http://www.openssh.com/. This system allows me to write posts in my favorite text editor, "TextMate":http://macromates.com, and allows me complete control over the design and structure of my site while remaining portable and inexpensive to host.
 
-"al3x.net":http://al3x.net is registered at and hosted by "Gandi":http://gandi.net, a superb French registrar with a very competitive Virtual Private Server offering. My VPS runs a recent release of Ubuntu GNU/Linux and little more than the Nginx web server. I outsource email and Jabber instant messaging hosting to "Google Apps":http://google.com/a.
+"al3x.net":http://al3x.net is registered at and hosted by "Gandi":http://gandi.net, a superb French registrar with a very competitive Virtual Private Server (VPS) offering. My VPS runs a recent release of "Ubuntu":http://www.ubuntu.com/ and little more than the "Nginx":http://nginx.net/ web server. I outsource email and instant messaging for the domain to "Google Apps":http://google.com/a.
 
 The link to "dedicated servers" at the bottom of every page is a paid advertisement that I use to subsidize the cost of hosting this site. I do not use the services of company advertised and can't comment on their quality.
 
@@ -30,5 +30,17 @@ h1. Elsewhere
 
 You can find me on a variety of social web sites; my username is usually "al3x". Alphabetically:
 
-* "Last.fm":http://last.fm/users/al3x -- the music I listen to.
+* "Delicious":http://delicious.com/al3x -- bookmarks I collect and share.
+* "Dopplr":http://www.dopplr.com/traveller/al3x -- travels.
+* "Flickr":http://www.flickr.com/photos/al3xpayne/ -- miserable attempts at photography.
+* "GitHub":http://github.com/al3x -- code, waiting for you to improve it.
+* "I Use This":http://osx.iusethis.com/user/al3x -- the Mac OS X software I use.
+* "Last.fm":http://last.fm/users/al3x -- recording the music I listen to.
 * "Twitter":http://twitter.com/al3x -- status updates and sundry brief observations.
+
+I also contribute to the following other weblogs and sites:
+
+* "Beers, beers, beers.":http://beersbeersbeers.blogspot.com/ -- brief beer reviews.
+* "Graceless Failures":http://www.gracelessfailures.com/ -- Scala tips and tricks.
+* "Minima":http://minima.soup.io/ -- a record of applied simplicity.
+* "Twitter Technology Blog":http://dev.twitter.com/ -- the engineering behind Twitter.
