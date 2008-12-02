@@ -60,10 +60,20 @@ trait FileHelpers {
   }
 
   def copyFileToPath(file: File, path: String) = {
-    val body = readFile(file)
     val newFileName = Array(path, file.getName).mkString("/")
     val newFile = new File(newFileName)
-    writeFile(newFile, body)
+
+    val in = new FileReader(file)
+    val out = new FileWriter(newFile)
+    var char = 0
+
+    while (char != -1) {
+      char = in.read
+      out.write(char)
+    }
+
+    in.close
+    out.close
   }
 
   def copyAllFiles(from: String, to: String) = {
