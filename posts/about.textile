@@ -35,7 +35,7 @@ You can find me on a variety of social web sites; my username is usually "al3x".
 * "Flickr":http://www.flickr.com/photos/al3xpayne/ -- miserable attempts at photography.
 * "GitHub":http://github.com/al3x -- code, waiting for you to improve it.
 * "I Use This":http://osx.iusethis.com/user/al3x -- the Mac OS X software I use.
-* "Last.fm":http://last.fm/users/al3x -- recording the music I listen to.
+* "Last.fm":http://last.fm/user/al3x -- recording the music I listen to.
 * "Twitter":http://twitter.com/al3x -- status updates and sundry brief observations.
 
 I also contribute to the following other weblogs and sites:

@@ -9,7 +9,7 @@ body {
   color: #222;
   font-family: 'Georgia', 'Times New Roman', serif;
   line-height: 18px;
-  margin: 0 auto 18px 30%; 
+  margin: 0 auto 18px 25%; 
 }
 
 a:link {
@@ -88,7 +88,7 @@ ul {
 }
 
 #wrapper {
-  min-width: 30em;
   max-width: 40em;
+  min-width: 30em;
   width: 32em;
 }
