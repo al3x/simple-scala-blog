@@ -8,7 +8,7 @@ An experimental language by Ola Bini, one of the principal committers to the JRu
 
 h2. "Ur":http://www.impredicative.com/ur/
 
-"[M]eant to be the ultimate host for embedded domain-specific languages" according to author "Adam Chlipala":http://adam.chlipala.net/ , a PhD in CompSci from Berkeley and a big fan of strict, provably correct, strongly-typed languages. Ur is a pure functional language in that vein, and it appears to be the technical foundation of a startup that the author is involved in. Examples suggest that Ur allows for XML literals, as the "Scala language":http://scala-language.org does. The feeling of the language seems closer to Ocaml than anything else.
+"[M]eant to be the ultimate host for embedded domain-specific languages" according to author "Adam Chlipala":http://adam.chlipala.net/, a PhD in CompSci from Berkeley and a big fan of strict, provably correct, strongly-typed languages. Ur is a pure functional language in that vein, and it appears to be the technical foundation of a startup that the author is involved in. Examples suggest that Ur allows for XML literals, as the "Scala language":http://scala-language.org does. The feeling of the language seems closer to Ocaml than anything else.
 
 h2. "AmbientTalk":http://prog.vub.ac.be/amop/at/introduction
 
