@@ -50,7 +50,7 @@ class Post(file: File) extends FileHelpers {
     val dateStr = simpleDate.format(calendar.getTime)
 
     <p class="signoff">
-      &mdash;<a href={relativeUrl}>{dateStr}</a>
+      &mdash;<a href={url}>{dateStr}</a>
     </p>.toString
   }
 
