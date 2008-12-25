@@ -8,9 +8,9 @@ Towards the end of discovering which purchases I valued and which I regret, two 
 
 h2. Desktop Apps
 
-* "Acquisition":http://acquisitionx.com/ -- file share has long since moved on from Gnutella. I've heard it said that there's no sense in paying for file sharing software, and I think I've come around to that. Moderate regret.
+* "Acquisition":http://acquisitionx.com/ -- file sharing has long since moved on from Gnutella. I've heard it said that there's no sense in paying for file sharing software, and I think I've come around to that. Moderate regret.
 * "BluePhoneElite":http://mirasoftware.com/BPE2/ -- worth every penny, even though its days are over. The iPhone can't do all the tricks that my "Sony Ericsson T616":http://reviews.cnet.com/cell-phones/sony-ericsson-t616-at/4505-6454_7-20912537.html could do when hooked up to BluePhoneElite. No regret.
-* "Connect360":http://www.nullriver.com/products/connect360 -- worked great while I had an Xbox, but I've long since sold it.
+* "Connect360":http://www.nullriver.com/products/connect360 -- worked great while I had an Xbox, but I've long since sold it. Moderate regret.
 * "GrowliChat":http://growlichat.com/download.php -- deprecated by "Chax":http://www.ksuther.com/chax/, which I also no longer use but never paid for. I'm not sure why I ever wanted Growl notifications for IM presence, as it's distracting and useless. Little regret, though, as it was all of $5.
 * "Hazel":http://www.noodlesoft.com/hazel.php -- slight regret. I have enough of a personal organizational system set up that this automated filing utility didn't really provide much benefit for me.
 * "MarsEdit":http://www.red-sweater.com/marsedit/ -- I always just wanted to write blog posts in my text editor, and now I can. No regret, though, as I got MarsEdit for free when I bought a license for...
