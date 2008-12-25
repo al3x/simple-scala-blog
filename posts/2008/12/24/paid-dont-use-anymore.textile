@@ -1,0 +1,37 @@
+h1. Software I Paid For But No Longer Use
+
+As much as I like open source, I enjoy paying for software. Give me a good solution with a nice interface, and I'll give you some reasonable amount of money.
+
+Digital life being fluid and transient, even paid software can quickly fall to the bottom of the virtual junk drawer. Sometimes I feel that an application was worth paying for if only for temporary use, and sometimes not.
+
+Towards the end of discovering which purchases I valued and which I regret, two lists.
+
+h2. Desktop Apps
+
+* "Acquisition":http://acquisitionx.com/ -- file share has long since moved on from Gnutella. I've heard it said that there's no sense in paying for file sharing software, and I think I've come around to that. Moderate regret.
+* "BluePhoneElite":http://mirasoftware.com/BPE2/ -- worth every penny, even though its days are over. The iPhone can't do all the tricks that my "Sony Ericsson T616":http://reviews.cnet.com/cell-phones/sony-ericsson-t616-at/4505-6454_7-20912537.html could do when hooked up to BluePhoneElite. No regret.
+* "Connect360":http://www.nullriver.com/products/connect360 -- worked great while I had an Xbox, but I've long since sold it.
+* "GrowliChat":http://growlichat.com/download.php -- deprecated by "Chax":http://www.ksuther.com/chax/, which I also no longer use but never paid for. I'm not sure why I ever wanted Growl notifications for IM presence, as it's distracting and useless. Little regret, though, as it was all of $5.
+* "Hazel":http://www.noodlesoft.com/hazel.php -- slight regret. I have enough of a personal organizational system set up that this automated filing utility didn't really provide much benefit for me.
+* "MarsEdit":http://www.red-sweater.com/marsedit/ -- I always just wanted to write blog posts in my text editor, and now I can. No regret, though, as I got MarsEdit for free when I bought a license for...
+* "NetNewsWire":http://www.newsgator.com/INDIVIDUALS/NETNEWSWIRE/ -- no regrets here. I've long since switched to "Google Reader":http://google.com/reader/ by way of "NewsFire":http://www.newsfirerss.com/ (see below), but at the beginning of my blog-reading days, NNW was essential and a pleasure to use.
+* "NewsFire":http://www.newsfirerss.com/ -- paid for it, loved its simplicity compared to NNW, but then it was made free. Moderate regret.
+* "PandoraJam":http://www.bitcartel.com/pandorajam/ -- this was useful when Twitter had a shared AirPort speaker in the office, as it took most of the personal taste out of what got played. ("Don't blame me, I put it on the Joy Division station'.") Now that I use "Last.fm":http://www.last.fm whenever I want streaming music, I don't really need this app. Moderate regret.
+* "Visual Hub":http://www.techspansion.com/ -- used it a few times, but then the app got discontinued and open-sourced. I recall buying this right before a trip, desperate to find an easy way to convert some movies to an iPhone-friendly format. It wasn't worth it, and I regret not using open source tools for this specialized task. Deep regret.
+* "Xtorrent Pro":http://www.xtorrentp2p.com/ -- integrated search and feed subscriptions are killer features for a BitTorrent client. My need for Xtorrent was obviated by "Hulu":http://www.hulu.com, though, which carries all the shows that used to, uh, magically appear on my hard drive. Slight regret, but probably worthwhile.
+
+h2. iPhone Apps
+
+* "Enigmo":http://www.pangeasoft.net/iphone/enigmo/info.html -- deep regret. I bought it when it was $9.99 without remembering that I don't actually enjoy playing games. Beat a few levels, deleted it.
+* "Sketches":http://sketchesapp.com/ -- I can't draw on paper, much less on a touch screen, and I've never had the desire to do so since the day I bought Sketches. Moderate regret. I keep it on my iPhone in case the need/desire to sketch arises anew.
+* "Spore Origins":http://en.wikipedia.org/wiki/Spore_Origins -- same story as Enigmo. I was eagerly awaiting Spore, because I thought it was the sort of game I might enjoy, and bought this tedious thing instead. Deep regret.
+* "Summizer":http://www.mustacheinc.com/summizer -- a great app, but most of its functionality and is in "Tweetie":http://www.atebits.com/software/tweetie/. Moderate regret, but I'd have none if it had been cheaper.
+* "Twitterrific":http://iconfactory.com/home/permalink/2009 -- pretty the same deal as Summizer. Twitterrific has a much stronger design sensibility than Tweetie, but Tweetie does more and does it faster. No regret, though, as I used it happily for months.
+
+h2. The Morals
+
+# Don't buy games (if you're me).
+# Don't buy file sharing apps.
+# Don't buy apps for things you only need to do once in a blue moon. Find a free/open solution.
+# Don't buy iPhone apps on impulse.
+# Expect that software you buy to integrate with a particular piece of hardware probably won't have a long life, so budget accordingly.
