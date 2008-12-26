@@ -25,7 +25,7 @@ h2. iPhone Apps
 * "Enigmo":http://www.pangeasoft.net/iphone/enigmo/info.html -- deep regret. I bought it when it was $9.99 without remembering that I don't actually enjoy playing games. Beat a few levels, deleted it.
 * "Sketches":http://sketchesapp.com/ -- I can't draw on paper, much less on a touch screen, and I've never had the desire to do so since the day I bought Sketches. Moderate regret. I keep it on my iPhone in case the need/desire to sketch arises anew.
 * "Spore Origins":http://en.wikipedia.org/wiki/Spore_Origins -- same story as Enigmo. I was eagerly awaiting Spore, because I thought it was the sort of game I might enjoy, and bought this tedious thing instead. Deep regret.
-* "Summizer":http://www.mustacheinc.com/summizer -- a great app, but most of its functionality and is in "Tweetie":http://www.atebits.com/software/tweetie/. Moderate regret, but I'd have none if it had been cheaper.
+* "Summizer":http://www.mustacheinc.com/summizer -- a great app, but most of its functionality can now be found in "Tweetie":http://www.atebits.com/software/tweetie/. Moderate regret, but I'd have none if it had been cheaper.
 * "Twitterrific":http://iconfactory.com/home/permalink/2009 -- pretty the same deal as Summizer. Twitterrific has a much stronger design sensibility than Tweetie, but Tweetie does more and does it faster. No regret, though, as I used it happily for months.
 
 h2. The Morals
