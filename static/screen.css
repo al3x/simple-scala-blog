@@ -55,14 +55,15 @@ li { margin-bottom: 4px; }
 
 p { line-height: 22px; }
 
-p, ul, ol { 
-  margin-bottom: 18px; 
+p, ul, ol { margin-bottom: 18px; }
+
+ul, ol {
+  margin-left: 2em;
+  padding-bottom: 9px;
 }
 
 ul {
   list-style-type: square;
-  margin-left: 2em;
-  padding-bottom: 9px;
 }
 
 
