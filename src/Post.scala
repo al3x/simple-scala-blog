@@ -88,7 +88,7 @@ class Post(file: File) extends FileHelpers {
 
 object Post extends FileHelpers {
   def newPost = {
-    print("Title: ")
+    print("File name: ")
     var title = readLine().trim
 
     val df = new SimpleDateFormat("yyyy/MM/dd")
