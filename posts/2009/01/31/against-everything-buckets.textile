@@ -26,7 +26,7 @@ h2. The Search Illusion
 
 Most Everything Buckets also let you search. Let's talk about that.
 
-We live in the age of search. "Why can't I just Google for it?" is a common complaint from anyone who's ever misplaced a file and doesn't know better. In response to this complaint, desktop search technologies like Spotlight have emerged. How do they work? They sift through your structureless data periodically and *build a structure from it*. This structure is called an _index_. Without an index, searching through all but smallest quantities of unstructured data takes ages. Once again: _computers work best with structured data_.
+We live in the age of search. "Why can't I just Google for it?" is a common complaint from anyone who's ever misplaced a file and doesn't know better. In response to this complaint, desktop search technologies like Spotlight have emerged. How do they work? They sift through your structureless data periodically and build a structure from it. This structure is called an _index_. Without an index, searching through all but smallest quantities of unstructured data takes ages. Once again: _computers work best with structured data_.
 
 So while you, the user, are presented with the illusion of "Googling" for that phone number you threw into your Everything Bucket, your computer is constantly hauling ass to make up for the fact that you couldn't be bothered to put the phone number in your virtual address book. "What do I care how much work my computer does?" you say, until the next time the Spotlight indexer kicks in and your Mac grinds to a halt.
 
