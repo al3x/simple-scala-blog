@@ -1,3 +1,0 @@
-h1. Mac P2P That Doesn't Reek
-
-There's a new P2P sherif in Appletown.  His name is "Poisoned":http://gottsilla.net/software.php?site=poisoned, and if that don't tell you that he don't take no shit, then stranger, you got yerself a bigger problem than that copy of Acquisition sitting in your Applications folder.  Seriously, Poisoned owns Mac P2P, and it's open source, _and_ its authors would rather have you donate to Amnesty International than pay them for their hard work.  I loves it.

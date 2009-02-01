@@ -1,3 +1,0 @@
-h1. Deep Packet Inspection
-
-Just the way I like my packets: "deeply inspected":http://www.securityfocus.com/infocus/1716.

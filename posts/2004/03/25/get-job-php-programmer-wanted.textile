@@ -1,5 +1,0 @@
-h1. Get a Job: PHP Programmer Wanted
-
-The company I work for is looking for a skilled PHP programmer for roughly six weeks of contract work with the possibility of further potentially full-time work.  We're a small but established and rapidly growing shop located in downtown Waashington, DC providing web applications and services for government, NGOs, non-profits, and the political sector; the ideal candidate has experience and/or motivation in this field.  Past experience with ASP, particularly porting ASP to PHP, is a major plus but not a requirement, as is experience with content management systems (CMSs).
-
-We're looking to hire soon.  Like, yesterday.  And you'd get to work with me (who says contracting doesn't come with benefits?).  If you or someone you know is interested please contact me or email "jobs [at] picnet dot DIESPAM net":mailto:jobs [at] picnet dot DIESPAM net.

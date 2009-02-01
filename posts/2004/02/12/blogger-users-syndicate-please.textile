@@ -1,5 +1,0 @@
-h1. Blogger Users: Syndicate, Please
-
-To readers using Blogger: please follow "these simple instructions":http://help.blogger.com/bin/answer.py?answer=698&#38;topic=36 to make a syndicatable Atom feed of your site available to those of use who use news readers and other data mungers.  It's 30 seconds of your time for an infinitely greater audience, and it's free.
-
-I think it's keen that Google/Blogger went with Atom.  Their support for the fledgling but powerful format is tantamount to Six Apart publishing FOAF for all TypePad users: it may be the mass deployment that the format needs for widespread recognition and adoption.

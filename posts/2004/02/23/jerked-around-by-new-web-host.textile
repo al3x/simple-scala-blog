@@ -1,5 +1,0 @@
-h1. Jerked Around By The New Web Host
-
-I'm pretty unhappy with my new host for this site, "Dr2.net":http://www.dr2.net.  While their connection is fast and they offer all the shiny, out-of-the-box cPanel features one expects from any vanilla shared host these days, their supposedly superb support has turned out to be all but worthless.  In nearly a week of support requests they haven't been able to fix mail filters that aren't being applied to my mail, nor extra mail accounts creating their folders as sub-folders of my main account that are then displayed and readable in my IMAP client.  Correspondence from their "support team" (_cough_) has been in broken and nearly unintelligible English.  Not. Happy.
-
-Everyone out there in the shared hosting market seems to be just another cPanel reseller, or an overused and over-extended provider like DreamHost.  Where's the love?

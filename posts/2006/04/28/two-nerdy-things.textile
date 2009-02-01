@@ -1,7 +1,0 @@
-h1. Two Nerdy Things
-
-By yesterday I'd purged enough Rails propaganda from my bloodstream to browse "Projectionist":http://project.ioni.st/ again without wincing.  Several pages back in their archives is mention of "Io":http://www.iolanguage.com/, which I know I'd seen a couple months back but never really looked at.  Holy cats but that is a sweet-ass programming language.  It would be awesome if the latest release would build without dying on an illegal instruction.
-
-This morning I saw that there's "talk":http://mail.opensolaris.org/pipermail/zfs-discuss/2006-April/002121.html of porting "ZFS":http://www.sun.com/software/solaris/ds/zfs.jsp to Mac OS X.  How cool would that be?  Get yourself a couple Xserve RAIDs and be all ZFSy all over them?  I'm totally with the people on the subsequent mailing list posts who wish Apple would just buy Sun.  More reliable Apple server gear would be swell.  I'd run Io on it.
-
-That is all.

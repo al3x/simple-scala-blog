@@ -1,3 +1,0 @@
-h1. Uglyness, Improvements
-
-Some changes in layout are, quite obviously, taking place.  It's hard to find a format for weblogs that's readable, attractive, clean, and renderable in most modern browsers.  Not so hard, however, that a few designs haven't become quite popular.  The look I'm using is adapted from a number of places, but "Waferbaby":http://www.waferbaby.com is my biggest source of inspiration (cheers!).  Bear with me through some glitches and shifting, and things should come up roses.

@@ -1,5 +1,0 @@
-h1. This Year's Model
-
-The Gentoo crew just "got their release on":http://www.gentoo.org/proj/en/releng/ with Gentoo 2004.0 (_nice_ versioning schema: year first, counting up the quarters from zero like true geeks).  With ports for x86, AMD64, PowerPC, SPARC, and MIPS there's no excuse for not trying it if you're unhappy with your present Linux distro or other OS.  I'd be installing this _right now_ if I had a spare machine.  I may go find a computer in my school's library and install it on that while nobody's looking.  Gentoo is just that hot.
-
-Link from "OSNews":http://www.osnews.com/story.php?news_id=6206, which took a break from posting twelve embarrassingly-written defenses of Linux on the desktop per day to actually bring us some OS news.

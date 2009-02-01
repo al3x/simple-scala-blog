@@ -1,5 +1,0 @@
-h1. Elsewhereblogging, Mid-July 2008 Edition
-
-At "Twitter":http://twitter.com, we just acquired "Summize":http://www.crunchbase.com/company/summize, a search startup that built a superb way to find tweets about whatever interests you.  We "announced the acquisition":http://blog.twitter.com/2008/07/finding-perfect-match.html on our main blog, and I "wrote up":http://dev.twitter.com/2008/07/summize-and-future-of-twitter-api.html the impact it'll have on the Twitter developer community for the Twitter Technology Blog.  I'm excited.
-
-Then there's "Graceless Failures":http://www.gracelessfailures.com/, described as "a group blog of tips, tricks, missteps, and minor revelations on the path to "Scala":http://www.scala-lang.org/ wisdom."  It's a way for those of us experimenting with Scala at Twitter to share our discoveries with each other and help out the community in the process.  You can find out more in the "introductory post":http://www.gracelessfailures.com/2008/06/test-post.html.  I'm hoping to get some non-Twitterers interested in contributing.

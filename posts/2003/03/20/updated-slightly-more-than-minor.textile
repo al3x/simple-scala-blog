@@ -1,9 +1,0 @@
-h1. [Updated] Slightly More Than Minor Changes
-
-Nothing like monkeying with your blog to keep your mind off the war.  I nixed the "audio output" and "text output" pages along with the radio page; I'm not gonna have any content for the first two until, well after I graduate three years from now it looks like, and nobody was finding my radio show with the last.
-
-I've added an "about" page with a brief bio, because "apparently":http://jeremy.zawodny.com/blog/archives/000521.html all blogs are supposed to have one.  I'll fill out the "gear" page tomorrow, which will contain a nice run down of my toys for the gearwhores out there.  I consolidated all the various and conflicting link bars into the nice stack you now see over to the left, courtesy of "Raging Platypus":http://www.ragingplatypus.com/ (who yoinked them from "Antipixel":http://www.antipixel.com/blog/archives/2002/10/22/steal_these_buttons.html).
-
-And finally, I ditched the increasingly irrelevant left bar, as taking up a good 20% of the screen for a link bar with four links is just silly.  This means posts have a bit more room to spread out on the page.  The body of posts are now in a serif font, which is theoretically better for large blocks of text.  If you find all this more or less readable than the old layout, let me know.  Other layout and usability/readability suggestions are appreciated (unless you're "Jakob Nielsen":http://www.useit.com/).
-
-Now back to your regularly scheduled terror.

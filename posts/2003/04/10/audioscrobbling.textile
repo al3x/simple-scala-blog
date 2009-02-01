@@ -1,4 +1,0 @@
-h1. Audioscrobbling
-
-"Audioscrobbler":http://www.audioscrobbler.com/ "aims to be your personal music advisor."  You run a plugin or some such bit of software that sends the MP3s you're playing to the Audioscrobbler site.  After you've played 500 songs the site starts to recommend new music for you to dig based on who else is listening to the things you listen to.  I'm "still working":http://www.audioscrobbler.com/modules.php?op=modload&amp;name=top10&amp;file=userinfo&amp;user=al3x on those 500 songs, but I think it's a nice idea.  Like the Amazon.com recommendation system only more so.  Get hooked up on their site.
-

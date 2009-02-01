@@ -1,8 +1,0 @@
-h1. Quality InfoSec Advice
-
-...from someone who's got a pretty good idea about those sort of things.  Rain Forest Puppy updated his personal website last month, and with that updated penned a brief ""state of security" piece":http://www.wiretrip.net/rfp/txt/evolution.txt.  An excerpt from the conclusion (emphasis mine):
-
-bq. "Security is a state of being, not a state of budget.  He with the most firewalls still does not win.  Put down that honeypot and keep up to date on your patches.  *Demand better security from
- vendors and hold them responsible.*  Use what you have, and make sure you know how to use it properly and effectively."
-
-A-freakin'-men.

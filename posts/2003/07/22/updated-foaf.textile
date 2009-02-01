@@ -1,3 +1,0 @@
-h1. Updated FOAF
-
-Updated my FOAF file via Tecknik.net's amazing "FOAF Autocreation":http://www.tecknik.net/autofoaf/ hackery, which looks through sites you specify from your OPML blogroll for ones with FOAF data and appends them to your current FOAF file.  If you're a big dorkass and have both blogroll and FOAF files on your server it's the bee's knees.

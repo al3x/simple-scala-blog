@@ -1,5 +1,0 @@
-h1. Operation "Can You Hear Me Now?"
-
-I think it's very, very creepy that we've already got US Congressmen "pushing CDMA":http://siliconvalley.internet.com/news/article.php/2171271 cellular technology in Iraq before we've even "liberated" them.  Most of the world uses GSM; a few lackluster mobile phone providers in the US use it.  CDMA is old and not-so-good, and it doesn't allow you to take your address book and number from phone to phone and provider to provider on a SIM card like GSM.  CDMA is pretty much a consumer-hostile technology, built to the specifications of telecom giants.
-
-Chances are good that if we let a free market develop in postwar Iraq they'd choose GSM, if nothing else for the close proximity of GSM equipment manufacturers in France and Germany.  But it doesn't look like their market is gonna be any freer than ours at home.  And it looks like it "may be a while":http://www.washingtonpost.com/wp-dyn/articles/A38166-2003Mar27.html for Iraq anyway.

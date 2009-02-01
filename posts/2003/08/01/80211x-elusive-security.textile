@@ -1,3 +1,0 @@
-h1. 802.11x's Elusive Security
-
-A fairly decent "article":http://www-106.ibm.com/developerworks/wireless/library/wi-80211security.html on wireless security.

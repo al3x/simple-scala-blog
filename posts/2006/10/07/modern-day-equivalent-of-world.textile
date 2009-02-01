@@ -1,3 +1,0 @@
-h1. The Modern Day Equivalent Of "Hello World"
-
-I guess I'm not the only one who "writes blogging systems":http://www.codinghorror.com/blog/archives/000696.html to test out a new language or framework.

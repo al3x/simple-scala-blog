@@ -1,7 +1,0 @@
-h1. Nope
-
-In case you're wondering, the firmware update released today for the MacBook Pro does not resolve the whine issue, or the heat issue, or seemingly do much of anything.
-
-If you're considering buying a MacBook Pro I would strongly advise waiting.  New buyers are finding that even the latest machines off the assembly line are plagued by the same bugs that customers have been reporting for months.  Those who've sent their MacBooks in for service have generally not had their issues fully resolved.
-
-Please turn the suck down, Apple.

@@ -1,5 +1,0 @@
-h1. Burnination
-
-I was long overdue to run this site's feeds through "FeedBurner":http://www.feedburner.com.  You can now subscribe to a feed that offers "my del.icio.us links":http://del.icio.us/al3x and "Flickr photos":http://www.flickr.com/photos/al3xpayne/ (if I ever add some) alongside the usual blog posts all in one handy URL: "http://feeds.feedburner.com/al3x":http://feeds.feedburner.com/al3x
-
-Old feeds will still work, of course.

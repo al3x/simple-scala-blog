@@ -1,3 +1,0 @@
-h1. Slicey
-
-If you see this you're "on the slice":http://www.slicehost.com/.  Thanks for playing.

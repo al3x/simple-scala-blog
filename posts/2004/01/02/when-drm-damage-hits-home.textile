@@ -1,9 +1,0 @@
-h1. When DRM Damage Hits Home
-
-My mother and stepfather have taken to listening to audiobooks during their commutes.  My mother tried renting the books in CD format but found it expensive and inconvenient – and then found Audible.  She's been quite happy with the service until this evening, when two chapters of two different books she was after downloaded but did not automatically add themselves to her iTunes (4.2 on Mac OS X 10.3.2) library.
-
-This is the first time such behavior has exhibited in her use of the Audible service.  So she tried figuring it out and then, frustrated, passed the torch to me.  I looked in the usual and unusual places, but couldn't figure out why iTunes had effectively decided it wasn't have a _thing_ to do with those snooty Audible files, no matter _how_ many times I dragged and dropped.
-
-I suggested she write Audible, and I told her this: you remember all that bitching at the dinner table about Digital Rights Management, proprietary formats, yadda yadda yadda?  Well, this is what I was talking about.  If Audible used plain ol' MP3s this sort of thing wouldn't be an issue.  Instead, now that things have inevitably gone wrong with their proprietary protected format, you have to rely on them for a solution or reverse engineer their technology, illegally, if they don't/can't fix it.  That's what you get when you pay for protected content: a shafting.  Beware.
-
-Okay, so I didn't say those last couple sentences.  But you get the idea.  The iTunes Music Store didn't make it cool or legit; DRM still sucks.

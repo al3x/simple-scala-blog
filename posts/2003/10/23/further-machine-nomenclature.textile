@@ -1,9 +1,0 @@
-h1. Further Machine Nomenclature
-
-A ways back I talked about my naming conventions for computers, and mentioned that I had named my previously-nameless iBook in accordance with my "cool short Japanese words" taxonomy.  Well, that taxonomy has been broken.
-
-You may have noticed the moblog photo of Abby, my new cheap-as-fsck-on-eBay workhorse server purchase.  She's one of an array of machines that "llama-san":http://www.umbc.edu/~scottr1/ and I have been collecting for a home network lab of sorts.  As a show of faith when combining our various machines and bits of network kit we agreed to drop our respective naming conventions in favor of a distinct and mutually agreeable pool: girl's names.
-
-Apropos for a couple of lovelorn geeks.  One can say, "hey, is Vanessa working for you?"  And the other can reply, "oh you _know_ how Vanessa works for me!" or some similar double-entendre.  And we both laugh, and then sigh, and then die a little inside.  It works great.
-
-At any rate, I renamed my iBook in accordance with the new scheme.  She's now Lindsey.  We're trying, by and large, to avoid names of female celebrities, friends, ex-girlfriends, relatives, and the like.  I knew a Lindsey back in gradeschool.  We had a third grade thang going on.  It hardly counts.  I'm not even sure if she spelled her name the same way.  But it suits my iBook, and that's all we're going for: girl's name that just sound right for the machine, free of any social context.  It makes for a surprisingly memorable array of machines, the test of a good naming scheme.

@@ -1,9 +1,0 @@
-h1. London.call()-ing
-
-The full speaker list isn't yet online, but I found out over the weekend that I'll be speaking at "RailsConf Europe":http://europe.railsconf.org/ in London this September.  I didn't get a chance to attend RailsConf in Chicago a couple months back so this will be my first time face-to-face with a multitude of other Rails heads.
-
-My talk is entitled "Securing Rails: A Whole-Stack Approach".  As you might guess, I aim to cover the multitude of security concerns that developers face when deploying a production web application.  Some of the material will be Rails-specific and some of it is general-purpose knowledge.  Security can be a dry topic, but I hope to make the talk fun, fast, and information-packed.
-
-T will be coming along with me to London and spending the Thursday and Friday that I'll be in the conference sight-seeing.  We're hoping to stay for a good week but finding cheap accommodations is a bit of a challenge.  We're not crazy about hotels so we're considering trying to rent a tiny flat for the week or some other alternative.
-
-If you have suggestions about anything London-related, speak up.  Favorite lodging, restaurants, sights?  Drop a comment.

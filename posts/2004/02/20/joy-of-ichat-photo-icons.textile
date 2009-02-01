@@ -1,7 +1,0 @@
-h1. The Joy of iChat Photo Icons
-
-Ted Leung "writes":http://www.sauria.com/blog/2004/02/20#823 about his impressions of the pervasive use of photographs throughout Mac OS X, particularly in iChat.  I love it, personally.  Unlike most AIM users I know, I keep a pretty trim buddy list, just those with whom I regularly speak.  I have real photographs of all of them.  I'll even request photographs from the buddies I don't know that well (classmates and campus acquaintances), a request most seem to find bemusingly eccentric ("Mac users are the _craazzzzziest_ people").  In turn, I use a photograph of myself as my buddy icon, something most AIM users find puzzling.
-
-iChat and the other photo-enabled applications on Mac OS X like Mail and Address Book encourage, I believe, a more personal use of potentially impersonal technologies.  It's harder to adopt an "AIM facade" or attitude when you're chatting with friends you can see a picture of, and that's a good thing.  I think there's something lonely about having 150 people on your buddy list you hardly ever talk to, their only visible faces a borrowed Homestar Runner icon or whatnot.
-
-And, as Ted points out, the photographs are a useful visual cue.  I never need to know people's goofy screennames, and I can quickly pick out important correspondence in Mail by looking for messages that display the author's photo, stored handily in my Address Book even though I only ever entered it in iChat.  It's a human touch and a humane touch all in one; one of those great Mac things.

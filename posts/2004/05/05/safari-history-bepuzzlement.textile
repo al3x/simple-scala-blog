@@ -1,5 +1,0 @@
-h1. Safari History Bepuzzlement
-
-I have a problem with Safari and the solution eludes me:  Safari wipes clean the History menu when I quit it.  I can accumulate even several days of links, quit the browser, and find them gone.  This has been the case ever since firing up a copy of "Safari Enhancer":http://www.lordofthecows.com/safari_enhancer.php on my old iBook, and now on the new machine (with a copied-over preference file).  I don't recall modifying any history-related settings with Safari Enhancer, and no pertinent value (ie: DumpHistoryAndPissOffal3x = 1) exists in the com.apple.Safari preferences/defaults.  Grr.
-
-Oh vast knowledge of blogdom, lay thy wisdom before me!

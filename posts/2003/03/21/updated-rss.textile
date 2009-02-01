@@ -1,4 +1,0 @@
-h1. Updated RSS
-
-Taking a cue from "Adam Rice":http://crossroads.net/a/archives/2003_03.php#000878, I'm offering an RSS 2.0 feed at "http://www.al3x.net/index.xml":http://www.al3x.net/index.xml.  The current RSS 1.0 feed that most of you are subscribed to will continue to exist, but if you like the latest and greatest you'll wanna move your news readers to the new feed.  What's up with RSS?  "Mark Pilgrim":http://diveintomark.org/ has a good, if technical, "overview":http://www.xml.com/pub/a/2002/12/18/dive-into-xml.html at O'Reilly's "XML.com":http://www.xml.com/.
-

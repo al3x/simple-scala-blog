@@ -1,3 +1,0 @@
-h1. Ask a Stupid Question...
-
-Jerkcity asks: "why does unix have to be so mean?":http://www.jerkcity.com/jerkcity1660.html

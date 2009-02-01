@@ -1,3 +1,0 @@
-h1. 12 Things To Love About OSS
-
-Marc Andreessen has "twelve reasons he's hot on open source":http://www.informationweek.com/story/showArticle.jhtml?articleID=18400999.  He also has more money than you.  Hmm.

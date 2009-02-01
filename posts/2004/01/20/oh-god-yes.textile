@@ -1,5 +1,0 @@
-h1. Oh God Yes
-
-PHP 5's SimpleXML makes me thoroughly aroused.  "Read about it's good good goodness":http://www.onlamp.com/pub/a/php/2004/01/15/simplexml.html at OnLamp, and then pity the fact that at least my most pressing work has lots to do with PHP but nothing to do with XML.
-
-[In Jackie Gleason/John Stewart voice:] Mmmmm that's good parsing!

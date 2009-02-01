@@ -1,5 +1,0 @@
-h1. The Hot Shit
-
-The "Grex MXF8":http://www.grexultra.com/ is one hot MIDI controller.  Bit of an investment once you've had it shipped from its British maker, I imagine, but its interface has the power and elegance to turn "Live":http://www.ableton.com/ into truly usable DJ tool.  Build quality looks superb from the demo videos available on the site.  Sure would be nice to get my hands on one for testing, but I doubt that's gonna happen; it's not the sort of thing one's local Guitar Center would carry.  Still, if it works as well as it seems to it would make plunking down the money for "Traktor":http://www.traktor-dj.com/ moot if you already rock Live (and I do).
-
-Only a couple things wrong: it's old skool MIDI, not MIDI-over-USB, which means you have to buy a USB adaptor for it.  Dumb.  Because of the lack of USB bus power it needs a wall wart.  Dumber.  And, pet peeve, it doesn't try to integrate an audio interface.  Can't blame 'em for that if it does its job well.  We'll see.

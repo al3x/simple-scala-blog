@@ -1,5 +1,0 @@
-h1. Why I Think About InfoSec and Government
-
-bq. "Without a comprehensive approach to managing security, even known problems can go uncorrected."
-
-Robert Dacey, director of information security issues at the General Accounting Office, testifying on November 19th, 2003, as quoted in "this":http://federaltimes.com/index.php?S=1326703 Federal Times Online article.

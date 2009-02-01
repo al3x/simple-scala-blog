@@ -1,8 +1,0 @@
-h1. Renewed
-
-Apologies to my regular readers and anyone else who had a desperate need for al3x and the information contained herein.  It was a bumpy transition to my new web host, largely due to Moveable Type's flawed re-importation of its own archive format, which catalyzes a whole series of errors, DB_File corruptions, and so forth. But everything is back, minus a couple minor posts, and working far better than before, at least on the server end.  My blogroll is now dynamically generated from my newsreader's exported OPML file and my Technorati Link Cosmos uses real honest-to-god XML parsing! All this means things will be fresher.  Lemon-fresher.
-
-However, as I hinted at before/during the server switch, I'm writing a new blog engine, ergo much of this may be moot in a (hopefully) short while.  It's a project of a friend and I, and largely conceived by him, with a few minor suggestions contributed along the creative process (oh, and probably 90% of the implementation will be on me, but that remains to be seen).  But the basic problem we're trying to solve is the lack of intelligent, lexical, dareisay _semantic_ linkage between blogs and posts within blogs.  We think we can at least take a stab at this issue, fix some things (technical and political) that bug us about current blog engines, and learn Ruby all at once.
-Yeah, we're nuts.  Thanks for asking.
-
-But in the interim I'm gonna keep blogging my lil' heart out here, so keep it locked (preferably to the RSS 2 feed). Thanks for bearing with me.

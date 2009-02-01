@@ -1,3 +1,0 @@
-h1. Innovative Interface Design
-
-I've been used a pretty nondescript CPU load monitor on my Mac OS X system called "LoadInDock":http://homepage.mac.com/takashi_hamada/Acti/MacOSX/LoadInDock/, but it doesn't provide a lot of info about my system for the amount of space it uses.  That's why I was wowed by the Iconfactory's "iPulse":http://www.iconfactory.com/ip_home.asp, an odd little nest of interlocking and concentric circles in varying colors that can tell you your CPU load, memory and disk usage, network stats, and even the date and time, all either in your Dock or a floating window.  So in the same space that I got information about one aspect of my computer, I now get four.  That's effective (and innovative) interface design.

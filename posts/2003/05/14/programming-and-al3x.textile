@@ -1,7 +1,0 @@
-h1. Programming and the al3x
-
-Just finished up my last CompSci "assignment":http://www.cs.umbc.edu/courses/undergraduate/201/spring03/projects/p5/ for the semester.  My implementation compiles, runs, but is lacking one (somewhat minor) detail and spits out one bit of garbage fairly consistently (without segfaulting).  I'm happy enough with it.
-
-These past two semesters have been the first formal computer programming training I've ever had.  Up until now I've dabbled and taught myself, learning and inferring from other people's code.  Most of my experience has been with scripting languages, and often with rather peculiar APIs (for example, the implementation of JavaScript inside Adobe Acrobat).  So learning C in fair detail has been a neat experience.  I've discovered that I'm a pretty adequate programmer; no brilliant hacks, but solid and readable code.  I'm going on next semester to do C++, and I'm sure object oriented programming, which I at least grasp conceptually, will be another fun challenge.  From there, I've designed my custom major to jump around the Computer Science and Information Systems courses a bit, as I'm not interested in being a full-fledged Computer Scientist.  But learning programming in a formal environment has been far more palatable, and more importantly _educational__, than I ever expected.
-
-All that said, linked lists in C suck @^_^@
