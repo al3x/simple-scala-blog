@@ -1,7 +1,7 @@
 package net.al3x.blog
 
 object Config {
-  val pwd = "/Users/al3x/src/blog"
+  val pwd = "/path/to/your/blog"
 
   val postDir   = pwd + "/posts"
   val wwwDir    = pwd + "/www"

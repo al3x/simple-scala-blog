@@ -24,4 +24,4 @@ rebuild:
 	scala -classpath $(CLASSES):$(CLASSPATH) net.al3x.blog.Blog -f
 
 sync:
-	rsync -avz -e ssh /Users/al3x/src/blog/www/ al3x@elsy:/var/www/al3x.net
+	rsync -avz -e ssh /path/to/your/blog/www/ you@your.host:/var/www/blog

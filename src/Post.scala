@@ -17,10 +17,10 @@ class Post(file: File) extends FileHelpers {
 
   val filename = parts(3).split(".textile")(0)
   val relativeUrl = Array(year, month, day, filename).mkString("/") + ".html"
-  val url = "http://al3x.net/" + relativeUrl
+  val url = "/" + relativeUrl
 
   lazy val siteMapDate = Array(year, month, day).mkString("-")
-  lazy val atomId  = "tag:al3x.net," + siteMapDate + ":" + relativeUrl
+  lazy val atomId  = "tag:example.com," + siteMapDate + ":" + relativeUrl
 
   lazy val title = Source.fromFile(file).getLine(1).split("h1. ")(1)
 

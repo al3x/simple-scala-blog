@@ -8,19 +8,19 @@ class Sitemap(posts: Seq[Post]) {
   lazy val sitemap =
   <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>http://al3x.net/</loc>
+      <loc>http://example.com/</loc>
       <lastmod>{lastPostDate}</lastmod>
       <changefreq>daily</changefreq>
       <priority>1.0</priority>
     </url>
     <url>
-      <loc>http://al3x.net/about.html</loc>
+      <loc>http://example.com/about.html</loc>
       <lastmod>{lastPostDate}</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
     </url>
     <url>
-      <loc>http://al3x.net/archive.html</loc>
+      <loc>http://example.com/archive.html</loc>
       <lastmod>{lastPostDate}</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.7</priority>

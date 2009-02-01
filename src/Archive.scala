@@ -39,7 +39,7 @@ class Archive(posts: Seq[Post]) extends FileHelpers {
 
   def write = {
     val templatizedBody = templatizeFile(new File(Config.template),
-                                         immutable.Map("XTITLE" -> "Archived Online Writings",
+                                         immutable.Map("XTITLE" -> "Archive",
                                                        "XBODY"  -> yearsDiv.toString))
     writeFile(new File(Config.archivePath), templatizedBody)
   }

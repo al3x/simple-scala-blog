@@ -1,16 +1,20 @@
-h1. al3x's Blog
+h1. Simple Scala Blog
 
 A lightweight blogging system, designed to transmute a directory of Textile files into an equivalent directory of HTML files with a minimum of fuss.
 
 h2. Rationalization
 
-Writing a custom blogging system is a wholly unnecessary act. This system was written so the author could muck about with Scala. Though there's some basic attempt at providing a configuration mechanism, templates and logic are far too intertwined to make this a reusable blogging system. It may yet improve in that respect, but don't hold your breath.
+Writing a custom blogging system is a wholly unnecessary act. This system was written so the author could muck about with Scala. Though there's some basic attempt at providing a configuration mechanism, templates and logic are currently too intertwined. Improving this is an exercise for the reader/forker.
 
-You're encouraged to borrow chunks of code you fancy, but you'd be mad to build a site on this wholesale. The good parts are mostly the use of XML literals. You might find the FileHelpers trait handy too, as it provides easy-to-use methods for stuff that should really be in java.io.File or similar.
+You're encouraged to borrow chunks of code you fancy. The good parts are mostly the use of XML literals. You might find the FileHelpers trait handy, as it provides easy-to-use methods for stuff that should really be in java.io.File or similar.
 
 h2. Requirements
 
 * Scala (tested with 2.7.2 final)
 * GNU Make
-* JTextile (included)
+* JTextile (included, but is kind of wonky)
 * GNU RegExp for Java (included)
+
+h2. License
+
+Licensed under the "Apache Public License, Version 2":http://www.apache.org/licenses/LICENSE-2.0.html.

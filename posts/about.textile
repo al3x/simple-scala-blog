@@ -1,0 +1,3 @@
+h1. About
+
+Here's where information about your blog would go.
